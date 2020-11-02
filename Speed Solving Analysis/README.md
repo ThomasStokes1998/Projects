@@ -16,3 +16,13 @@ I am interested in answering the following questions:
 As well as adding the following features:
 * A relay leaderboard
 * A scoring system
+
+# Relay Leaderboard
+
+There are 6 NxNxN puzzles that are speed solved in WCA competitions, from 2x2x2 up to 7x7x7. Solving all these puzzles in succession is called a 'Relay'. Relay's are not an
+official event in the WCA but theoretical times can be calculated from the leaderboards for 2x2x2 up to 7x7x7. The Relay leaderboard I produced takes all the competitors that
+have both an official single and average time in all the NxNxN events from 2x2x2 up to 7x7x7 and then sums them up to calculate their Relay times.
+
+The score is calculated by normalising the relay times and then putting the results through a sigmoid function (takes the normalised times as inputs and outputs a number 
+between 0 and 100). \
+Here is a histogram of the relay times
