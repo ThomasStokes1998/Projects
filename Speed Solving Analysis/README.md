@@ -26,3 +26,4 @@ have both an official single and average time in all the NxNxN events from 2x2x2
 The score is calculated by normalising the relay times and then putting the results through a sigmoid function (takes the normalised times as inputs and outputs a number 
 between 0 and 100). \
 Here is a histogram of the relay times
+!Img[](https://github.com/ThomasStokes1998/hello-world/blob/master/images/wca_relay_single.png)
