@@ -24,6 +24,6 @@ official event in the WCA but theoretical times can be calculated from the leade
 have both an official single and average time in all the NxNxN events from 2x2x2 up to 7x7x7 and then sums them up to calculate their Relay times.
 
 The score is calculated by normalising the relay times and then putting the results through a sigmoid function (takes the normalised times as inputs and outputs a number 
-between 0 and 100). \
-Here is a histogram of the relay times
-!Img[](https://github.com/ThomasStokes1998/hello-world/blob/master/images/wca_relay_single.png)
+between 0 and 100). The full list of relay times can viewed by clicking on the WCA_Relay.csv file. \
+Here is a histogram of the relay times:
+![](https://github.com/ThomasStokes1998/hello-world/blob/master/images/wca_relay_single.png)
