@@ -6,10 +6,8 @@ I am a speed solver myself, and I have also been to a couple of competitions org
 The WCA has a website where they show competitions (both upcoming and past ones) as well as leaderboards for the various events that are speed solved at competitions. The data for
 the leaderboards is also freely able to be downloaded from their website: https://www.worldcubeassociation.org/results/misc/export.html. 
 # Summary
-Obviously, since I am a speed solver myself (and on the database) I am personally interested this dataset.  I have posted a copy of the dataset in the WCA Database folder, the WCA
-itself updates the database daily, however since competitions tend to only happen on weekends, my version may be a couple of days behind the official database. The WCA Database 
-folder has a README.md file produced by the WCA that gives the proper credits for the database, outlines how the database can be used and republished and explains specifically what
-the dataset contains. 
+Obviously, since I am a speed solver myself (and on the database) I am personally interested this dataset. The information in the WCA database is based on competition results 
+owned and maintained by the World Cube Assocation, published at https://worldcubeassociation.org/results. 
 
 I am interested in answering the following questions:
 * How fast are competitors improving? 
