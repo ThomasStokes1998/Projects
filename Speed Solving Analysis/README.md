@@ -21,7 +21,8 @@ As well as adding the following features:
 
 There are 6 NxNxN puzzles that are speed solved in WCA competitions, from 2x2x2 up to 7x7x7. Solving all these puzzles in succession is called a 'Relay'. Relay's are not an
 official event in the WCA but theoretical times can be calculated from the leaderboards for 2x2x2 up to 7x7x7. The Relay leaderboard I produced takes all the competitors that
-have both an official single and average time in all the NxNxN events from 2x2x2 up to 7x7x7 and then sums them up to calculate their Relay times.
+have both an official single and average time in all the NxNxN events from 2x2x2 up to 7x7x7 and then sums them up to calculate their Relay times. 
+The Relay_Country.ipynb file uses the Relay table to create equivalent leaderboards for different countries and continents.
 
 The score is calculated by normalising the relay times and then putting the results through a sigmoid function (takes the normalised times as inputs and outputs a number 
 between 0 and 100). The full list of relay times can viewed by clicking on the WCA_Relay.csv file. \
