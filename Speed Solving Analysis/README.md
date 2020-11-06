@@ -31,3 +31,10 @@ Here is a histogram of the relay times:
 
 Here are the current top 10 times:
 ![](https://github.com/ThomasStokes1998/hello-world/blob/master/images/wca_relay_top10.PNG)
+
+# Competitor Improvement
+
+The WCA has been hosting competitions for 17 years now, in that time 138,000 people have successfully solved a Rubik's cube in a competition. The more competitors there are
+the better the top times will be since there it will be more likely that there will be competitiors who are significantly faster than the average solver. 
+
+![](https://github.com/ThomasStokes1998/hello-world/blob/master/images/uk_comp_1.png)
