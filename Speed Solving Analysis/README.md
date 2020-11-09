@@ -41,3 +41,7 @@ This graph shows the the upper quartile times for the first round of 3x3x3 at UK
 5 years. Normally achieving a time faster the upper quartile is enough to make it to the next round.
 
 ![](https://github.com/ThomasStokes1998/hello-world/blob/master/images/uk_comp_1.png)
+
+Another way to think about competitiveness is how close the leaderboards are at various times. This graph shows how many competitors are within 0.1 seconds of a given time. 
+
+![](https://github.com/ThomasStokes1998/hello-world/blob/master/images/wca_rank_1.png)
