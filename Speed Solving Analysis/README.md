@@ -37,4 +37,7 @@ Here are the current top 10 times:
 The WCA has been hosting competitions for 17 years now, in that time over 140,000 people have successfully solved a Rubik's cube in a competition. The more competitors there are
 the better the top times will be since there it will be more likely that there will be competitiors who are significantly faster than the average solver. 
 
+This graph shows the the upper quartile times for the first round of 3x3x3 at UK competitions since 2006. As you can see the times have remained fairly steady over the past
+5 years.
+
 ![](https://github.com/ThomasStokes1998/hello-world/blob/master/images/uk_comp_1.png)
