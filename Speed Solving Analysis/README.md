@@ -1,5 +1,5 @@
 # What is Speed Solving?
-The goal of speed solving is to solve the Rubik's Cube (and similiar puzzles) as fast as possible. Most speed solvers are able to do this in under 20 seconds. There is an
+The goal of speed solving is to solve the Rubik's Cube (and similar puzzles) as fast as possible. Most speed solvers are able to do this in under 20 seconds. There is an
 organisation called the World Cube Association (WCA) which organises competitions in which speed solvers can compete and get official times that are posted on leaderboards.
 I am a speed solver myself, and I have also been to a couple of competitions organised by the WCA. 
 
