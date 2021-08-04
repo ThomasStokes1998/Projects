@@ -24,7 +24,7 @@ scratch = False
 persons = results.personId.nunique()
 personlist = results.personId.unique()
 if not scratch:
-    elotable_scratch = pd.read_csv("elotable_7000.csv")
+    elotable_scratch = pd.read_csv("elotable_7072.csv")
     for wcaid in list(elotable_scratch.columns):
         elo_dict[wcaid] = list(elotable_scratch[wcaid])
 print("ELO dictionary finished.")
@@ -129,11 +129,11 @@ count = 0
 if scratch:
     start_val = 0
 else:
-    start_val = 7000
+    start_val = 7072
 total_comps = results.competitionId.nunique()
 list_comps = results.competitionId.unique()
 init_t = datetime.now()
-comp_date = "07_2021"
+comp_date = "08_2021"
 start = True
 if start:
     print("Started")
@@ -174,6 +174,7 @@ if start:
                 print("=" * 20 + competition + "=" * 20)
                 m = datetime.now()
     # Complete ELO Table
+    elotable = pd.DataFrame(elo_dict)
     elotable.to_csv("elotable_" + str(count) + ".csv", index=False)
     print("Finished")
     print("Elapsed time:", datetime.now() - init_t)
