@@ -9,7 +9,7 @@ than expected. The special thing about ELO points is that the amount of points y
 round of 3x3x3 probably means you won't lose many ELO points unless you're Max Park.
 
 In full: The object the algortihm modifies is a dictionary that contains all the ELO scores for all the competitors. The keys for the dictionary are the WCAID's for the 
-competitors and the entry is a list that contains the competitors ELO scores. Algorithm steps:
+competitors and the entry is a list that contains the competitors ELO scores. The code can be found on lines 68-150 of the "wca_elo.py" file, here are the steps listed in english:
 1. For a given competition the algorithm starts by getting all the results for the competition and all the events held at that competition.  
 2. Find the index numbers for each event in the competition.
 3. For each event find all the rounds for this event at the competition and calculate the ELO weight based on the type of event (see below for weightings).
