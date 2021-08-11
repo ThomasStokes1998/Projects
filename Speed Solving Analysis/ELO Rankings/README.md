@@ -18,7 +18,7 @@ competitors and the entry is a list that contains the competitors ELO scores. Th
  (default entry for home's with no official results in an event).
 6. Next check if the ELO score for home in this event is -1. If so then change the ELO score to 1000 (default for first time competitors).
 7. Loop through all competitors (from now on referred to as "away") below our current competitor in the list and repeat steps 5 and 6.
-8. Calcualte the points needed to added and subtracted from home and away respectively (see below for formulae).
+8. Calculate the points needed to added and subtracted from home and away respectively (see below for formulae).
 9. Add the appropiate points to home and subtract the appropiate points from away. If away's score is negative set it to zero.
 10. Check if home set any national, continental or world records if so add 10, 20 or 50 points respectively.
 11. Repeat steps 5-10 for every competitor in the round then repeat steps 4-10 for every round and 3-10 for every event in the competition.
