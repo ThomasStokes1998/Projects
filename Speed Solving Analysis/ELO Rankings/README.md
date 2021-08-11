@@ -37,4 +37,4 @@ Worlds | x2
 Home ELO = Weighting * ( 1 - 1 / (1 + e^{λ(away - home)}) ) \
 Away ELO = -Weighting * 1 / (1 + e^{λ(home - away)}) ) \
 Where Home ELO and Away ELO are the amounts to be added respectively, home and away are the current ELOs of the two competitors and λ is a parameter that enusres a sensible
-amout of ELO is added / subtracted.
+amout of ELO is added / subtracted and is set as 0.02 in the current version of the script.
