@@ -1,1001 +1,2006 @@
-personId,222
-2006LAPI01,167
-2005KOZK01,874
-2007POLK01,707
-2003VAND01,247
-2005KURC01,126
-2006WLOS01,449
-2003BRUC01,553
-2004GALL02,122
-2005LUCZ01,692
-2006GALE01,449
-2006GORS01,117
-2006ORKE01,136
-2006FRAN01,241
-2006PRUS01,147
-2006KUTI01,206
-2007ALEX01,184
-2006ROBA01,172
-2006CUDZ01,365
-2006ZAWI02,95
-2005STUD01,142
-2006ZAWI01,123
-2005CIAL02,180
-2004NAGY01,182
-2005KOCZ01,379
-2007BODO01,804
-2005KREZ01,153
-2005PEER01,119
-2007JIPT01,198
-2003DENN01,480
-2006BURN01,131
-2007JAKU01,853
-2005KACP01,97
-2007GORS01,91
-2003ZBOR02,148
-2007KRZY01,113
-2006MORG01,277
-2007STAW01,126
-2006WOJT01,165
-2007KORZ01,141
-2007LAGI01,110
-2007MROZ01,-1
-2006PRZE01,415
-2005DURK01,126
-2007GANC01,118
-2006SEWE01,111
-2007POTO01,218
-2006GUZE01,128
-2007HABE01,120
-2006BITE01,95
-2005PETA01,111
-2006CHOJ01,134
-2007PONI01,-1
-2005PAWL01,-1
-2007WOLN01,106
-2005ZOLN01,185
-2006PAWL01,282
-2005GAWE01,128
-2006OLBR01,115
-2007WRON01,119
-2006MARC01,127
-2005BORY01,113
-2006MATU02,100
-2006STWO01,95
-2007WACL01,110
-2006OOMS01,-1
-2007SADO01,-1
-2005JOKS01,-1
-2007DULD01,113
-2007JASI01,-1
-2003ZBOR01,-1
-2006CZOP01,-1
-2005WOLA01,99
-2007MITO01,-1
-2007RZEP01,111
-2006SZWA01,105
-2007GUZE01,-1
-2007LUJI01,224
-2006JANG01,128
-2007LICH01,137
-2007CHEN06,-1
-2007TONG01,-1
-2006CHOU01,-1
-2007LINS01,-1
-2007CHEN08,135
-2006JAIW01,-1
-2006TSAI03,1004
-2007WUPE01,-1
-2006FENG02,-1
-2006KANG02,145
-2007CHEN07,138
-2006CHEN03,-1
-2007LIUS01,-1
-2007SHIU02,200
-2007LINW01,133
-2006LINC01,577
-2007CHOU01,101
-2007YANG01,-1
-2007HOYI01,-1
-2007CHAN03,122
-2007WANG05,-1
-2007LIKU01,-1
-2007CHIN01,-1
-2007PENG01,-1
-2007XUBI01,-1
-2007CHAN08,-1
-2007SUNT01,259
-2007KEZH01,143
-2007WEIY01,164
-2007JIAN02,352
-2007LIJO01,370
-2007CHUE01,564
-2007CHEN11,124
-2007HOHU01,704
-2007ZHAN03,119
-2007KUEN01,116
-2007ZHAN02,122
-2007LINW02,109
-2007LIZH02,105
-2007JIAN01,101
-2007XIEE01,464
-2007XUPE01,-1
-2007XUYU01,-1
-2007CHEN10,-1
-2007ZHON01,121
-2007ZHEN01,-1
-2007YEYU01,-1
-2007LIQI01,-1
-2007ZHUJ01,-1
-2007YIZI01,-1
-2007PENG02,-1
-2007CHEN12,-1
-2007YANG02,-1
-2007LUZH01,-1
-2007LUYU01,-1
-2007LISI01,-1
-2007LANJ01,-1
-2007HUAN02,134
-2007CHEN09,-1
-2007JIZI01,-1
-2007PANZ01,-1
-2007YAOM01,-1
-2007ZHOU02,113
-2007LONG01,-1
-2007LIAN01,-1
-2007TANG01,104
-2007LUOZ01,-1
-2007MEIY01,-1
-2007HEMI01,-1
-2007CHEN13,-1
-2007OUPE01,-1
-2007ZHOU01,-1
-2007LUOR01,-1
-2007LONG02,104
-2007WUSH01,-1
-2007LIZH01,-1
-2007LIUY01,-1
-2007TANY01,-1
-2007LIZH03,-1
-2006KRUE01,938
-2007WEIZ02,-1
-2007NALA01,99
-2005BATI01,194
-2005AKKE01,1036
-2003MAKI01,121
-2006ORLA01,147
-2004KRIG01,637
-2006JACQ01,132
-2007HORV01,279
-2006TABU02,154
-2007RUFF01,151
-2005OOMS01,165
-2004CHAM01,146
-2003HARD01,598
-2006GUNJ01,813
-2003POCH01,223
-2005CALV02,135
-2003HARR01,141
-2004ROUX01,128
-2004LOLE01,156
-2005SUSE01,280
-2004NOOR01,122
-2007LIPC01,139
-2006SOUC01,427
-2007CSAN01,136
-2007HOMO01,142
-2006YUMO01,138
-2006ARAK01,790
-2004ZAMO01,231
-2005THOM01,270
-2006JOHA01,141
-2006DZOA03,150
-2004KRIG02,136
-2005OOTS01,129
-2004FERN01,123
-2004MAOT01,142
-2003BURT01,410
-2007ROKA01,212
-2004FELI01,84
-2007FEKE01,134
-2006MATI02,492
-2004NILS01,108
-2005KOSE01,606
-2005REYN01,845
-2007PERG01,294
-2007LOPE01,129
-2006BUUS01,993
-1982RAZO01,124
-2007MOKR01,133
-2007POLI01,747
-2006STAD01,480
-2007LACZ01,149
-2007SINT01,494
-2007GOUL01,964
-2004GALL01,149
-2007KOND01,119
-2007LABS01,116
-2007HORV02,114
-2006LAMA01,125
-2007KOPA01,137
-2006MATH01,93
-2006BUUS02,142
-2007FRAJ01,104
-2003LARS01,173
-2003LEEJ01,121
-2006ARAK02,93
-2007ELEK01,92
-2005AKUZ01,112
-2006SATT01,109
-2007DIAZ01,129
-2005GUST02,138
-2007PETE01,75
-2004WOLF01,51
-2005SIMO01,198
-2005HERC01,92
-2007ORTI01,115
-2006PIRZ01,382
-2006HOPD01,39
-2007CICH01,123
-2007BALO03,23
-2007HESS01,681
-2006BEYE01,82
-2007NOVA01,0
-2006BONN01,-1
-2007KOVA01,139
-2007FODO01,132
-2004FONN01,118
-2007FEHE01,113
-2003VOMB01,-1
-2007GRAB01,103
-2007KARA01,109
-2007BUDI01,-1
-2007RUFE01,-1
-2007KERE03,-1
-2007SZAB01,-1
-2007BALO01,-1
-2007DANI02,92
-2007MOLI01,-1
-2007URIA01,124
-2005KERE01,-1
-2007OLAJ01,-1
-2007ZISI01,-1
-2007GOEP01,-1
-2007PETR01,-1
-2007KERE02,-1
-2007CHRI02,112
-2007BERN01,465
-2005FARK01,-1
-2007JANK01,140
-2007BALO02,-1
-2007HANS01,-1
-2007PETO01,-1
-2007DANK01,-1
-2007GALE01,-1
-2005FERE01,106
-2007JURG01,-1
-2007BERT03,-1
-2005NAGY01,134
-2007BERT02,-1
-2007KERE01,109
-2007ROMF01,-1
-2007KADA01,-1
-2007SATT01,-1
-2007BERE02,-1
-2006REYN01,87
-2007MAGY01,-1
-2007TAKA02,-1
-2007LAYH01,-1
-2007PREU01,-1
-2004PONS01,118
-2007CHAN07,-1
-2007NAKA03,187
-2005VANH01,171
-2004PATR01,-1
-2006KANG01,140
-2006TEMM01,338
-2003MORG01,-1
-2003MORR01,151
-2007GUIM01,547
-2006OOKU01,142
-2004MAOT02,111
-2006MOND01,-1
-2007ENDR01,232
-2003BADI01,-1
-2004CHAN04,114
-2007MULL02,132
-2007KRAU01,-1
-1982PETR01,-1
-2007LENO01,115
-2007SMOH01,115
-2005WALT01,-1
-2006HOPM01,-1
-2004ZIJD01,-1
-2005PUDI01,-1
-2007MAIR01,97
-2005SZAB02,129
-2007TAKA01,134
-2006BUDI01,-1
-2003SCHE01,-1
-2007MESC01,-1
-2004COCK01,121
-2005VANH02,108
-2006VARG01,-1
-2007FAZE01,-1
-2006NOVA01,-1
-2007OEYM01,449
-2005PANC01,-1
-2007CSEN01,-1
-2005GILL01,-1
-2005UHLI01,-1
-2007MESZ01,259
-2007RUDA02,-1
-2006JOHA02,94
-2007RUDA01,-1
-2007JARA01,121
-2006SCHI01,-1
-2006LOUI01,116
-2007ROKA02,383
-2005KANT01,145
-2007GRAU01,-1
-2005STIL01,-1
-2007HASH01,-1
-2007DAVI01,-1
-2006AUST01,281
-2007POLS01,103
-2007FASB01,105
-2007CHOT01,103
-2007PROV01,84
-2003HELT01,126
-2004BOSS01,116
-2007LITW01,109
-2006PEET01,-1
-2004GEEL01,-1
-2005WOIT01,361
-2004BAYE01,-1
-2007SCHU01,-1
-2007KOZI01,86
-2006ADMI01,-1
-2004BECH01,-1
-2006TSCH01,-1
-2007WEIN01,133
-2005BOSS01,103
-2007STRE01,391
-2007WEIN02,101
-2007BARO01,-1
-2007SCHU02,-1
-2006WALT01,-1
-2005PATZ01,-1
-2006BIRK01,-1
-2007SCHO02,110
-2007FARE01,146
-2007CHRI03,153
-2007KALK02,98
-2007KALK01,82
-2007ORTR01,122
-2007SCHE01,-1
-2006BORS01,-1
-2006DUDD01,-1
-2007MECH01,-1
-2007NEUD01,91
-2005HANN01,-1
-2007WOLL01,-1
-2007THOM02,174
-2007WAPP01,192
-2003RUET01,119
-2007HEVE01,121
-2003BABC01,115
-2007CHAP02,115
-2007ANTO01,112
-2007DARG01,123
-2005FERN01,243
-2007BAIL01,143
-2007LOGA01,119
-2007QUIS01,-1
-2007ANDE01,125
-2007HINO01,-1
-2007FISC01,-1
-2007MCCO01,-1
-2007CHAP01,-1
-2007CHRI04,109
-2007JRAN01,-1
-2007LOGA02,-1
-2007COHE01,583
-2007YUAL01,133
-2007JOHN02,376
-2006CORR01,815
-2005GREE02,116
-2007COMP01,351
-2007ROSE02,135
-2007CHOI01,109
-2007BOYL01,159
-2006SAWL01,311
-2007EHRI01,131
-2007HEAT01,121
-2007NELS03,-1
-2007COMP03,-1
-2007CHIA01,98
-2006KHOS01,115
-2007COHE02,116
-2007BENI01,121
-2006NORS01,100
-2007HERZ01,184
-2007ESTE01,268
-2007STER01,159
-2007JAME01,160
-2007WEIE01,133
-2007KARS01,114
-2007BRUS01,131
-2007WOOJ01,90
-2007EPST01,177
-2007KEME01,-1
-2007LESL01,124
-2007SCIA01,120
-2006OUYA01,111
-2007ROSE03,82
-2007TAMA02,206
-2007BARB01,111
-2007CLEM01,-1
-2007DIPA01,129
-2007REIT01,-1
-2007NELS02,238
-2007SZCZ01,115
-2007YUSK01,-1
-2007CHAN10,91
-2007OBRI01,94
-2007BAIR01,-1
-2007GULI01,-1
-2007HEGL01,-1
-2007COMP02,-1
-2006BARL01,785
-2006PEMB01,129
-2004CONN01,106
-2007BLAC02,105
-2007VALL01,112
-2007CHIE01,150
-2007MOBL01,-1
-2007LENN01,118
-2007KANG03,121
-2006WALL01,108
-2007DERR01,-1
-2007COOP01,121
-2007SCOT01,-1
-2007FELT01,99
-2007CALL01,-1
-2007GRAY02,-1
-2007COCH01,91
-2007JAFF01,-1
-2007ROGE01,-1
-2007ELLI01,-1
-2006KITC01,-1
-2007WATA02,106
-2007MASO01,114
-2006WANG04,-1
-2005VALD01,-1
-2007NELS01,265
-2006LEVI01,-1
-2007DURA01,103
-2005WUKE01,134
-2007LISI02,145
-2006WRIG01,341
-2007SEID01,811
-2005LODA01,108
-2006DZOA02,151
-2005LWIN01,-1
-2006GOTT01,540
-2007LING01,150
-2007MAHA01,-1
-2007YUKE01,-1
-2007YUGU01,143
-2007ZHUS01,-1
-2006GLEC01,-1
-2004CHAN02,163
-2007HERN02,533
-2007QATT01,-1
-2007RODR03,-1
-2007WANG06,-1
-2007LEUN01,-1
-2005BENN01,124
-2007BROW01,-1
-2007KERA01,-1
-2004OVAD01,-1
-2007LIUM01,110
-2006MUHL01,-1
-2007CABL01,-1
-2007TAMU01,-1
-2006FENG01,98
-2007CAPE01,-1
-2007TANG02,-1
-2007WERN01,114
-2007CHAN11,-1
-2007HITC01,-1
-2007LANG01,-1
-2007NGDA01,-1
-2007BREE01,106
-2005XIEE01,132
-2007HINK01,-1
-2007CHEN14,-1
-2006KRUS01,-1
-2007HEEC01,117
-2007ASBJ01,101
-2007HUAN03,-1
-2006ETTI01,-1
-2007MAHA02,-1
-2007JOHN03,-1
-2007LANG02,-1
-2007ROBI03,-1
-2007GUTI01,99
-2007ASHB01,-1
-2007RODR04,-1
-2006OOKU02,172
-2007SUGA01,325
-2006OKAY01,146
-2005TAKA02,124
-2005SAKA01,117
-2006HIRO02,105
-2007AKUT01,107
-2006SUZU03,-1
-2006ANDO01,319
-2007HIRO01,-1
-2007DODE01,-1
-2007UEHA01,-1
-2007HIRA03,-1
-2006TOKU01,-1
-2007MAKI01,124
-2006UEMU01,-1
-2007OHMA01,-1
-2007TAKA03,-1
-2007KATO02,-1
-2006ZHEN02,-1
-2007ADSU01,174
-2007SHID01,132
-2006KARP02,109
-2007SAIN01,-1
-2006KIMB01,-1
-2006TSAO01,201
-2005KWON01,-1
-2006MOIT01,-1
-2007MCKE01,-1
-2006GARR01,762
-2005WONG04,141
-2006CHIU01,107
-2007LEBR01,119
-2006GOME01,168
-2005COCH01,135
-2006TANB01,-1
-2005YANG01,119
-2006POSE01,-1
-2007SHIU01,111
-2005FLEI01,570
-2006YOUN03,111
-2006ADAM01,523
-2007HEMK01,-1
-2006TAND01,-1
-2005HOGA01,-1
-2007BLAC01,-1
-2007CHAN12,-1
-2007JIAN03,-1
-2006FIER01,-1
-2007GUGG01,-1
-2007YIUG01,-1
-2007PHIL01,-1
-2007CHEN15,101
-2007WANG07,-1
-2007PINE01,-1
-2007WULE01,-1
-2007WEIS01,-1
-2005CHAN02,-1
-2007LUOM01,-1
-2007WOOB01,119
-2007YEEA01,-1
-2007CHOW01,148
-2007GONG01,-1
-2006KARP01,112
-2007WOOA01,-1
-2007BLAN01,-1
-2007FIER01,-1
-2007KOEH02,-1
-2007WONG01,-1
-2007ALMA01,140
-2007WOOR01,806
-2007MILL01,98
-2007RALS01,-1
-2007BAUT02,-1
-2007CHEN16,-1
-2007WEIK01,-1
-2007KUOD01,-1
-2007ADSU02,-1
-2006NACO01,-1
-2007LEES01,-1
-2007PARK05,-1
-2006DOOL01,-1
-2007ADAM01,-1
-2007BEES01,-1
-2007SLOO01,-1
-2007BAKK01,-1
-2007KRUI01,-1
-2004STEE01,-1
-2007ENDD01,-1
-2007POSM01,-1
-2007HEUP01,-1
-2007VALK01,1238
-2007BAKK02,125
-2007SLOO02,-1
-2007KRIJ01,165
-2007ZAND01,123
-2005PLOM01,-1
-2005BAUM01,136
-2007GIBN01,119
-2007SAHA01,117
-2007ALIW01,467
-2007ALIS01,133
-2007HUGH01,522
-2007BUNT01,129
-2007ZAMO01,-1
-2007ROUT01,-1
-2007FRYE01,-1
-2007HUGH04,88
-2007HUGH03,170
-2007HUGH02,-1
-2005BRYA01,-1
-2007BEYE01,-1
-2006EIDE01,164
-2005THON01,143
-2005BOUC01,350
-2007LIME01,342
-2007MOSE02,122
-2007CORU01,159
-2005CAMP01,134
-2007GAMB01,331
-2007JOOD01,159
-2007BRYA01,119
-2007LEEJ03,130
-2007BYRT01,-1
-2007POSE01,126
-2007HARP01,-1
-2007SECO01,-1
-2006MART03,133
-2007WEST02,122
-2007VENI01,-1
-2007LIBI01,134
-2007MOSE01,98
-2007STOV01,-1
-2007LEUN02,-1
-2007SHAW01,117
-2007HOSK01,115
-2007MAIS01,-1
-2007BRAN01,-1
-2007LEUN03,126
-2007MOSE03,100
-2007MART04,-1
-2007STRO01,130
-2007DUAN01,-1
-2007SANM01,-1
-2007DOUT01,399
-2007KIMD01,-1
-2003FALM01,-1
-2007CAVL01,-1
-2007YUJA01,-1
-2007HALL02,-1
-2007INOC01,-1
-2007LEEJ02,-1
-2007STIL01,-1
-2007GOES01,94
-2007VUCK01,-1
-2003ATTA01,-1
-2007KIMS01,-1
-2007SHAB01,-1
-2007TYER01,-1
-2007STUU01,-1
-2007NOVO01,-1
-2006MATI01,98
-2007MOKK01,-1
-2007RYOO01,-1
-2005WALT02,132
-2005ANGO01,276
-2007RODR01,143
-2005TOLE01,561
-2007AGUA01,202
-2005ANGE01,-1
-2007KUPF01,134
-2005PARI01,356
-2005VIDA01,106
-2006DEPE01,122
-2007MEDI01,111
-2006MORE01,134
-2007CONT01,218
-2005NAVA01,120
-2007FRAN01,111
-2007PERE01,-1
-2007REBU01,-1
-2007GOTA01,103
-2004OLCI01,115
-2005MUNO01,107
-2005MARI01,129
-2007JIME01,119
-2007IRAS01,114
-2007CAFF01,123
-2007REBU02,-1
-2005MUNO02,-1
-2006FORT01,119
-2007VILA01,109
-2007REBU03,-1
-2005MORE01,114
-2007MERC02,-1
-2004LUIS03,367
-2007IRAS02,-1
-2007CONT02,115
-2007SEVI01,-1
-2006IRAS01,-1
-2007SERR01,-1
-2007SCHE02,-1
-2007SANC01,114
-2007SEMP01,50
-2007MILA01,-1
-2007GRAN02,157
-2007GRAN01,103
-2007BATL01,-1
-2007FIDE01,173
-2007TAMB01,139
-2007ALCA01,181
-2007CERP02,193
-2007CINO01,721
-2007KAWA01,175
-2007KURO01,117
-2007LAFE01,143
-2007RIBE01,139
-2007CAPR01,117
-2007BRIT01,111
-2007TATE01,121
-2007CERP01,116
-2007LAFE02,-1
-2007MICH01,116
-2007SANT02,-1
-2007ROCH01,126
-2007CAMP01,107
-2007GOIS01,-1
-2007BRAU01,108
-2007FILH01,-1
-2007PECC01,-1
-2007REIS01,114
-2007GALL01,-1
-2007HOLD01,-1
-2007HOLD02,-1
-2007NAKA04,-1
-2007HEID01,-1
-2007HOLD03,-1
-2007YUNQ01,1077
-2007FUBO01,617
-2007ZHUH01,133
-2007YIWE03,125
-2007LUCH02,115
-2007YITI01,111
-2007JION01,126
-2007ZHEN02,124
-2007MING01,825
-2007QIAN01,126
-2007ZEZH01,134
-2007YUNS01,129
-2007MENG01,110
-2007YIWE01,123
-2007PENG03,110
-2007XING01,101
-2007TING01,96
-2007KAIH01,92
-2007CHAN13,-1
-2007DANY01,116
-2007MING02,116
-2007GUOS01,-1
-2007ZHAO01,-1
-2007XIAN01,-1
-2007GEQU01,114
-2007JIEO01,-1
-2007LARS01,113
-2007ZUQU01,-1
-2007GUOL01,132
-2007YAOC01,-1
-2007YUEP01,-1
-2007YANG03,126
-2007SHIJ01,118
-2007FANG01,-1
-2007MINW01,-1
-2007XINZ01,-1
-2007YAZH01,135
-2007RUIQ01,-1
-2007JIAC01,-1
-2007XIND01,-1
-2007RUIX01,-1
-2007HAOY02,-1
-2007YANG04,-1
-2007YUXU01,-1
-2007BOSH01,-1
-2007WEIW01,-1
-2007ZHUO01,-1
-2007HAOW01,-1
-2007XIUJ01,-1
-2007YONG03,84
-2007SHUF01,126
-2007XIAO02,-1
-2007HANZ01,-1
-2007FANZ01,-1
-2007SHUO01,-1
-2007HOLM01,120
-2007LUND01,129
-2005GAIN01,-1
-2007KRIS01,196
-2007CLAE03,133
-2005ORST01,123
-2005ASPE01,323
-2007CLAE01,126
-2005GUST01,126
-2007KIMB01,110
-2007BERG01,116
-2007CLAE02,113
-2006ASPE01,112
-2007HOLM02,124
-2007JOHA01,-1
-2007WALL02,-1
-2007RUND01,100
-2007PRIN01,-1
-2007KIMB03,-1
-2007KOLL01,289
-2007KIMB02,-1
-2007LUTH01,125
-2007MALL01,123
-2007DUSS01,354
-2007WATI01,143
-2007PERD01,132
-2006BREL01,117
-2007LEEN01,87
-2007AMAN01,-1
-2007BOUR01,-1
-2007LEMO01,333
-2007PIBA01,-1
-2007DJIA01,121
-2007PLAN01,-1
-2007BOUC01,-1
-2008ANGU01,181
-2007PAPA01,155
-2007BAUT01,138
-2007MANZ01,153
-2007MERC01,107
-2008CALA01,132
-2007DAEP01,118
-2008BUEN01,103
-2007NEPU01,89
-2007LUCH01,478
-2007ENRI01,141
-2008DINO01,-1
-2007ORTE01,135
-2007ROGO01,87
-2008DOCT01,131
-2007SANT01,105
-2007NABL01,124
-2008MANA01,133
-2007UYLY01,101
-2008CORP01,132
-2008ANGE01,-1
-2008DELA01,120
-2008GUZM01,-1
-2008ABAN01,324
-2008DAGA01,127
-2008MONC01,85
-2007UYGI01,186
-2007PACI01,112
-2007DIAZ02,-1
-2008IGNA01,128
-2008ESTE02,-1
-2008CAST01,-1
-2008ROJA01,-1
-2008MALL01,98
-2008MONT01,108
-2008ESTE01,-1
-2007LIMO01,-1
-2007MART03,-1
-2008IGNA02,101
-2008BAGU01,-1
-2008RENI01,-1
-2008SIMB01,96
-2008RAMI01,-1
-2008RENI03,-1
-2008RENI02,-1
-2008TORR01,98
-2007HIRA02,129
-2008SASA01,-1
-2006NISH01,143
-2005UEDA01,150
-2008KINJ01,118
-2007CHID01,138
-2008KANN01,109
-2006MURA01,129
-2006TABU01,121
-2005IDEK01,110
-2005IDEK02,-1
-2006IDEK01,-1
-2005TOMO01,-1
-2008TOMO01,-1
-2007OMUR01,502
-2007HYUN01,152
-2007JUNB01,125
-2006HYUN01,115
-2006MYEO01,131
-2007KYOU01,139
-2008YONG02,143
-2008YUNS02,668
-2006YOON01,111
-2006CHAN08,124
-2007GOHO01,819
-2006SEUN02,145
-2008INHE01,115
-2008JEON01,131
-2006SEON01,118
-2008BUMS01,113
-2007JEON01,138
-2008JIWO01,129
-2008HYUN03,139
-2007UIYO01,128
-2007JEEH01,118
-2006JAEY01,788
-2007JAEJ02,126
-2007YOUN04,873
-2006SEUL01,122
-2008JAEW01,124
-2008SEOJ01,123
-2008KEON01,166
-2008SEHA01,142
-2008SANG01,124
-2008HANJ01,120
-2008CHAN02,119
-2007SEUN03,123
-2007DONG01,118
-2008KWAN02,117
-2008YOHA01,116
-2006YOUN02,117
-2007DOHY01,114
-2007KWAN02,110
-2008GUNH01,118
-2008TAEY01,111
-2008JEAB01,109
-2008JAEM01,513
-2008JIHY01,107
-2008HYUN02,103
-2008JISU01,104
-2007SOOA01,105
-2008KWAN01,102
-2008INSU01,100
-2008YEBO01,99
-2008SUNG03,97
-2007YULH01,386
-2008WOOI01,94
-2008DAEK01,93
-2008JISE01,91
-2007JAEY02,133
-2007SUNG01,-1
-2007SEUN02,116
-2007JUNM01,125
-2006HASE01,-1
-2008JONG01,122
-2008SEON01,-1
-2007SEUN04,129
-2006KYUN02,-1
-2007SEOK01,-1
-2008JUNG01,-1
-2006CHAN05,117
-2007JAEH02,-1
-2007HYOE01,249
-2008YOUN01,130
-2008BYUN01,-1
-2008DONG02,834
-2007MINS02,117
-2008KANG01,-1
-2007JOON01,-1
-2006KYUN01,114
-2006WONB01,-1
-2008EUNM01,-1
-2008JIHO01,-1
-2008BYEO01,323
-2008CHAN01,-1
-2008SUNG02,-1
-2008JONG02,-1
-2007HANW01,120
-2007JINH01,-1
+name,222
+"0    Feliks Zemdegs
+Name: name, dtype: object",1377
+"0    Andy Gong
+Name: name, dtype: object",1374
+"0    Jode Brewster
+Name: name, dtype: object",1368
+"0    Lachlan Stephens
+Name: name, dtype: object",1363
+"0    Phoenix Patterson
+Name: name, dtype: object",1353
+"0    Joshua Hounslow
+Name: name, dtype: object",1350
+"0    Zayn Khanani
+Name: name, dtype: object",1342
+"0    Jiazhou Li (李佳洲)
+Name: name, dtype: object",1338
+"0    Yingjian Gong (龚英健)
+Name: name, dtype: object",1333
+"0    Sam Sieracki
+Name: name, dtype: object",1331
+"0    Will Gurnett
+Name: name, dtype: object",1329
+"0    Sky Guo (郭建欣)
+Name: name, dtype: object",1329
+"0    Tim Xie
+Name: name, dtype: object",1329
+"0    Riley Dexter
+Name: name, dtype: object",1329
+"0    Zhibo Jin (金智博)
+Name: name, dtype: object",1326
+"0    Benjamin Warry
+Name: name, dtype: object",1323
+"0    Guanbo Wang (王冠博)
+Name: name, dtype: object",1321
+"0    Rilang Cao (曹日朗)
+Name: name, dtype: object",1314
+"0    David Epstein
+Name: name, dtype: object",1313
+"0    George Scholey
+Name: name, dtype: object",1310
+"0    Tyler Williams
+Name: name, dtype: object",1307
+"0    Xiaoke Xu (徐晓珂)
+Name: name, dtype: object",1307
+"0    Dwyane Ramos
+Name: name, dtype: object",1302
+"0    Zhiyuan Ma (马之元)
+Name: name, dtype: object",1296
+"0    Antonie Paterakis
+1    Antonie Paterakis
+Name: name, dtype: object",1296
+"0    Lennon Hughes
+Name: name, dtype: object",1290
+"0    Huang-Bang Fang (房黃邦)
+Name: name, dtype: object",1289
+"0    Marquez Phan
+Name: name, dtype: object",1287
+"0    Yezhen Han (韩业臻)
+Name: name, dtype: object",1283
+"0    Jiekang Pan (潘杰康)
+Name: name, dtype: object",1278
+"0    Alexey Tsvetkov
+Name: name, dtype: object",1276
+"0    Alexander Bashutkin
+Name: name, dtype: object",1276
+"0    Ethan Stevens
+Name: name, dtype: object",1274
+"0    Joe Davis
+Name: name, dtype: object",1272
+"0    Yibo Wang (王奕博)
+Name: name, dtype: object",1272
+"0    Alexander Vujcich
+Name: name, dtype: object",1269
+"0    Izan Cantero Herrera
+Name: name, dtype: object",1269
+"0    Jayden McNeill
+Name: name, dtype: object",1267
+"0    Kai-Wen Wang (王楷文)
+Name: name, dtype: object",1267
+"0    Jeann Valdez
+Name: name, dtype: object",1266
+"0    Yinghao Wang (王鹰豪)
+Name: name, dtype: object",1261
+"0    Xinyun Chen (陈新运)
+Name: name, dtype: object",1260
+"0    Kajetan Opach
+Name: name, dtype: object",1258
+"0    Yiheng Wang (王艺衡)
+Name: name, dtype: object",1253
+"0    Ivan Polkanov (Иван Полканов)
+Name: name, dtype: object",1251
+"0    Ben Stokes
+Name: name, dtype: object",1251
+"0    Ben Whitmore
+Name: name, dtype: object",1250
+"0    Chenhao Ma (马晨皓)
+Name: name, dtype: object",1249
+"0    Yu-Kai Chen (陳宇楷)
+Name: name, dtype: object",1248
+"0    Xulang Li (黎旭朗)
+Name: name, dtype: object",1244
+"0    Lucas O'Connell
+Name: name, dtype: object",1243
+"0    Nguyễn Khang Minh
+Name: name, dtype: object",1242
+"0    Zhenyu Wang (王振宇)
+Name: name, dtype: object",1242
+"0    Luke Van Laningham
+Name: name, dtype: object",1242
+"0    Alevio Hamizan Ersha
+Name: name, dtype: object",1241
+"0    Chengyang Song (宋成阳)
+Name: name, dtype: object",1239
+"0    Yanchen Zhu (朱彦臣)
+Name: name, dtype: object",1238
+"0    Mats Valk
+Name: name, dtype: object",1238
+"0    Harry Savage
+Name: name, dtype: object",1237
+"0    Angela Braganza
+Name: name, dtype: object",1235
+"0    Bryan Eng
+Name: name, dtype: object",1232
+"0    Bill Hammill
+Name: name, dtype: object",1232
+"0    Carter Kucala
+Name: name, dtype: object",1232
+"0    Łukasz Burliga
+Name: name, dtype: object",1231
+"0    Adam Jagła
+Name: name, dtype: object",1229
+"0    Andrey Che
+Name: name, dtype: object",1229
+"0    Yan-Hung Lai (賴彥宏)
+Name: name, dtype: object",1228
+"0    Charlie Eggins
+Name: name, dtype: object",1226
+"0    Dylan Johnston
+Name: name, dtype: object",1226
+"0    Sendi Hu (胡森迪)
+Name: name, dtype: object",1222
+"0    Jiate Xie (谢佳特)
+Name: name, dtype: object",1221
+"0    Magdalena Pabisz
+Name: name, dtype: object",1219
+"0    Nicholas Paul
+Name: name, dtype: object",1218
+"0    Kai Roff
+Name: name, dtype: object",1218
+"0    Yihan Chen (陈奕涵)
+Name: name, dtype: object",1217
+"0    Alan Siburian
+Name: name, dtype: object",1213
+"0    Lucas Etter
+Name: name, dtype: object",1213
+"0    Dmitry Gundin
+Name: name, dtype: object",1212
+"0    Jiaming Bob Yi
+Name: name, dtype: object",1209
+"0    Yu Tang (唐语)
+Name: name, dtype: object",1209
+"0    Alan Kuo (郭建廷)
+Name: name, dtype: object",1208
+"0    Santino Maiorino
+Name: name, dtype: object",1208
+"0    Daniel Rose-Levine
+Name: name, dtype: object",1208
+"0    Sebastian Outh-Aut
+Name: name, dtype: object",1207
+"0    Eli Jay
+Name: name, dtype: object",1207
+"0    Mingshuo Zhao (赵铭硕)
+Name: name, dtype: object",1206
+"0    Xianjing Wang (王先靖)
+Name: name, dtype: object",1205
+"0    Will Callan
+Name: name, dtype: object",1204
+"0    Ashley Foster
+Name: name, dtype: object",1203
+"0    Canzheng Cao (曹参政)
+Name: name, dtype: object",1203
+"0    Ray Zhang (张灏睿)
+Name: name, dtype: object",1203
+"0    Juliette Sébastien
+Name: name, dtype: object",1202
+"0    Arisandra Soo
+Name: name, dtype: object",1201
+"0    Jasper Murray
+Name: name, dtype: object",1201
+"0    Qingze Li (李庆泽)
+Name: name, dtype: object",1200
+"0    Martin Vædele Egdal
+Name: name, dtype: object",1199
+"0    Sora Sato
+Name: name, dtype: object",1199
+"0    Tomasz Pietruszka
+Name: name, dtype: object",1199
+"0    Kevin Xin (辛轲牛)
+Name: name, dtype: object",1198
+"0    Gerard McGinley
+Name: name, dtype: object",1198
+"0    Oscar Watson
+Name: name, dtype: object",1197
+"0    Jacob Chambers
+Name: name, dtype: object",1195
+"0    Xingkai Yin (尹星凯)
+Name: name, dtype: object",1192
+"0    Diego Fraile
+Name: name, dtype: object",1191
+"0    Daniel Karnaukh
+Name: name, dtype: object",1190
+"0    Fabio Schwandt
+Name: name, dtype: object",1190
+"0    Calven Lipec
+Name: name, dtype: object",1190
+"0    Piotr Tokarski
+Name: name, dtype: object",1189
+"0    Jonathan Charlesworth
+Name: name, dtype: object",1189
+"0    Daniil Rublev (Даниил Рублёв)
+Name: name, dtype: object",1187
+"0    Ping-Yueh Huang (黃品越)
+Name: name, dtype: object",1186
+"0    Sumanth Chandrupatla
+Name: name, dtype: object",1184
+"0    Darcy Andrikonis
+Name: name, dtype: object",1184
+"0    Joshua Williams
+Name: name, dtype: object",1184
+"0    Luke Garrett
+Name: name, dtype: object",1182
+"0    Shubham Maharana
+Name: name, dtype: object",1182
+"0    Levi Benjamin Matara-Ng
+Name: name, dtype: object",1182
+"0    Alex Van Vugt
+Name: name, dtype: object",1182
+"0    Stanley Chapel
+Name: name, dtype: object",1182
+"0    Ben Thomas Campbell
+Name: name, dtype: object",1182
+"0    Mika Smulders
+Name: name, dtype: object",1181
+"0    Sameer Aggarwal
+Name: name, dtype: object",1180
+"0    Zexin Wang (王泽鑫)
+Name: name, dtype: object",1180
+"0    Paxton Bennison
+Name: name, dtype: object",1180
+"0    Brennen Lin
+Name: name, dtype: object",1179
+"0    Hassan Khanani
+Name: name, dtype: object",1179
+"0    Patrick Quach
+Name: name, dtype: object",1178
+"0    Adrian Oon
+Name: name, dtype: object",1178
+"0    Emilio Matanguihan
+Name: name, dtype: object",1178
+"0    Xinyuan Fan (范歆远)
+Name: name, dtype: object",1178
+"0    Walker Welch
+Name: name, dtype: object",1177
+"0    Yunke Zhang (张云柯)
+Name: name, dtype: object",1177
+"0    Lukas Shelley
+Name: name, dtype: object",1177
+"0    Jie Wang (王杰)
+Name: name, dtype: object",1177
+"0    Charlie Cannon
+Name: name, dtype: object",1176
+"0    Aadarsh Madhavan
+1    Aadarsh Madhavan
+Name: name, dtype: object",1176
+"0    James Alonso
+Name: name, dtype: object",1176
+"0    Nate Mochrie
+Name: name, dtype: object",1175
+"0    Liam Highducheck
+Name: name, dtype: object",1175
+"0    Francisco Hamlin
+Name: name, dtype: object",1175
+"0    Xavier Smith
+Name: name, dtype: object",1173
+"0    Joe Labas
+Name: name, dtype: object",1173
+"0    Darcy Way
+Name: name, dtype: object",1173
+"0    Qiyu Zhang (张淇隩)
+Name: name, dtype: object",1172
+"0    Christian Foyle
+Name: name, dtype: object",1170
+"0    Benjamin Grzesiak
+Name: name, dtype: object",1170
+"0    Hua Huang (黄华)
+Name: name, dtype: object",1170
+"0    Saavar Bajaj
+Name: name, dtype: object",1169
+"0    Ilya Nazarov
+Name: name, dtype: object",1167
+"0    Lucas Buckley
+Name: name, dtype: object",1167
+"0    Myles Jarman
+Name: name, dtype: object",1166
+"0    Dmitry Matthew Yaquinto
+Name: name, dtype: object",1166
+"0    Sebastian Williams
+Name: name, dtype: object",1165
+"0    Ianis Costin Chele
+Name: name, dtype: object",1164
+"0    Dash Cannon
+Name: name, dtype: object",1163
+"0    Kevin Gerhardt
+Name: name, dtype: object",1163
+"0    Liam Canty
+Name: name, dtype: object",1163
+"0    David Vos
+Name: name, dtype: object",1162
+"0    Nicolas Gertner
+Name: name, dtype: object",1162
+"0    Ben Kirby
+Name: name, dtype: object",1161
+"0    Divnoor Bajwa
+Name: name, dtype: object",1161
+"0    Shao-Hua Hu (胡少華)
+Name: name, dtype: object",1161
+"0    Xiaowei Wang (王晓伟)
+Name: name, dtype: object",1160
+"0    Aneurin Hunt
+Name: name, dtype: object",1160
+"0    Hao Do
+Name: name, dtype: object",1160
+"0    Junxi Jian (简隽希)
+Name: name, dtype: object",1160
+"0    Rafael Chowindra
+1    Rafael Chowindra
+Name: name, dtype: object",1160
+"0    Maheran Chowdhury
+Name: name, dtype: object",1159
+"0    Ng Jia Quan (黄佳铨)
+Name: name, dtype: object",1159
+"0    Marcel Ručigaj
+Name: name, dtype: object",1159
+"0    Zhaohong Huang (黄兆鸿)
+Name: name, dtype: object",1159
+"0    Alan Zhao
+Name: name, dtype: object",1157
+"0    Matthew Cook
+Name: name, dtype: object",1157
+"0    Daniel Vædele Egdal
+Name: name, dtype: object",1156
+"0    Sean Moran
+Name: name, dtype: object",1155
+"0    Yue Shen (申粤)
+Name: name, dtype: object",1155
+"0    Benjamin Walker
+Name: name, dtype: object",1154
+"0    Ho Hsieh (謝合)
+Name: name, dtype: object",1154
+"0    Alvaro Haidar Ersha
+Name: name, dtype: object",1153
+"0    William Herring
+Name: name, dtype: object",1152
+"0    Cameron Jones
+Name: name, dtype: object",1151
+"0    Wang Ma (马旺)
+Name: name, dtype: object",1151
+"0    Yunrui Peng (彭云瑞)
+Name: name, dtype: object",1151
+"0    Rhys Lloyd
+Name: name, dtype: object",1151
+"0    Vincent Hartanto Utomo
+Name: name, dtype: object",1151
+"0    Junze Zhao (赵俊泽)
+Name: name, dtype: object",1150
+"0    Eli Jacobsson
+Name: name, dtype: object",1150
+"0    Jeff Miao
+Name: name, dtype: object",1150
+"0    Lorenzo Mauro
+Name: name, dtype: object",1150
+"0    Mete İsbir
+Name: name, dtype: object",1149
+"0    Huixuan Shi (施慧轩)
+Name: name, dtype: object",1149
+"0    Xuyang Chen (陈徐洋)
+Name: name, dtype: object",1149
+"0    Max Walaszek
+Name: name, dtype: object",1148
+"0    Yusheng Du (杜宇生)
+Name: name, dtype: object",1148
+"0    Joshua Chau
+Name: name, dtype: object",1147
+"0    Vincent Chan
+Name: name, dtype: object",1147
+"0    Daniel Gutierrez
+Name: name, dtype: object",1146
+"0    Daniel Tidsey
+Name: name, dtype: object",1146
+"0    Michael Alexander
+Name: name, dtype: object",1144
+"0    Leo Millar
+Name: name, dtype: object",1144
+"0    Chan Hui Tung (陳許瞳)
+Name: name, dtype: object",1144
+"0    Zhijie Yin (尹智杰)
+Name: name, dtype: object",1143
+"0    Noah Swor
+Name: name, dtype: object",1143
+"0    Zach Amiridis
+Name: name, dtype: object",1143
+"0    Szymon Brzana
+Name: name, dtype: object",1143
+"0    Luke Burong
+Name: name, dtype: object",1143
+"0    Bartłomiej Owczarek
+Name: name, dtype: object",1142
+"0    Nicholas Daneshvari
+Name: name, dtype: object",1142
+"0    Andy Ma
+Name: name, dtype: object",1142
+"0    Erzhan Dzhaumutbaev
+Name: name, dtype: object",1141
+"0    Leeah Gard-Spaulding
+Name: name, dtype: object",1141
+"0    Myles Segal
+Name: name, dtype: object",1141
+"0    Kanting Shi (史勘霆)
+Name: name, dtype: object",1140
+"0    Andy Denney
+Name: name, dtype: object",1139
+"0    Michael Nielsen
+Name: name, dtype: object",1139
+"0    Noah Muscat
+Name: name, dtype: object",1139
+"0    Chris Mills
+Name: name, dtype: object",1139
+"0    Yang Liu (刘洋)
+Name: name, dtype: object",1139
+"0    David Pearce
+Name: name, dtype: object",1139
+"0    Haochen Mei (梅皓臣)
+Name: name, dtype: object",1138
+"0    Timur Imanov
+Name: name, dtype: object",1138
+"0    Luigi Soriano
+Name: name, dtype: object",1137
+"0    Max Siauw
+Name: name, dtype: object",1137
+"0    Bo Tang (唐搏)
+Name: name, dtype: object",1135
+"0    Andrew Tan Jing Bang
+Name: name, dtype: object",1135
+"0    Tom Stanton-Barnett
+Name: name, dtype: object",1135
+"0    Marco Giordano
+Name: name, dtype: object",1135
+"0    Robin Verstraten
+Name: name, dtype: object",1134
+"0    Ashton Wheeler
+Name: name, dtype: object",1134
+"0    Stephen Waller
+Name: name, dtype: object",1134
+"0    Lazo Jalal
+Name: name, dtype: object",1133
+"0    Firstian Fushada (符逢城)
+Name: name, dtype: object",1133
+"0    Vinz Navales
+Name: name, dtype: object",1133
+"0    Ram Thakkar
+Name: name, dtype: object",1133
+"0    Tyler Howlett
+Name: name, dtype: object",1133
+"0    Luqman Hakim Bin Hairil Azli
+Name: name, dtype: object",1133
+"0    Yuxuan Wu (吴雨轩)
+Name: name, dtype: object",1133
+"0    Yijia Chen (陈奕佳)
+Name: name, dtype: object",1132
+"0    Daniel Brem
+Name: name, dtype: object",1132
+"0    Nathan Rahn
+Name: name, dtype: object",1132
+"0    Cheng-Ying Lee (李承穎)
+Name: name, dtype: object",1131
+"0    Henry Asker
+Name: name, dtype: object",1131
+"0    Xiaoyu Chen (陈校雨)
+Name: name, dtype: object",1131
+"0    Liangyu Cai (蔡良语)
+Name: name, dtype: object",1131
+"0    Linus Laurén
+Name: name, dtype: object",1131
+"0    Haichuan Du (杜海川)
+Name: name, dtype: object",1130
+"0    Ting Sheng Bao Yang
+Name: name, dtype: object",1130
+"0    Jacob Joshi
+Name: name, dtype: object",1130
+"0    Phillip Maxwell
+Name: name, dtype: object",1130
+"0    Christopher Olson
+Name: name, dtype: object",1129
+"0    Rick Hamburger
+Name: name, dtype: object",1129
+"0    Kangze Wang (王康泽)
+Name: name, dtype: object",1129
+"0    Thomas Curnow
+Name: name, dtype: object",1128
+"0    Brian Nguyen
+Name: name, dtype: object",1128
+"0    Cole Campbell
+Name: name, dtype: object",1128
+"0    Yuchen Wang (王雨辰)
+Name: name, dtype: object",1127
+"0    Dilan Anand
+Name: name, dtype: object",1127
+"0    Samuel Fang
+Name: name, dtype: object",1127
+"0    Kymberlyn Calderon
+Name: name, dtype: object",1126
+"0    Zack Hall
+Name: name, dtype: object",1125
+"0    Simon Geertsema
+Name: name, dtype: object",1125
+"0    Drew Brads
+Name: name, dtype: object",1124
+"0    Xinyang Li (李昕洋)
+Name: name, dtype: object",1123
+"0    Magnus Søndergaard Byrne
+Name: name, dtype: object",1123
+"0    Nicolás Sánchez
+Name: name, dtype: object",1123
+"0    Joseph Williams
+Name: name, dtype: object",1123
+"0    Karol Zakrzewski
+Name: name, dtype: object",1122
+"0    Adrien Auvray Matyn
+Name: name, dtype: object",1122
+"0    Cameron Stollery
+Name: name, dtype: object",1122
+"0    Ole Meindersma
+Name: name, dtype: object",1122
+"0    Mattheo de Wit
+Name: name, dtype: object",1121
+"0    Juncheng Luo (罗骏承)
+Name: name, dtype: object",1121
+"0    Zayd Chaudhry
+Name: name, dtype: object",1121
+"0    Toby Seufert
+Name: name, dtype: object",1121
+"0    Noah Kraft
+Name: name, dtype: object",1121
+"0    Junliang Li (李俊良)
+Name: name, dtype: object",1120
+"0    Bence Barát
+Name: name, dtype: object",1120
+"0    Josephine Siburian
+Name: name, dtype: object",1120
+"0    Tanish Dhiman
+1    Tanish Dhiman
+Name: name, dtype: object",1120
+"0    Valerio Locatelli
+Name: name, dtype: object",1119
+"0    Tu Pham
+Name: name, dtype: object",1119
+"0    Igor Kolosov (Игорь Колосов)
+Name: name, dtype: object",1118
+"0    Aolin Tang (唐奥林)
+Name: name, dtype: object",1117
+"0    Bill Wang
+Name: name, dtype: object",1117
+"0    Mingshi Zheng (郑铭师)
+Name: name, dtype: object",1117
+"0    Trần Đăng Quang
+Name: name, dtype: object",1117
+"0    Simon Kellum
+Name: name, dtype: object",1116
+"0    Ryan Driscoll
+Name: name, dtype: object",1116
+"0    Marcus Siu
+Name: name, dtype: object",1116
+"0    Zac Graham
+Name: name, dtype: object",1115
+"0    Iurii Chesnokov (Юрий Чесноков)
+Name: name, dtype: object",1115
+"0    Alex Maass
+Name: name, dtype: object",1115
+"0    Eve Carroll
+Name: name, dtype: object",1115
+"0    Jonathan O'Neill
+Name: name, dtype: object",1114
+"0    Zijian Cai (蔡子健)
+Name: name, dtype: object",1114
+"0    Alex James
+Name: name, dtype: object",1114
+"0    Yuze Gu (顾雨泽)
+Name: name, dtype: object",1114
+"0    Trịnh Quang Dũng
+Name: name, dtype: object",1114
+"0    Jack Pfeifer
+Name: name, dtype: object",1113
+"0    Zhihai Liu (刘之海)
+Name: name, dtype: object",1112
+"0    Bhargav Narasimhan
+Name: name, dtype: object",1111
+"0    Jeremy Foott
+Name: name, dtype: object",1111
+"0    Robert Alden
+Name: name, dtype: object",1111
+"0    Alex Niedland
+Name: name, dtype: object",1111
+"0    Samuel Simko
+Name: name, dtype: object",1111
+"0    Taine Cassar
+Name: name, dtype: object",1111
+"0    Kieran Murphy
+Name: name, dtype: object",1110
+"0    Harishan Ramanan
+Name: name, dtype: object",1110
+"0    Chengyu Guo (郭承禹)
+Name: name, dtype: object",1110
+"0    Andrew Davidge
+Name: name, dtype: object",1110
+"0    Yap Jia Yang
+Name: name, dtype: object",1109
+"0    Kaiyang Gao (高凯阳)
+Name: name, dtype: object",1109
+"0    Grigoriy Barashkin
+Name: name, dtype: object",1108
+"0    Mario Nicholas Chandra
+Name: name, dtype: object",1107
+"0    Robert Antal
+Name: name, dtype: object",1107
+"0    Aaron Spiller
+Name: name, dtype: object",1107
+"0    David Nguyen
+Name: name, dtype: object",1106
+"0    Vadzim Smirnou
+Name: name, dtype: object",1106
+"0    Conor Sullivan
+Name: name, dtype: object",1106
+"0    Lucas Déglise
+Name: name, dtype: object",1106
+"0    Ihor Sukhovatenko (Ігор Суховатенко)
+Name: name, dtype: object",1106
+"0    Anrui Cen (岑广瑞)
+Name: name, dtype: object",1106
+"0    Liangrong Ma (马良戎)
+Name: name, dtype: object",1106
+"0    Louis-Marie Ratto
+Name: name, dtype: object",1105
+"0    Amos Nordman
+Name: name, dtype: object",1105
+"0    Jay Calter
+Name: name, dtype: object",1104
+"0    Chengyang Li (李承洋)
+Name: name, dtype: object",1103
+"0    Seth Ferry
+Name: name, dtype: object",1103
+"0    Mantra Shukla
+Name: name, dtype: object",1103
+"0    Elyas Eyou
+Name: name, dtype: object",1102
+"0    Martin Fronescu
+Name: name, dtype: object",1102
+"0    Michael Tripodi
+Name: name, dtype: object",1102
+"0    Samuel Talacko
+Name: name, dtype: object",1102
+"0    Varun Mohanraj
+Name: name, dtype: object",1102
+"0    Tom Noble
+Name: name, dtype: object",1102
+"0    Tianyu Sun (孙天宇)
+Name: name, dtype: object",1101
+"0    Kailong Li (李开隆)
+Name: name, dtype: object",1101
+"0    Jack Mennie
+Name: name, dtype: object",1101
+"0    Ethan Burbush
+Name: name, dtype: object",1100
+"0    Divij Yadav
+Name: name, dtype: object",1100
+"0    Callum Hales-Jepp
+Name: name, dtype: object",1100
+"0    Shu-Yii Luo (駱書翊)
+Name: name, dtype: object",1100
+"0    Toby Waters
+Name: name, dtype: object",1099
+"0    James MacDonald
+Name: name, dtype: object",1098
+"0    Hongyuan Fu (傅泓源)
+Name: name, dtype: object",1098
+"0    Tommy Cherry
+Name: name, dtype: object",1098
+"0    Aaron Ravi
+Name: name, dtype: object",1097
+"0    Yuzhe Wang (王语哲)
+Name: name, dtype: object",1097
+"0    Louis de Mendonça
+Name: name, dtype: object",1097
+"0    Anael Champion
+Name: name, dtype: object",1097
+"0    Yunhan Yao (姚云瀚)
+Name: name, dtype: object",1097
+"0    Ryan Wu
+Name: name, dtype: object",1096
+"0    Weihao Kong (孔维浩)
+Name: name, dtype: object",1096
+"0    Robert Yau
+Name: name, dtype: object",1096
+"0    Ruben Fino
+Name: name, dtype: object",1096
+"0    Reagan Li
+Name: name, dtype: object",1096
+"0    Mikhail Kopylov (Михаил Копылов)
+Name: name, dtype: object",1095
+"0    Oliver Jenks
+Name: name, dtype: object",1095
+"0    Shao-Heng Hung (洪紹恆)
+Name: name, dtype: object",1095
+"0    Zishuo Zhang (张子硕)
+Name: name, dtype: object",1095
+"0    Kim Roger Høyland Larsen
+Name: name, dtype: object",1095
+"0    Wesley Allen
+Name: name, dtype: object",1095
+"0    Longwang Li (李龙旺)
+Name: name, dtype: object",1095
+"0    Daniel Greigg
+Name: name, dtype: object",1095
+"0    Linus Buck
+Name: name, dtype: object",1095
+"0    Taiji Yi (易泰基)
+Name: name, dtype: object",1094
+"0    Shilei Zhang (张士磊)
+Name: name, dtype: object",1094
+"0    Ethan Erez
+Name: name, dtype: object",1094
+"0    Tom Richards
+Name: name, dtype: object",1094
+"0    Shao-Yu Hu (胡紹宇)
+Name: name, dtype: object",1094
+"0    Elvin Thorsen
+Name: name, dtype: object",1094
+"0    Tanay Singh
+Name: name, dtype: object",1094
+"0    Lance Aguilar
+Name: name, dtype: object",1093
+"0    Yinming Zhu (朱胤铭)
+Name: name, dtype: object",1093
+"0    Jules Porteners
+Name: name, dtype: object",1093
+"0    János Bereczki
+Name: name, dtype: object",1093
+"0    Đoàn Anh Dũng
+Name: name, dtype: object",1093
+"0    Zee Capangpangan
+Name: name, dtype: object",1092
+"0    Milhouse Gibbons-Paul
+Name: name, dtype: object",1092
+"0    Oliver Hoy
+Name: name, dtype: object",1092
+"0    Siqi Jiang (蒋偲祺)
+Name: name, dtype: object",1091
+"0    Emmet Hobbs
+Name: name, dtype: object",1091
+"0    Brayden Wroten
+Name: name, dtype: object",1091
+"0    Szabolcs Szántai
+Name: name, dtype: object",1091
+"0    Sebastian Bock
+Name: name, dtype: object",1090
+"0    Elias Malomgré
+Name: name, dtype: object",1090
+"0    Hao Wang (王浩)
+Name: name, dtype: object",1090
+"0    Thomas Sonnenberg Jarner
+Name: name, dtype: object",1090
+"0    Vibhan Jivanjee
+Name: name, dtype: object",1090
+"0    Julen Simón Iriarte
+Name: name, dtype: object",1090
+"0    Kai Kang (康凯)
+Name: name, dtype: object",1090
+"0    Andres Rodriguez
+Name: name, dtype: object",1089
+"0    Jerry Yao
+Name: name, dtype: object",1089
+"0    Vojtěch Kundera
+Name: name, dtype: object",1089
+"0    Matthew Sieredzinski
+Name: name, dtype: object",1089
+"0    Luca Brasini
+Name: name, dtype: object",1089
+"0    Lev Golub (Лев Голуб)
+Name: name, dtype: object",1089
+"0    Rui Yang (杨芮)
+Name: name, dtype: object",1089
+"0    Benjamin Bucksmith
+Name: name, dtype: object",1088
+"0    Leon Marcell Alamanda
+Name: name, dtype: object",1088
+"0    Asher Kim-Magierek
+Name: name, dtype: object",1088
+"0    Walter Duff
+Name: name, dtype: object",1088
+"0    Charlie Stark
+Name: name, dtype: object",1088
+"0    Hector David Martinez Argaez
+Name: name, dtype: object",1087
+"0    Joel David Hibbert
+Name: name, dtype: object",1087
+"0    Wayne Pi
+Name: name, dtype: object",1087
+"0    Jack McDougall
+Name: name, dtype: object",1087
+"0    Veer Jagdev
+Name: name, dtype: object",1087
+"0    Andrey Mishin
+Name: name, dtype: object",1087
+"0    Vladimir Tikhonenko (Владимир Тихоненко)
+Name: name, dtype: object",1087
+"0    Kate Grahame
+Name: name, dtype: object",1086
+"0    Taoran Chen (陈陶然)
+Name: name, dtype: object",1086
+"0    John Hornacek
+Name: name, dtype: object",1086
+"0    Mingxuan Wu (吴明轩)
+Name: name, dtype: object",1086
+"0    Aedan Bryant
+Name: name, dtype: object",1086
+"0    Gert-Jan Broere
+Name: name, dtype: object",1086
+"0    Tijmen van der Ree
+Name: name, dtype: object",1085
+"0    Zhengli Ning (宁郑立)
+Name: name, dtype: object",1085
+"0    Jash Tejas Shah
+Name: name, dtype: object",1085
+"0    Oliver Drew
+Name: name, dtype: object",1085
+"0    Hayden Ng
+Name: name, dtype: object",1085
+"0    Tee Kai Yang
+Name: name, dtype: object",1085
+"0    Henri Gerber
+Name: name, dtype: object",1085
+"0    Zhenming Zhang (张振铭)
+Name: name, dtype: object",1084
+"0    Qinxi Wei (韦钦曦)
+Name: name, dtype: object",1084
+"0    Daniel Alejandro Torres Moreno
+Name: name, dtype: object",1084
+"0    Ryan Pilat
+Name: name, dtype: object",1083
+"0    Zaiyuan Chu (初载源)
+Name: name, dtype: object",1083
+"0    Aleksandr Beznogov
+Name: name, dtype: object",1082
+"0    Jack Hinz
+Name: name, dtype: object",1082
+"0    River Fletcher
+Name: name, dtype: object",1082
+"0    Yutong Wang (王宇彤)
+Name: name, dtype: object",1082
+"0    Charles Jerome
+Name: name, dtype: object",1082
+"0    Roberts Dreijers
+Name: name, dtype: object",1082
+"0    Haoran Li (李浩然)
+Name: name, dtype: object",1081
+"0    Nikhil Soares
+Name: name, dtype: object",1081
+"0    Aaron Mills
+Name: name, dtype: object",1081
+"0    Jonathan Blöcher
+Name: name, dtype: object",1081
+"0    Zhao-Zhe Zhong (鍾肇哲)
+Name: name, dtype: object",1081
+"0    Pavel Eroshkin (Павел Ерошкин)
+Name: name, dtype: object",1081
+"0    Tongming Shi (石童鸣)
+Name: name, dtype: object",1081
+"0    Mikhail Kalashnikov (Михаил Калашников)
+Name: name, dtype: object",1080
+"0    Brody Lassner
+Name: name, dtype: object",1080
+"0    Jerry Jiang
+Name: name, dtype: object",1080
+"0    Yubo Ji (纪宇博)
+Name: name, dtype: object",1080
+"0    Chen Cheng (程晨)
+Name: name, dtype: object",1080
+"0    Kornél Vermes
+Name: name, dtype: object",1079
+"0    Kevin Yinan Liu
+Name: name, dtype: object",1079
+"0    Muhammad Faeyza Koda
+Name: name, dtype: object",1079
+"0    Jaidon Zain Adams
+Name: name, dtype: object",1079
+"0    Samir Homsi
+Name: name, dtype: object",1079
+"0    Dewei Liu (刘德威)
+Name: name, dtype: object",1079
+"0    Haohan Zheng (郑皓涵)
+Name: name, dtype: object",1078
+"0    Joel Cetra
+Name: name, dtype: object",1078
+"0    Daniël Kassab
+Name: name, dtype: object",1078
+"0    Jack Maddigan
+Name: name, dtype: object",1078
+"0    Liam Wadek
+Name: name, dtype: object",1078
+"0    Arkadiusz Abramowski
+Name: name, dtype: object",1078
+"0    Tucker Chamberlain
+Name: name, dtype: object",1077
+"0    Vittorio Maria Perucatti
+Name: name, dtype: object",1077
+"0    Minn Aung
+Name: name, dtype: object",1077
+"0    Yunqi Ouyang (欧阳韵奇)
+Name: name, dtype: object",1077
+"0    Charlie Harrison
+Name: name, dtype: object",1077
+"0    Benjamin Pugh
+Name: name, dtype: object",1077
+"0    Luke Heath-Edwards
+Name: name, dtype: object",1077
+"0    Mingze Yang (杨明泽)
+Name: name, dtype: object",1077
+"0    Sukant Koul
+Name: name, dtype: object",1076
+"0    William Gan Wei Ren (颜伟仁)
+Name: name, dtype: object",1076
+"0    Arnit Rawat
+Name: name, dtype: object",1076
+"0    Dmitriy Shevchenko
+Name: name, dtype: object",1076
+"0    Zak Kenny
+Name: name, dtype: object",1076
+"0    Sameer Sethuram
+Name: name, dtype: object",1076
+"0    Duncan A. Bannon
+Name: name, dtype: object",1076
+"0    Junyi Zhong (钟浚意)
+Name: name, dtype: object",1076
+"0    Alexander Chieng
+Name: name, dtype: object",1076
+"0    Tianxing Wang (王天行)
+Name: name, dtype: object",1075
+"0    Yuxuan Guo (郭雨轩)
+Name: name, dtype: object",1075
+"0    Taj Greenough
+Name: name, dtype: object",1075
+"0    Sirun Wu (吴思润)
+Name: name, dtype: object",1075
+"0    Trần Đình Anh
+Name: name, dtype: object",1075
+"0    Wei-Chen Hsieh (謝維宸)
+Name: name, dtype: object",1075
+"0    Nicolás Irenco Peña Henríquez
+Name: name, dtype: object",1074
+"0    Sebastian Lee
+Name: name, dtype: object",1074
+"0    Justin He
+Name: name, dtype: object",1074
+"0    Junze Lin (林君泽)
+Name: name, dtype: object",1074
+"0    Dominik Ostas
+Name: name, dtype: object",1074
+"0    Chloé Demuynck
+Name: name, dtype: object",1074
+"0    Zachary Ochs
+Name: name, dtype: object",1074
+"0    Benjamin Kyle
+Name: name, dtype: object",1074
+"0    Zixuan Xu (徐子轩)
+Name: name, dtype: object",1074
+"0    Dawid Wójcik
+Name: name, dtype: object",1073
+"0    José Eduardo Palacios Castro
+Name: name, dtype: object",1073
+"0    Vladislav Kaminskiy
+Name: name, dtype: object",1073
+"0    Haluk Ulkusal
+Name: name, dtype: object",1073
+"0    Cale Schoon
+Name: name, dtype: object",1073
+"0    Helmer Ewert
+Name: name, dtype: object",1073
+"0    Tam Quan
+Name: name, dtype: object",1072
+"0    Charlie van Ooran
+Name: name, dtype: object",1072
+"0    Isaac Latta
+Name: name, dtype: object",1072
+"0    Tommas Austin-Milne
+Name: name, dtype: object",1072
+"0    Xiang Meng (孟响)
+Name: name, dtype: object",1072
+"0    Zejun Chen (陈泽鋆)
+Name: name, dtype: object",1072
+"0    Toby Dixon
+Name: name, dtype: object",1071
+"0    Leo Borromeo
+Name: name, dtype: object",1071
+"0    James Lam
+Name: name, dtype: object",1071
+"0    Hsiang-Kuang Zhuang (莊翔光)
+Name: name, dtype: object",1071
+"0    Mason Day
+Name: name, dtype: object",1071
+"0    Ben Qian
+Name: name, dtype: object",1071
+"0    Tymon Kolasiński
+Name: name, dtype: object",1071
+"0    William Lu (呂宇綸)
+Name: name, dtype: object",1070
+"0    Tomáš Nguyen
+Name: name, dtype: object",1070
+"0    Yinghao Zhu (朱英豪)
+Name: name, dtype: object",1070
+"0    Blake Thompson
+Name: name, dtype: object",1069
+"0    Dylan Beetge
+Name: name, dtype: object",1069
+"0    Arhaan Sareen
+Name: name, dtype: object",1069
+"0    Vladislav Sergunov (Владислав Сергунов)
+Name: name, dtype: object",1069
+"0    Tom Salmon
+Name: name, dtype: object",1068
+"0    Thierry Orland Hung
+Name: name, dtype: object",1068
+"0    Lorenzo Layug
+Name: name, dtype: object",1068
+"0    Florian Truckenthanner
+Name: name, dtype: object",1068
+"0    Peri Le Dain
+1    Peri Le Dain
+Name: name, dtype: object",1068
+"0    Pavel Mesyatsev
+Name: name, dtype: object",1068
+"0    Kai-Lun Cheng (鄭凱倫)
+Name: name, dtype: object",1068
+"0    Zihan Zhang (张子涵)
+Name: name, dtype: object",1067
+"0    Jackson Moorhead
+Name: name, dtype: object",1067
+"0    Nikodem Tomaszuk
+Name: name, dtype: object",1067
+"0    Haoze Yu (于昊泽)
+Name: name, dtype: object",1067
+"0    Nicholas Eppingstall
+Name: name, dtype: object",1066
+"0    Julian Bürgi
+Name: name, dtype: object",1066
+"0    Kerry Creech
+Name: name, dtype: object",1066
+"0    Elian Beguec
+Name: name, dtype: object",1066
+"0    Acar Gök
+Name: name, dtype: object",1066
+"0    Yunliang Zhang (张赟量)
+Name: name, dtype: object",1066
+"0    Xinyan Liu (刘心妍)
+Name: name, dtype: object",1066
+"0    Yifan Yuan (袁逸凡)
+Name: name, dtype: object",1065
+"0    Xander Romo
+Name: name, dtype: object",1065
+"0    Daniel Sartori
+Name: name, dtype: object",1065
+"0    Sam van Vliet
+Name: name, dtype: object",1065
+"0    Shang Liu (刘尚)
+Name: name, dtype: object",1065
+"0    Julian Sico
+Name: name, dtype: object",1064
+"0    Tyler Keen
+Name: name, dtype: object",1064
+"0    Jiale Xu (徐嘉乐)
+Name: name, dtype: object",1064
+"0    Oliver Castledine
+Name: name, dtype: object",1063
+"0    Manuel Prieto de Antón
+Name: name, dtype: object",1063
+"0    Haochang Zhang (张皓昶)
+Name: name, dtype: object",1063
+"0    Kacper Kopacz
+Name: name, dtype: object",1063
+"0    Elijah King
+Name: name, dtype: object",1063
+"0    Daniel Fraser
+Name: name, dtype: object",1063
+"0    Denis Gromov (Денис Громов)
+Name: name, dtype: object",1063
+"0    Jieyu Yang (杨杰予)
+Name: name, dtype: object",1063
+"0    Tristan Chua Yong
+Name: name, dtype: object",1063
+"0    Derek Hsieh
+Name: name, dtype: object",1062
+"0    Ömer Faruk Bircan
+Name: name, dtype: object",1062
+"0    Cian-Jyun Yang (楊謙君)
+Name: name, dtype: object",1062
+"0    Kyson Lovery
+Name: name, dtype: object",1062
+"0    Ilya Parchuck
+Name: name, dtype: object",1062
+"0    Wiktor Zegadło
+Name: name, dtype: object",1062
+"0    Fanny Pousset
+Name: name, dtype: object",1061
+"0    Eva Kato
+Name: name, dtype: object",1061
+"0    Malte Oliver Bøgh Kjøller
+Name: name, dtype: object",1061
+"0    Caleb Langan
+Name: name, dtype: object",1061
+"0    Tianzuo Du (杜天佐)
+Name: name, dtype: object",1061
+"0    Toby Coote
+Name: name, dtype: object",1061
+"0    Michał Woźniak
+Name: name, dtype: object",1061
+"0    Filip Nilsen
+Name: name, dtype: object",1061
+2021IANI01,1061
+"0    Artem Kosarev (Артем Косарев)
+Name: name, dtype: object",1061
+"0    Richard Yiheng Tao
+Name: name, dtype: object",1061
+"0    Anthony Rochester
+Name: name, dtype: object",1060
+"0    Polina Konopleva (Полина Коноплева)
+Name: name, dtype: object",1060
+"0    Leo Lindqvist
+Name: name, dtype: object",1060
+"0    Ivan Lew Yi Wen (刘义文)
+Name: name, dtype: object",1059
+"0    Guillaume David
+Name: name, dtype: object",1059
+"0    Hoàng Khang Minh
+Name: name, dtype: object",1059
+"0    Simiao Huang (黄思淼)
+Name: name, dtype: object",1059
+"0    Anish Rajesh
+Name: name, dtype: object",1059
+"0    Dylan Wang
+Name: name, dtype: object",1058
+"0    Darby Lee
+Name: name, dtype: object",1058
+"0    Jeremy Sheng
+Name: name, dtype: object",1058
+"0    Benjamin Gottschalk
+Name: name, dtype: object",1058
+"0    Ximiao Liu (刘曦淼)
+Name: name, dtype: object",1058
+"0    Alex Patti
+Name: name, dtype: object",1058
+"0    Ruohan Qiu (邱若寒)
+Name: name, dtype: object",1058
+"0    Anton Suzin
+Name: name, dtype: object",1058
+"0    Anthony Qi
+Name: name, dtype: object",1058
+"0    Mikołaj Zubowicz
+Name: name, dtype: object",1058
+"0    Muhammad Rafly
+Name: name, dtype: object",1057
+"0    Will Fairfax
+Name: name, dtype: object",1057
+"0    Amina Chebochakova (Амина Чебочакова)
+Name: name, dtype: object",1057
+"0    Mohannad Mahmoud Fathy
+Name: name, dtype: object",1057
+"0    Sheng Cao (曹晟)
+Name: name, dtype: object",1057
+"0    Knut Skaug Haraldsen
+Name: name, dtype: object",1057
+"0    Jakub Grzybowski
+Name: name, dtype: object",1056
+"0    Ilya Epifanov
+Name: name, dtype: object",1056
+"0    Jack Amarbat
+Name: name, dtype: object",1056
+"0    Rui-Jun Liu (劉睿鈞)
+Name: name, dtype: object",1056
+"0    Lianhao Zhu (褚连皓)
+Name: name, dtype: object",1056
+"0    Ciarán Beahan
+Name: name, dtype: object",1056
+"0    Mikus Lembergs
+Name: name, dtype: object",1056
+"0    Gjorgji Cheshmedjievski
+Name: name, dtype: object",1056
+"0    Lachlan Williams
+Name: name, dtype: object",1056
+"0    Suhang Li (李苏航)
+Name: name, dtype: object",1055
+"0    Pessi Ansaranta
+Name: name, dtype: object",1055
+"0    Elliot Tay
+Name: name, dtype: object",1055
+"0    Luis Angel Contreras Ospina
+Name: name, dtype: object",1055
+"0    Wenbo Lu (陆文博)
+Name: name, dtype: object",1055
+"0    Maxim Ilin
+Name: name, dtype: object",1055
+"0    Elijan Fernandez
+Name: name, dtype: object",1055
+"0    Ilya Sokolov
+Name: name, dtype: object",1055
+"0    Nikita Malykhin (Никита Малыхин)
+Name: name, dtype: object",1054
+"0    Hayden Kettle
+Name: name, dtype: object",1054
+"0    Weiyi Liu (刘为一)
+Name: name, dtype: object",1054
+"0    Josef Matijevic
+Name: name, dtype: object",1054
+"0    Yichen Jiang (姜一辰)
+Name: name, dtype: object",1054
+"0    Asser Khodeir
+Name: name, dtype: object",1054
+"0    Tom Nelson
+Name: name, dtype: object",1054
+"0    Cyrus Wong Yuk Chi (黃昱誌)
+Name: name, dtype: object",1054
+"0    Jake Brown
+Name: name, dtype: object",1054
+"0    Edward Vakula
+Name: name, dtype: object",1053
+"0    Pavel Galaktionov
+Name: name, dtype: object",1053
+"0    Yiyang Chen (陈熠扬)
+Name: name, dtype: object",1053
+"0    Jose Daniel Cobo Torres
+Name: name, dtype: object",1053
+"0    Sam Koch
+Name: name, dtype: object",1053
+"0    Joe Boisen
+Name: name, dtype: object",1053
+"0    Rifa Octavian Himawan
+Name: name, dtype: object",1053
+"0    Krish Shah-Nathwani
+Name: name, dtype: object",1053
+"0    Dominic Lumsden
+Name: name, dtype: object",1052
+"0    Parker Trager
+Name: name, dtype: object",1052
+"0    Wilson Alvis (陈智胜)
+Name: name, dtype: object",1052
+"0    Lianghui Li (李亮辉)
+Name: name, dtype: object",1052
+"0    Yancheng Lai (赖彦丞)
+Name: name, dtype: object",1052
+"0    Fabian Tomasovic
+Name: name, dtype: object",1052
+"0    Aleksey Zuev
+Name: name, dtype: object",1052
+"0    Zihan Xu (徐子涵)
+Name: name, dtype: object",1052
+"0    Oliver Fisk
+Name: name, dtype: object",1051
+"0    György Pintér
+Name: name, dtype: object",1051
+"0    Jukka Geisler
+Name: name, dtype: object",1051
+"0    Bowen Xiao (肖博文)
+Name: name, dtype: object",1051
+"0    Leo Hock-Morris
+Name: name, dtype: object",1051
+"0    Shijie Peng (彭世杰)
+Name: name, dtype: object",1051
+"0    Yan Jin (金岩)
+Name: name, dtype: object",1051
+"0    He-Ping Zheng (鄭和平)
+Name: name, dtype: object",1051
+"0    Jan Zych
+Name: name, dtype: object",1051
+"0    Blake Keane
+Name: name, dtype: object",1050
+"0    Yinqin Li (李尹钦)
+Name: name, dtype: object",1050
+"0    Jiayi Li (李嘉逸)
+Name: name, dtype: object",1049
+"0    Shuodi Yin (尹硕笛)
+Name: name, dtype: object",1049
+"0    Jakob Gunnarsson
+Name: name, dtype: object",1049
+"0    Dmitry Dobrjakov
+Name: name, dtype: object",1049
+"0    Michał Krasowski
+Name: name, dtype: object",1049
+"0    Alexander Shishkov (Александр Шишков)
+Name: name, dtype: object",1049
+"0    Ruzhen Ye (叶儒臻)
+Name: name, dtype: object",1049
+"0    Nikita Sviridov (Никита Свиридов)
+Name: name, dtype: object",1048
+"0    Christopher Sun
+Name: name, dtype: object",1048
+"0    Isaac Langer
+Name: name, dtype: object",1048
+"0    Eeshan Zele
+Name: name, dtype: object",1048
+"0    Mihail Stoicescu
+Name: name, dtype: object",1047
+"0    Timucin Kara
+Name: name, dtype: object",1047
+"0    Zhaohe Wang (王昭赫)
+Name: name, dtype: object",1047
+"0    Sergio Minaya Pimentel
+Name: name, dtype: object",1047
+"0    Conlan Trace
+Name: name, dtype: object",1047
+"0    Jie-Yu Xie (謝傑宇)
+Name: name, dtype: object",1047
+"0    Kaiyi Li (李铠驿)
+Name: name, dtype: object",1047
+"0    Mateusz Szulik
+Name: name, dtype: object",1046
+"0    Zerong Zheng (郑泽荣)
+Name: name, dtype: object",1046
+"0    Yichen Sun (孙艺晨)
+Name: name, dtype: object",1046
+"0    Qiyu Zhang (张淇奥)
+Name: name, dtype: object",1046
+"0    Lin Zhu (朱琳)
+Name: name, dtype: object",1046
+"0    Joshua Broderick Phillips
+Name: name, dtype: object",1046
+"0    Andreas Jensen Forsgren
+Name: name, dtype: object",1046
+"0    Dan Tran
+Name: name, dtype: object",1046
+"0    Cass Hopkins
+Name: name, dtype: object",1046
+"0    Elijah Lim
+Name: name, dtype: object",1046
+"0    Jacob Kasilag
+Name: name, dtype: object",1046
+"0    Patrick Fischer
+Name: name, dtype: object",1046
+"0    Igor Tarabrin (Игорь Тарабрин)
+Name: name, dtype: object",1046
+"0    Ethan Hickman
+Name: name, dtype: object",1046
+"0    Ainesh Sevellaraja
+Name: name, dtype: object",1045
+"0    Yifan Wang (王逸帆)
+Name: name, dtype: object",1045
+"0    Jieyang Chen (陈捷洋)
+Name: name, dtype: object",1045
+"0    Nathan Hopkins
+Name: name, dtype: object",1045
+"0    Yuheng Zhu
+Name: name, dtype: object",1045
+"0    Will Cerne
+Name: name, dtype: object",1045
+"0    Justin Chang
+Name: name, dtype: object",1045
+"0    Rowan Leaver
+Name: name, dtype: object",1045
+"0    Edward Burgess
+Name: name, dtype: object",1044
+"0    Oliver Wright
+Name: name, dtype: object",1044
+"0    Ben Wakelin
+Name: name, dtype: object",1044
+"0    William Greninger
+Name: name, dtype: object",1044
+"0    Igor Tarasov (Ігор Тарасов)
+Name: name, dtype: object",1044
+"0    Charles Martinson
+Name: name, dtype: object",1044
+"0    Twan Dullemond
+Name: name, dtype: object",1044
+"0    Wong Kin Lok (黃健樂)
+Name: name, dtype: object",1044
+"0    Chris Van Der Brink
+Name: name, dtype: object",1044
+"0    Lucas Pedersson
+Name: name, dtype: object",1044
+"0    Gabriel Santiago Velez Gonzalez
+Name: name, dtype: object",1043
+"0    Semen Artyukhov
+Name: name, dtype: object",1043
+"0    Wan-Ying Chen (陳婉瑩)
+Name: name, dtype: object",1043
+"0    Bautista Bonazzola
+Name: name, dtype: object",1043
+"0    Chenyao Zhang (张琛尧)
+Name: name, dtype: object",1043
+"0    Joonki Jung
+Name: name, dtype: object",1043
+"0    Kai Ma (马开)
+Name: name, dtype: object",1043
+"0    Haoran He (何浩然)
+Name: name, dtype: object",1043
+"0    Maciek Kozar
+Name: name, dtype: object",1043
+"0    Jungwoo Ha (하정우)
+Name: name, dtype: object",1043
+"0    Sebastian Virág
+Name: name, dtype: object",1043
+"0    John Bacouël
+Name: name, dtype: object",1042
+"0    Chloe Lee Synn Yii
+Name: name, dtype: object",1042
+"0    Pavel Yushkevich
+Name: name, dtype: object",1042
+"0    Will Newhoff
+Name: name, dtype: object",1042
+"0    Szymon Musiał
+Name: name, dtype: object",1042
+"0    Corentin Thomée
+Name: name, dtype: object",1042
+"0    Yuki Gao
+Name: name, dtype: object",1041
+"0    Ibrahim Khanani
+Name: name, dtype: object",1041
+"0    Liam Heimann
+Name: name, dtype: object",1041
+"0    Alexander Tosting
+Name: name, dtype: object",1041
+"0    Samuel Weber
+Name: name, dtype: object",1041
+"0    Diego Alfonso
+Name: name, dtype: object",1041
+"0    Isaac Wong Chang Man
+Name: name, dtype: object",1041
+"0    Ahmet Çınar Ablak
+Name: name, dtype: object",1041
+"0    Yilin Zhao (赵奕麟)
+Name: name, dtype: object",1041
+"0    Niko Ronkainen
+Name: name, dtype: object",1041
+"0    Xiangrui Deng (邓翔睿)
+Name: name, dtype: object",1040
+"0    Jackson Deng
+Name: name, dtype: object",1040
+"0    Blaise Jackson
+Name: name, dtype: object",1040
+"0    Ang Chin Zhen (洪靖程)
+Name: name, dtype: object",1040
+"0    Sharath Setty
+Name: name, dtype: object",1040
+"0    William Stanley
+Name: name, dtype: object",1040
+"0    Luke Tycksen
+Name: name, dtype: object",1040
+"0    Mathias Søndergaard Byrne
+Name: name, dtype: object",1040
+"0    Xiangyu Li (李翔宇)
+Name: name, dtype: object",1040
+"0    Andrew Bae
+Name: name, dtype: object",1039
+"0    Nithin Babu
+Name: name, dtype: object",1039
+"0    Rory Bailey
+Name: name, dtype: object",1039
+"0    Dylan Miller
+Name: name, dtype: object",1039
+"0    Hang Li (李航)
+Name: name, dtype: object",1039
+"0    Alex Asbery
+Name: name, dtype: object",1039
+"0    Đào Bách Nguyên
+Name: name, dtype: object",1039
+"0    James Quinn
+Name: name, dtype: object",1039
+"0    Martín Nicolás Fernández Olavarría
+Name: name, dtype: object",1039
+"0    Dylan Baumbach
+Name: name, dtype: object",1039
+"0    Anton Nazarov (Антон Назаров)
+Name: name, dtype: object",1038
+"0    Harish Raj Ponkumar
+Name: name, dtype: object",1038
+"0    Dylan Cossin
+Name: name, dtype: object",1038
+"0    Thomas Tinlin
+Name: name, dtype: object",1038
+"0    Xavier Evans
+Name: name, dtype: object",1038
+"0    Max Alidenes
+Name: name, dtype: object",1037
+"0    Luke Jankowiak
+Name: name, dtype: object",1037
+"0    Zachary Alexander Dang
+Name: name, dtype: object",1037
+"0    Bryan Frank
+Name: name, dtype: object",1037
+"0    Khayll Paolo Sandukan
+Name: name, dtype: object",1037
+"0    Aamir Saifee
+Name: name, dtype: object",1037
+"0    Fred Lang
+Name: name, dtype: object",1037
+"0    Mitchell William Su
+Name: name, dtype: object",1037
+"0    Jiaxuan Liu (刘佳璇)
+Name: name, dtype: object",1036
+"0    Jan Jabłoński
+Name: name, dtype: object",1036
+"0    Erik Akkersdijk
+Name: name, dtype: object",1036
+"0    Meng-Yi Li (李孟一)
+Name: name, dtype: object",1035
+"0    Geoffrey Li
+Name: name, dtype: object",1035
+"0    Omar Ghanem
+Name: name, dtype: object",1035
+"0    Caleb Clark
+Name: name, dtype: object",1035
+"0    Haozhen Ding (丁昊桢)
+Name: name, dtype: object",1035
+"0    Gabriel Rejdych
+Name: name, dtype: object",1035
+"0    Danny SungIn Park
+Name: name, dtype: object",1035
+"0    Leonard Wetzel
+Name: name, dtype: object",1035
+"0    Oliver Nguyen
+Name: name, dtype: object",1035
+"0    Fletcher Doolan
+Name: name, dtype: object",1035
+"0    Bence Kiácz
+Name: name, dtype: object",1034
+"0    Vincent Zheng
+Name: name, dtype: object",1034
+"0    Yunong Li (李雨浓)
+Name: name, dtype: object",1034
+"0    Xuzhe Li (李旭哲)
+Name: name, dtype: object",1034
+"0    Patrick Kleverlaan
+Name: name, dtype: object",1034
+"0    Jingyi Yu (俞景译)
+Name: name, dtype: object",1034
+"0    Kevin Vanegas Diaz
+Name: name, dtype: object",1034
+"0    Hargun Singh Tikku
+Name: name, dtype: object",1034
+"0    Jacob McGruddy
+Name: name, dtype: object",1034
+"0    Jiajun Wu (吴佳骏)
+Name: name, dtype: object",1034
+"0    Tim Major
+Name: name, dtype: object",1034
+"0    Wilbur Phillips
+Name: name, dtype: object",1034
+"0    Benjamin Kimber
+Name: name, dtype: object",1034
+"0    Keith Jackman
+Name: name, dtype: object",1034
+"0    Haowen Ge (葛浩文)
+Name: name, dtype: object",1034
+"0    Ivan Vanek
+Name: name, dtype: object",1034
+"0    Jaemin Chang (장재민)
+Name: name, dtype: object",1034
+"0    Anton Vovchenko
+Name: name, dtype: object",1033
+"0    Marc Tol
+Name: name, dtype: object",1033
+"0    Kunal Oak
+Name: name, dtype: object",1033
+"0    Caden Jing-Heng Kang
+Name: name, dtype: object",1033
+"0    Semen Lisovoy
+Name: name, dtype: object",1033
+"0    Guangtao Zhang (张广韬)
+Name: name, dtype: object",1033
+"0    Caio Hideaki Sato
+Name: name, dtype: object",1033
+"0    Jinzhao Li (李今朝)
+Name: name, dtype: object",1033
+"0    Josué Esteban Bacilio Chicoma
+Name: name, dtype: object",1033
+"0    Qizhe Ma (马启哲)
+Name: name, dtype: object",1033
+"0    Rami Sbahi
+Name: name, dtype: object",1032
+"0    Xiangwei Chen (陈相炜)
+Name: name, dtype: object",1032
+"0    Marco Jose Mercedes
+Name: name, dtype: object",1032
+"0    Matthew Duffin
+Name: name, dtype: object",1032
+"0    Pierce Boon
+Name: name, dtype: object",1032
+"0    Alexey Zharikov
+Name: name, dtype: object",1031
+"0    Matěj Grohmann
+Name: name, dtype: object",1031
+"0    Bartłomiej Krokos
+Name: name, dtype: object",1031
+"0    Yusef Krayem
+Name: name, dtype: object",1031
+"0    Duoling Xia (夏铎灵)
+Name: name, dtype: object",1031
+"0    Tamara Macadam
+Name: name, dtype: object",1031
+"0    Felipe Medel
+Name: name, dtype: object",1031
+"0    Luca Ruberto
+Name: name, dtype: object",1031
+"0    Hang Li (黎珩)
+Name: name, dtype: object",1031
+"0    Paul Mahvi
+Name: name, dtype: object",1031
+"0    Rafael Rodriguez Santana
+Name: name, dtype: object",1030
+"0    Joel Brandi
+Name: name, dtype: object",1030
+"0    Viktor Kalmar
+Name: name, dtype: object",1030
+"0    Stepan Anisimov (Степан Анисимов)
+Name: name, dtype: object",1030
+"0    Yanzhe Yu (于砚喆)
+Name: name, dtype: object",1030
+"0    Ethan Xu
+Name: name, dtype: object",1030
+"0    Terence Wang
+Name: name, dtype: object",1030
+"0    Wei-Ming Zeng (曾唯銘)
+Name: name, dtype: object",1030
+"0    Marcus Kamen
+Name: name, dtype: object",1029
+"0    Cornelius Dieckmann
+Name: name, dtype: object",1029
+"0    Lauren Phung
+Name: name, dtype: object",1029
+"0    Naren Ramesh
+Name: name, dtype: object",1029
+"0    Mihnea Andrei Panţu
+Name: name, dtype: object",1029
+"0    Zhengzhe Jiang (江政哲)
+Name: name, dtype: object",1029
+"0    Hadyan Jade Santosa
+Name: name, dtype: object",1029
+"0    Yuxuan Huang (黄宇轩)
+Name: name, dtype: object",1029
+"0    Pablo Contreras
+Name: name, dtype: object",1029
+"0    Jiaqi Han (韩家奇)
+Name: name, dtype: object",1028
+"0    Lauren Skerton
+Name: name, dtype: object",1028
+"0    Stian Nystad Østli
+Name: name, dtype: object",1028
+"0    Andrea Marconato
+Name: name, dtype: object",1028
+"0    Ethan Tan
+Name: name, dtype: object",1028
+"0    Michael Bratko
+Name: name, dtype: object",1028
+"0    Joey Saia
+Name: name, dtype: object",1028
+"0    Cooper Holmes
+Name: name, dtype: object",1028
+"0    Jason White
+Name: name, dtype: object",1027
+"0    Sergey Marin (Сергей Марьин)
+Name: name, dtype: object",1027
+"0    Aquila Janoschka
+Name: name, dtype: object",1027
+"0    Richard Madden
+Name: name, dtype: object",1027
+"0    Bahushruth Mitte
+Name: name, dtype: object",1027
+"0    Maxim Brednev (Максим Бреднев)
+Name: name, dtype: object",1027
+"0    Sebastian Werb
+Name: name, dtype: object",1027
+"0    Seth Windham
+Name: name, dtype: object",1027
+"0    Matthias Bos
+Name: name, dtype: object",1026
+"0    Jiaxuan Jiang (蒋佳轩)
+Name: name, dtype: object",1026
+"0    Orgil Otgonbayar (Отгонбаяр Оргил)
+Name: name, dtype: object",1026
+"0    Chris Choi
+Name: name, dtype: object",1026
+"0    Tejas Narayan
+Name: name, dtype: object",1026
+"0    Reuben Phillips
+Name: name, dtype: object",1026
+"0    Ilya Zelkin
+Name: name, dtype: object",1026
+"0    Alaik Bhatia
+Name: name, dtype: object",1026
+"0    Zixi Li (李梓熙)
+Name: name, dtype: object",1026
+"0    Piotr Buba
+Name: name, dtype: object",1026
+"0    Brandon Harris
+Name: name, dtype: object",1026
+"0    Maciej Czapiewski
+Name: name, dtype: object",1026
+"0    Maximus Ferrier
+Name: name, dtype: object",1025
+"0    Pietro Furbatto
+Name: name, dtype: object",1025
+"0    Adam Chodyniecki
+Name: name, dtype: object",1025
+"0    Yunfan Li (李云帆)
+Name: name, dtype: object",1025
+"0    Marco Vorländer
+Name: name, dtype: object",1025
+"0    Farid Mikhailov
+Name: name, dtype: object",1025
+"0    Ming Dao Ting
+Name: name, dtype: object",1025
+"0    John Remon Morris
+Name: name, dtype: object",1024
+"0    Mark Khudyakov (Марк Худяков)
+Name: name, dtype: object",1024
+"0    Przemysław Rogalski
+Name: name, dtype: object",1024
+"0    Peter Weyers
+Name: name, dtype: object",1024
+"0    Frederik Løchte
+Name: name, dtype: object",1024
+"0    Jakob Fiechter
+Name: name, dtype: object",1024
+"0    Tommy Kiprillis
+Name: name, dtype: object",1024
+"0    Charles Downie
+Name: name, dtype: object",1024
+"0    Alex Tedeschi
+Name: name, dtype: object",1024
+"0    Qinglin Chen (陈庆霖)
+Name: name, dtype: object",1024
+"0    Zhuocheng Miao (苗卓成)
+Name: name, dtype: object",1024
+"0    Francisco Moraes Mandalozzo
+Name: name, dtype: object",1023
+"0    Sicheng Gu (顾思成)
+Name: name, dtype: object",1023
+"0    Lir Ukaj
+1    Lir Ukaj
+Name: name, dtype: object",1023
+"0    Andres Flügel
+Name: name, dtype: object",1023
+"0    Beom San Kim (김범산)
+Name: name, dtype: object",1023
+"0    Junkai Yang (杨竣凯)
+Name: name, dtype: object",1023
+"0    Piero Alessandro Laguna Obregón
+Name: name, dtype: object",1023
+"0    Ben Uren
+Name: name, dtype: object",1023
+"0    Kyle Van Straaten
+Name: name, dtype: object",1023
+"0    Yen-Pin Xiao (蕭彥平)
+Name: name, dtype: object",1023
+"0    Huining Huang (黄徽宁)
+Name: name, dtype: object",1022
+"0    Zongze Lin (蔺宗泽)
+Name: name, dtype: object",1022
+"0    Futian Tan (谈符天)
+Name: name, dtype: object",1022
+"0    Imran Rahman
+Name: name, dtype: object",1022
+"0    Hao Zhang (张昊)
+Name: name, dtype: object",1022
+"0    Bartosz Karpiński
+Name: name, dtype: object",1022
+"0    Róbert Maróti
+Name: name, dtype: object",1022
+"0    Phạm Đức Phước
+Name: name, dtype: object",1022
+"0    Stanley Wang
+Name: name, dtype: object",1022
+"0    Cheng-Ru Yang
+Name: name, dtype: object",1021
+"0    Ekaterina Kaneva
+Name: name, dtype: object",1021
+"0    Noah Whelehan
+Name: name, dtype: object",1021
+"0    Remo Pihel
+Name: name, dtype: object",1021
+"0    David Mortenson
+Name: name, dtype: object",1021
+"0    Hanlin Lin (林瀚林)
+Name: name, dtype: object",1021
+"0    Yotam Magal
+Name: name, dtype: object",1021
+"0    CJ York
+Name: name, dtype: object",1021
+"0    Jordan Herman
+Name: name, dtype: object",1020
+"0    Renato Pardo
+Name: name, dtype: object",1020
+"0    Mihály Horváth
+Name: name, dtype: object",1020
+"0    Zesheng Li (李泽生)
+Name: name, dtype: object",1020
+"0    Aiden Bartlett
+Name: name, dtype: object",1020
+"0    Zhuo Zhang (张卓)
+Name: name, dtype: object",1020
+"0    Daxton Sor
+Name: name, dtype: object",1020
+"0    Daniel Wallin
+Name: name, dtype: object",1020
+"0    Jerrin Bailey
+Name: name, dtype: object",1020
+"0    Ethan Pride
+Name: name, dtype: object",1020
+"0    Zach Dowthwaite
+Name: name, dtype: object",1020
+"0    Evan Setiawan
+Name: name, dtype: object",1020
+"0    Mathai Manavalan
+Name: name, dtype: object",1019
+"0    Vladislav Shurshilin
+Name: name, dtype: object",1019
+"0    Brian Johnson
+Name: name, dtype: object",1019
+"0    Artyom Shevchenko (Артём Шевченко)
+Name: name, dtype: object",1019
+"0    Jan Bentlage
+Name: name, dtype: object",1019
+"0    Lei Liu (刘磊)
+Name: name, dtype: object",1019
+"0    Alyssa Bernardo
+Name: name, dtype: object",1019
+"0    Lachlan Cooke
+Name: name, dtype: object",1019
+"0    Vilius Ribinskas
+Name: name, dtype: object",1019
+"0    Shengxiang Cui (崔盛翔)
+Name: name, dtype: object",1019
+"0    Felix Kiera
+Name: name, dtype: object",1018
+"0    Nicolás Shwkyng Monroy
+Name: name, dtype: object",1018
+"0    Wojciech Barciaga
+Name: name, dtype: object",1018
+"0    Zedan Mohamed Ahmed
+Name: name, dtype: object",1018
+"0    Ruben Stanford
+Name: name, dtype: object",1018
+"0    Yongchang Wang (王永昌)
+Name: name, dtype: object",1018
+"0    Brendan Miles
+Name: name, dtype: object",1018
+"0    Muhammad Dipa Budiono
+Name: name, dtype: object",1018
+"0    Vicenzo Guerino Cecchini
+Name: name, dtype: object",1018
+"0    Edward Rust
+Name: name, dtype: object",1017
+"0    Yun-Rui Chiang (江昀叡)
+Name: name, dtype: object",1017
+"0    Benjamin Riske
+Name: name, dtype: object",1017
+"0    Jordan Nguyen
+Name: name, dtype: object",1017
+"0    Thomas Smith
+Name: name, dtype: object",1017
+"0    Andrew Sherman
+Name: name, dtype: object",1017
+"0    Tamanna Ramprasad
+Name: name, dtype: object",1017
+"0    Schwyn Ratanakarn
+Name: name, dtype: object",1017
+"0    Wonbao Kua
+Name: name, dtype: object",1017
+"0    Shuo Liu (刘硕)
+Name: name, dtype: object",1017
+"0    Yingguang Chen (陈映光)
+Name: name, dtype: object",1016
+"0    Mahith Bandi
+Name: name, dtype: object",1016
+"0    Lincoln Pearce
+Name: name, dtype: object",1016
+"0    Joseph Norton
+Name: name, dtype: object",1016
+"0    Jinyu Zhang (张锦誉)
+Name: name, dtype: object",1016
+"0    Aryan Nand
+Name: name, dtype: object",1015
+"0    Austin Jensen
+Name: name, dtype: object",1015
+"0    Max Bradley-McFawn
+Name: name, dtype: object",1015
+"0    Yuheng Su (苏昱衡)
+Name: name, dtype: object",1015
+"0    Yi-Fan Wu (吳亦凡)
+Name: name, dtype: object",1015
+"0    Arinze Owoh
+Name: name, dtype: object",1015
+"0    Joseph Tudor
+Name: name, dtype: object",1015
+"0    Alejandro Restrepo Echeverri
+Name: name, dtype: object",1015
+"0    Nixin Wong
+Name: name, dtype: object",1015
+"0    Mikhail Miklyaev (Михаил Микляев)
+Name: name, dtype: object",1015
+"0    Dylan Seah Tze Siang
+Name: name, dtype: object",1014
+"0    Joaquin Ruenes Hernández
+Name: name, dtype: object",1014
+"0    Bogdan Zemlianskii (Богдан Землянский)
+Name: name, dtype: object",1014
+"0    Yiğit Eren Bakır
+Name: name, dtype: object",1014
+"0    Lev Bruskov (Лев Брусков)
+Name: name, dtype: object",1014
+"0    Harry Jun
+Name: name, dtype: object",1014
+"0    Vladimir Fedorov
+Name: name, dtype: object",1014
+"0    Ray Cusack
+Name: name, dtype: object",1014
+"0    Aston Culf
+Name: name, dtype: object",1014
+"0    Timothy Townley
+Name: name, dtype: object",1014
+"0    Christopher Connolly
+Name: name, dtype: object",1014
+"0    Li Chak Kwan (李澤堃)
+Name: name, dtype: object",1014
+"0    Dev Agarwal
+Name: name, dtype: object",1014
+"0    Yuri Donati
+Name: name, dtype: object",1014
+"0    Huston Vu-Duc
+Name: name, dtype: object",1014
+"0    DongSu Park (박동수)
+Name: name, dtype: object",1014
+"0    Timothy Castle
+Name: name, dtype: object",1013
+"0    Zhenyang Liu (刘臻阳)
+Name: name, dtype: object",1013
+"0    Soul Gerdsen-Jensen
+Name: name, dtype: object",1013
+"0    Ahmad Ayman
+Name: name, dtype: object",1013
+"0    Yixuan Han (韩懿轩)
+Name: name, dtype: object",1013
+"0    Noah Aaron Pearson
+Name: name, dtype: object",1013
+"0    Zhourun Yang (杨周润)
+Name: name, dtype: object",1013
+"0    Jannis Demmig
+Name: name, dtype: object",1013
+"0    Shengxi Tian (田晟熙)
+Name: name, dtype: object",1013
+"0    Yangshuo Teng (滕仰硕)
+Name: name, dtype: object",1013
+"0    Chenchen Ge (葛陈晨)
+Name: name, dtype: object",1013
+"0    Aaron Huynh
+Name: name, dtype: object",1012
+"0    Alexander Terekhov
+Name: name, dtype: object",1012
+"0    Nolan Wood
+Name: name, dtype: object",1012
+"0    Zhangbo Xia (夏章博)
+Name: name, dtype: object",1012
+"0    Ethan Pan
+Name: name, dtype: object",1012
+"0    Yiyi Xing (邢祎祎)
+Name: name, dtype: object",1011
+"0    David Petru Ciubuc
+Name: name, dtype: object",1011
+"0    Nikita Galchenko (Никита Гальченко)
+Name: name, dtype: object",1011
+"0    Anderson Fielding
+Name: name, dtype: object",1011
+"0    Yuhui Hu (胡宇辉)
+Name: name, dtype: object",1011
+"0    Shih-Hao Wang (王士豪)
+Name: name, dtype: object",1011
+"0    Kejian Shi (史可鉴)
+Name: name, dtype: object",1011
+"0    Joaquin Abarca
+Name: name, dtype: object",1011
+"0    Reed Pratt
+Name: name, dtype: object",1011
+"0    Milan Struyf
+Name: name, dtype: object",1011
+"0    Henry Lichner
+Name: name, dtype: object",1011
+"0    Winston Chin
+Name: name, dtype: object",1011
+"0    Mikołaj Tyra
+Name: name, dtype: object",1010
