@@ -2,7 +2,6 @@
 import pandas as pd
 import numpy as np
 from datetime import datetime
-from wca_stats import WcaFunctions as wf
 
 # Data Frames
 low_memory = False
@@ -40,9 +39,21 @@ def wcaname(ids):
     for wcaid in ids:
         x = persons[persons.id == wcaid].reset_index(drop="index").name
         if len(x) == 0:
+            print(wcaid)
             z.append(wcaid)
         else:
-            z.append(x)
+            z.append(x[len(x) - 1])
+    return z
+
+
+def wcacountry(ids):
+    z = []
+    for wcaid in ids:
+        x = persons[persons.id == wcaid].reset_index(drop="index").countryId
+        if len(x) == 0:
+            z.append("Null")
+        else:
+            z.append(x[len(x) - 1])
     return z
 
 
@@ -226,6 +237,7 @@ if start:
             y = d.sort_values(event, ascending=False).reset_index(drop="index")
             y = y[:1000]
             y["name"] = wcaname(y["personId"])
-            y = y[["name", event]]
+            y["country"] = wcacountry(y["personId"])
+            y = y[["name", "country", event]]
             y.to_csv("top_1000_elo_" + event + ".csv", index=False)
             print("Finished " + event)

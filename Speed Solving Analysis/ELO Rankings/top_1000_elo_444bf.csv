@@ -1,2005 +1,1001 @@
-name,444bf
-"0    Yinhao Ding
-Name: name, dtype: object",1057
-"0    Stanley Chapel
-Name: name, dtype: object",1046
-"0    Michael Tripodi
-Name: name, dtype: object",1000
-"0    Jeremy Sheng
-Name: name, dtype: object",986
-"0    Anthony Rochester
-Name: name, dtype: object",976
-"0    Amy Eguchi-Fergusson
-Name: name, dtype: object",975
-"0    Sergey Marin (Сергей Марьин)
-Name: name, dtype: object",975
-"0    Ming Dao Ting
-Name: name, dtype: object",973
-"0    Lennon Hughes
-Name: name, dtype: object",967
-"0    Jeremy Crouther
-Name: name, dtype: object",966
-"0    Kaijun Lin (林恺俊)
-Name: name, dtype: object",957
-"0    Ryan Paroz
-Name: name, dtype: object",944
-"0    Kacper Paweł Dworak
-Name: name, dtype: object",922
-"0    Isaac Wells
-Name: name, dtype: object",911
-"0    Pedro Henrique de Jesus Silva
-Name: name, dtype: object",905
-"0    Sam Sieracki
-Name: name, dtype: object",904
-"0    Witali Bułatow
-Name: name, dtype: object",902
-"0    Zabir Bin Moaj
-Name: name, dtype: object",899
-"0    Sergio Antonio Galvan Beltran
-Name: name, dtype: object",896
-"0    Gustavo Dutra Santolin
-Name: name, dtype: object",885
-"0    Jan Fonš
-Name: name, dtype: object",882
-"0    Jhasmani Oxa Lopez
-Name: name, dtype: object",877
-"0    Naoto Shinagawa (品川直登)
-Name: name, dtype: object",877
-"0    Cedric Meysing
-Name: name, dtype: object",875
-"0    Aaron Spiller
-Name: name, dtype: object",871
-"0    Charlie Harrison
-Name: name, dtype: object",867
-"0    Mohammed Aiman Koli
-Name: name, dtype: object",865
-"0    Swami Srinivasan
-Name: name, dtype: object",862
-"0    Kamil Przybylski
-Name: name, dtype: object",861
-"0    Abhijeet Ghodgaonkar
-Name: name, dtype: object",861
-"0    Adrian Dębski
-Name: name, dtype: object",858
-"0    Timo Norrkniivilä
-Name: name, dtype: object",856
-"0    Sukant Koul
-Name: name, dtype: object",855
-"0    Rowe Hessler
-Name: name, dtype: object",853
-"0    Brandon Poulton
-Name: name, dtype: object",851
-"0    Evgeniy Lee
-Name: name, dtype: object",851
-"0    Renan da Cunha Santos
-Name: name, dtype: object",850
-"0    Jeyamurugesh Jeyaraj
-Name: name, dtype: object",849
-"0    Tyler Williams
-Name: name, dtype: object",847
-"0    Mengfei Shen (沈梦非)
-Name: name, dtype: object",845
-"0    Thomás Lima Braga
-Name: name, dtype: object",844
-"0    Graham Siggins
-Name: name, dtype: object",843
-"0    Joshua Hounslow
-Name: name, dtype: object",837
-"0    Cale Schoon
-Name: name, dtype: object",835
-"0    Oliver Wheat
-Name: name, dtype: object",834
-"0    Mikołaj Salamon
-Name: name, dtype: object",834
-"0    Teruki Tamura (田村旭輝)
-Name: name, dtype: object",833
-"0    Muhtasim Al Farabi
-Name: name, dtype: object",831
-"0    Joshua Feran
-Name: name, dtype: object",828
-"0    Marcos Ferreira Semolini
-Name: name, dtype: object",827
-"0    Nicholas Paul
-Name: name, dtype: object",825
-"0    Andrii Lushpak (Андрій Лушпак)
-Name: name, dtype: object",819
-"0    Brayden Wroten
-Name: name, dtype: object",819
-"0    Nevins Chan Pak Hoong (陈百鸿)
-Name: name, dtype: object",818
-"0    Noah Kraft
-Name: name, dtype: object",817
-"0    Harry Savage
-Name: name, dtype: object",813
-"0    Yuki Yamamoto (山本祐輝)
-Name: name, dtype: object",811
-"0    Hari Anirudh
-Name: name, dtype: object",807
-"0    Christopher Sun
-Name: name, dtype: object",802
-"0    Simon Kelly
-Name: name, dtype: object",801
-"0    Jeremiah Martin
-Name: name, dtype: object",801
-"0    Haozhen Ding (丁昊桢)
-Name: name, dtype: object",796
-"0    Bill Wang
-Name: name, dtype: object",794
-"0    Sebastiano Tronto
-Name: name, dtype: object",794
-"0    Jason White
-Name: name, dtype: object",793
-"0    Oliver Fritz
-Name: name, dtype: object",792
-"0    Shivam Bansal
-Name: name, dtype: object",792
-"0    Jayden Lederer
-Name: name, dtype: object",792
-"0    Nicholas Tan Jun Wei
-Name: name, dtype: object",790
-"0    Naoki Tani (谷直輝)
-Name: name, dtype: object",788
-"0    Hui Cai (蔡辉)
-Name: name, dtype: object",787
-"0    Dieter Amberger
-Name: name, dtype: object",786
-"0    Yuri de Oliveira
-Name: name, dtype: object",786
-"0    Gabriel Barrios
-Name: name, dtype: object",784
-"0    Daniel Wallin
-Name: name, dtype: object",780
-"0    Brandon Pierel
-Name: name, dtype: object",777
-"0    Bence Barát
-Name: name, dtype: object",777
-"0    Steven Kearns
-Name: name, dtype: object",775
-"0    Linus Frész
-Name: name, dtype: object",775
-"0    Peri Le Dain
-1    Peri Le Dain
-Name: name, dtype: object",772
-"0    Alyssa Bell
-Name: name, dtype: object",767
-"0    Lee Zhi Xuan
-Name: name, dtype: object",767
-"0    István Kocza
-Name: name, dtype: object",767
-"0    Ng Jia Quan (黄佳铨)
-Name: name, dtype: object",766
-"0    Jonathan Charlesworth
-Name: name, dtype: object",765
-"0    Hiroto Fujita (藤田浩斗)
-Name: name, dtype: object",765
-"0    Jack Cai
-Name: name, dtype: object",764
-"0    Caleb Hall
-Name: name, dtype: object",762
-"0    Haijun Tan (谭海俊)
-Name: name, dtype: object",761
-"0    Vincent Chen
-Name: name, dtype: object",759
-"0    Sandy Aaron Jones
-Name: name, dtype: object",758
-"0    Bo-Yu Lin (林柏佑)
-Name: name, dtype: object",757
-"0    Quentin Rivault
-Name: name, dtype: object",756
-"0    Timur Kabizhanov (Тимур Кабижанов)
-Name: name, dtype: object",755
-"0    Jan Bentlage
-Name: name, dtype: object",755
-"0    Beomseok Ryu (류범석)
-Name: name, dtype: object",754
-"0    Chen-Pin Sun (孫振斌)
-Name: name, dtype: object",753
-"0    Alan Galym (Алан Галым)
-Name: name, dtype: object",752
-"0    Max Siauw
-Name: name, dtype: object",751
-"0    Neel Gore
-Name: name, dtype: object",751
-"0    Ben Erwin
-Name: name, dtype: object",747
-"0    Toma Kishimoto (岸本到馬)
-Name: name, dtype: object",743
-"0    Akshaansh Chilakapati
-Name: name, dtype: object",741
-"0    Aditya Vij
-Name: name, dtype: object",740
-"0    Jakub Drobný
-Name: name, dtype: object",740
-"0    Andy Nicholls
-Name: name, dtype: object",739
-"0    Charles Barden
-Name: name, dtype: object",737
-"0    Patrick Kleverlaan
-Name: name, dtype: object",737
-"0    Julian Galliano
-Name: name, dtype: object",735
-"0    Marharyta Dovbii (Маргарита Довбій)
-Name: name, dtype: object",734
-"0    Alex Taylor
-Name: name, dtype: object",732
-"0    Arthur Garcin
-Name: name, dtype: object",730
-"0    Frederico Canal Gomes
-Name: name, dtype: object",728
-"0    Jagadish Muthuram
-Name: name, dtype: object",727
-"0    Jeon Junhyeok (전준혁)
-Name: name, dtype: object",727
-"0    Antonio Isaías Martínez Santos
-Name: name, dtype: object",727
-"0    Christopher Baird
-Name: name, dtype: object",726
-"0    Thomas Reinke
-Name: name, dtype: object",726
-"0    Rodrigo Aguilar
-Name: name, dtype: object",724
-"0    Matthew Bidwell
-Name: name, dtype: object",723
-"0    Takafumi Sakakibara (榊原隆文)
-Name: name, dtype: object",721
-"0    Joseph Daus
-Name: name, dtype: object",719
-"0    Lucas Pedersson
-Name: name, dtype: object",719
-"0    Krishna Pranav Balasubramanian
-Name: name, dtype: object",717
-"0    Paul Taylor
-Name: name, dtype: object",717
-"0    Maksym Dumanskyi (Максим Думанський)
-Name: name, dtype: object",717
-"0    Christopher Connolly
-Name: name, dtype: object",717
-"0    Anuar Miguel Abib Onofre
-Name: name, dtype: object",716
-"0    Bill Hammill
-Name: name, dtype: object",716
-"0    Frederik Rollmann
-Name: name, dtype: object",716
-"0    Charles Martinson
-Name: name, dtype: object",715
-"0    Evan Liu
-Name: name, dtype: object",713
-"0    Oliver Frost
-Name: name, dtype: object",712
-"0    Samuel Hernandez Castro
-Name: name, dtype: object",712
-"0    Sameer Aggarwal
-Name: name, dtype: object",710
-"0    Eddie Smith
-Name: name, dtype: object",709
-"0    Modest Podzolkin
-Name: name, dtype: object",709
-"0    Maxime Madrzyk
-Name: name, dtype: object",709
-"0    Charley Abcouwer
-Name: name, dtype: object",708
-"0    Jonathan Blöcher
-Name: name, dtype: object",707
-"0    William Wright
-Name: name, dtype: object",707
-"0    Martin Vædele Egdal
-Name: name, dtype: object",706
-"0    DongJae Lee
-Name: name, dtype: object",706
-"0    Christian Montoya
-Name: name, dtype: object",705
-"0    David Pearce
-Name: name, dtype: object",704
-"0    Xin Shi (石欣)
-Name: name, dtype: object",704
-"0    Bibhushan Saakha
-Name: name, dtype: object",704
-"0    Jaden Lim
-Name: name, dtype: object",703
-"0    Kristian Holme
-Name: name, dtype: object",702
-"0    Sergio de la Mora García
-Name: name, dtype: object",702
-"0    Takayuki Tanaka (田中隆喜)
-Name: name, dtype: object",701
-"0    Robert Alden
-Name: name, dtype: object",701
-"0    Chloe Lee Synn Yii
-Name: name, dtype: object",701
-"0    Joel Cetra
-Name: name, dtype: object",700
-"0    Oleg Gritsenko
-Name: name, dtype: object",700
-"0    Jia-Hong Lu (陸嘉宏)
-Name: name, dtype: object",699
-"0    Elliot Wiecek
-Name: name, dtype: object",698
-"0    Armando Dian
-Name: name, dtype: object",698
-"0    Erlend Ektvedt Fredriksen
-Name: name, dtype: object",696
-"0    Szabolcs Szántai
-Name: name, dtype: object",696
-"0    Jack Love
-Name: name, dtype: object",696
-"0    Dan Alexandru Cechi
-Name: name, dtype: object",696
-"0    Jonas Di Dier
-Name: name, dtype: object",695
-"0    Tiffany Soh (蘇明珠)
-Name: name, dtype: object",694
-"0    Shrijan Pal
-Name: name, dtype: object",694
-"0    Carter Kucala
-Name: name, dtype: object",693
-"0    Roman Strakhov
-Name: name, dtype: object",693
-"0    Ben Lemkin
-Name: name, dtype: object",693
-"0    Johnathan Starkey
-Name: name, dtype: object",693
-"0    Grigorii Alekseev
-Name: name, dtype: object",691
-"0    Fletcher Berry
-Name: name, dtype: object",690
-"0    Minhyun Kim (김민현)
-Name: name, dtype: object",688
-"0    Jason Harley
-Name: name, dtype: object",687
-"0    Igor Brazhnikov (Игорь Бражников)
-Name: name, dtype: object",687
-"0    Conan Mo
-Name: name, dtype: object",687
-"0    Bowen Xiao (肖博文)
-Name: name, dtype: object",686
-"0    Feliks Zemdegs
-Name: name, dtype: object",685
-"0    Will Belote
-Name: name, dtype: object",685
-"0    Santino Maiorino
-Name: name, dtype: object",685
-"0    James Quinn
-Name: name, dtype: object",683
-"0    Sukesh Kumar
-Name: name, dtype: object",683
-"0    Leia Jiang
-Name: name, dtype: object",682
-"0    Keiichiro Taira (平佳一郎)
-Name: name, dtype: object",682
-"0    Alexey Kislovskiy
-Name: name, dtype: object",681
-"0    Georgiy Titov (Георгій Тітов)
-Name: name, dtype: object",680
-"0    James McCambridge
-Name: name, dtype: object",680
-"0    Dylan Swarts
-Name: name, dtype: object",680
-"0    Walker Welch
-Name: name, dtype: object",679
-"0    Bradley Sampson
-Name: name, dtype: object",679
-"0    Aedan Bryant
-Name: name, dtype: object",679
-"0    Gabriel Lincon Souza
-Name: name, dtype: object",678
-"0    Mateusz Mączka
-Name: name, dtype: object",677
-"0    Ethan Honest
-Name: name, dtype: object",677
-"0    Abhi Majumdar
-Name: name, dtype: object",676
-"0    Arsène Laffarre
-Name: name, dtype: object",674
-"0    Tom Nelson
-Name: name, dtype: object",673
-"0    Ehikhuemen Paul
-Name: name, dtype: object",673
-"0    Jacob Ambrose
-Name: name, dtype: object",672
-"0    Aoden Teo Masa Toshi
-Name: name, dtype: object",671
-"0    Dmitrii Saukov (Дмитрий Сауков)
-Name: name, dtype: object",670
-"0    Keenan Johnson
-Name: name, dtype: object",666
-"0    Diego Brizuela Crespo
-Name: name, dtype: object",666
-"0    Sean Moran
-Name: name, dtype: object",666
-"0    James Moore
-Name: name, dtype: object",666
-"0    Zachary Zurawski
-Name: name, dtype: object",665
-"0    Dattatreya Chodavarapu
-Name: name, dtype: object",664
-"0    Abhijat Sahu
-Name: name, dtype: object",664
-"0    Kit Clement
-Name: name, dtype: object",664
-"0    Syougo Kamo (加茂翔吾)
-Name: name, dtype: object",663
-"0    Luiz Fellipe Oliuza Leal Silva
-Name: name, dtype: object",663
-"0    Jae Park
-Name: name, dtype: object",663
-"0    Igor Aipkin
-Name: name, dtype: object",663
-"0    Lim Chun Yik
-Name: name, dtype: object",662
-"0    Jose Javier Melendez Maldonado
-Name: name, dtype: object",662
-"0    Giovanni Tanaka (陈华安)
-Name: name, dtype: object",661
-"0    Nabeel Mahmood
-Name: name, dtype: object",659
-"0    Israel Fraga da Silva
-Name: name, dtype: object",659
-"0    Martin Brath
-Name: name, dtype: object",658
-"0    Pedro Lobeto Miyamoto
-Name: name, dtype: object",658
-"0    Ákos Dél
-Name: name, dtype: object",657
-"0    Joey Mait
-Name: name, dtype: object",657
-"0    Daniel Anker Hermansen
-Name: name, dtype: object",657
-"0    Davis Pogor
-Name: name, dtype: object",656
-"0    Elvin Thorsen
-Name: name, dtype: object",656
-"0    Michael Alexander
-Name: name, dtype: object",656
-"0    Corey Sakowski
-Name: name, dtype: object",656
-"0    Zak Kenny
-Name: name, dtype: object",655
-"0    Sanjay Jacob
-Name: name, dtype: object",653
-"0    Pedro Trujillo García
-Name: name, dtype: object",651
-"0    Ainesh Sevellaraja
-Name: name, dtype: object",651
-"0    Zamir Pantoja
-Name: name, dtype: object",650
-"0    Hyeok Yang (양혁)
-Name: name, dtype: object",650
-"0    Francis Daniels Veğeris
-Name: name, dtype: object",649
-"0    Riley Woo
-Name: name, dtype: object",649
-"0    Katalin Horváth
-Name: name, dtype: object",648
-"0    Mihály Horváth
-Name: name, dtype: object",648
-"0    Ryan Pilat
-Name: name, dtype: object",648
-"0    Jode Brewster
-Name: name, dtype: object",646
-"0    Michał Krasowski
-Name: name, dtype: object",646
-"0    Lev Golub (Лев Голуб)
-Name: name, dtype: object",645
-"0    Matthew Sheerin
-Name: name, dtype: object",645
-"0    Yuto Date (伊達優人)
-Name: name, dtype: object",645
-"0    Nitesh Kumar
-Name: name, dtype: object",645
-"0    Jason Ostdiek
-Name: name, dtype: object",645
-"0    Cheng-Ru Yang
-Name: name, dtype: object",644
-"0    Kyra Joiner
-Name: name, dtype: object",643
-"0    Sam Spendla
-Name: name, dtype: object",642
-"0    Kerry Creech
-Name: name, dtype: object",642
-"0    Philippe Schwartz
-Name: name, dtype: object",642
-"0    Chong Jen Foong (莊振峰)
-Name: name, dtype: object",641
-"0    Tyler Farr
-Name: name, dtype: object",641
-"0    Cheng Hiu Yeung (鄭曉洋)
-Name: name, dtype: object",641
-"0    Tomas Kristiansson
-Name: name, dtype: object",640
-"0    Raymond Goslow
-Name: name, dtype: object",639
-"0    Michael Conard
-Name: name, dtype: object",638
-"0    Christopher G. Argueta
-Name: name, dtype: object",637
-"0    Kaemen Te Dengjian
-Name: name, dtype: object",637
-"0    Achyut Kayastha
-Name: name, dtype: object",635
-"0    Benjamin Paul
-Name: name, dtype: object",635
-"0    Yurii Riabov (Юрій Рябов)
-Name: name, dtype: object",635
-"0    Tobias Peter
-Name: name, dtype: object",635
-"0    Ahmad Naufal Hakim
-Name: name, dtype: object",633
-"0    Daniel Mullen
-Name: name, dtype: object",633
-"0    Angel Torres Perez
-Name: name, dtype: object",632
-"0    Manuel Gutman
-Name: name, dtype: object",632
-"0    Miles Lipka
-Name: name, dtype: object",630
-"0    Simone Ohler
-Name: name, dtype: object",630
-"0    Joel Brown Brisola
-Name: name, dtype: object",630
-"0    Hyun-Kyoo Rah (나현규)
-Name: name, dtype: object",630
-"0    Komal Gupta
-Name: name, dtype: object",629
-"0    Elliott Kobelansky
-Name: name, dtype: object",629
-"0    Ethan Davis
-Name: name, dtype: object",629
-"0    Vladimir Sergeev
-Name: name, dtype: object",628
-"0    Zayd Chaudhry
-Name: name, dtype: object",627
-"0    Manu Vereecken
-Name: name, dtype: object",627
-"0    Harsh Maheshwari
-Name: name, dtype: object",626
-"0    Masato Fujiwara (藤原正人)
-Name: name, dtype: object",626
-"0    Li-Wei Wu (吳立偉)
-Name: name, dtype: object",624
-"0    Emile Compion
-Name: name, dtype: object",624
-"0    Kai Roff
-Name: name, dtype: object",622
-"0    Leon Tran
-Name: name, dtype: object",622
-"0    Nikita Ovsyannikov (Никита Овсянников)
-Name: name, dtype: object",621
-"0    Tommy Cherry
-Name: name, dtype: object",621
-"0    Clément Cherblanc
-Name: name, dtype: object",621
-"0    Nicholas Patterson
-Name: name, dtype: object",620
-"0    Alaik Bhatia
-Name: name, dtype: object",620
-"0    Jorge Augusto Siqueira Pinto
-Name: name, dtype: object",619
-"0    Michał Mlostek
-Name: name, dtype: object",619
-"0    Guilherme Santana Campos
-Name: name, dtype: object",619
-"0    Eero Laasonen
-Name: name, dtype: object",619
-"0    Qingze Li (李庆泽)
-Name: name, dtype: object",619
-"0    Fryderyk Janiak
-Name: name, dtype: object",617
-"0    Enoch Gray
-Name: name, dtype: object",617
-"0    Luca Stalpers
-Name: name, dtype: object",617
-"0    Mats Bergsten
-Name: name, dtype: object",617
-"0    Carson Claud
-Name: name, dtype: object",617
-"0    AJ Kamal
-Name: name, dtype: object",617
-"0    Kacper Rafalski
-Name: name, dtype: object",616
-"0    Korakot Inkaew (กรกฎ อิ่นแก้ว)
-Name: name, dtype: object",616
-"0    Ethan Pan
-Name: name, dtype: object",616
-"0    Oliver Grace
-Name: name, dtype: object",615
-"0    Pauline Clémenceau
-Name: name, dtype: object",615
-"0    Andrii Moisol (Андрій Мойсол)
-Name: name, dtype: object",615
-"0    Gabriel Coates
-Name: name, dtype: object",615
-"0    Nikhil Soares
-Name: name, dtype: object",615
-"0    Kate Grahame
-Name: name, dtype: object",613
-"0    Fernando Israel Zúñiga Macedo
-Name: name, dtype: object",613
-"0    Simon Busko
-Name: name, dtype: object",613
-"0    Wenxuan Yue (岳文轩)
-Name: name, dtype: object",613
-"0    Oleksandr Ivanchak (Олександр Іванчак)
-Name: name, dtype: object",612
-"0    Natthaphat Mahtani (ณัฐภัทร จี มาทานี)
-Name: name, dtype: object",612
-"0    Kristian Gil Caragan
-Name: name, dtype: object",612
-"0    Ron Libman
-Name: name, dtype: object",612
-"0    Vianne Chang
-Name: name, dtype: object",610
-"0    Enzo Mattos
-Name: name, dtype: object",610
-"0    Oliver Castledine
-Name: name, dtype: object",607
-"0    Matthew Vazquez
-Name: name, dtype: object",606
-"0    Josh Weimer
-Name: name, dtype: object",606
-"0    Yoshio Matsumoto (松本嘉夫)
-Name: name, dtype: object",606
-"0    Myles Jarman
-Name: name, dtype: object",605
-"0    Peter Weyers
-Name: name, dtype: object",604
-"0    Jolo Endona
-Name: name, dtype: object",603
-"0    Victor Tang Yao Jun (湯曜駿)
-Name: name, dtype: object",603
-"0    Parth Garg
-Name: name, dtype: object",603
-"0    Jakob Gunnarsson
-Name: name, dtype: object",603
-"0    Wesley Miller
-Name: name, dtype: object",603
-"0    Wayne Pi
-Name: name, dtype: object",603
-"0    Zhe Wang (王哲)
-Name: name, dtype: object",603
-"0    Hill Pong Yong Feng
-Name: name, dtype: object",603
-"0    Thor Muto Asmund
-Name: name, dtype: object",602
-"0    Daniel Alejandro Torres Moreno
-Name: name, dtype: object",602
-"0    Pascal Ordano
-Name: name, dtype: object",602
-"0    Cole Campbell
-Name: name, dtype: object",602
-"0    Mark Rivers
-Name: name, dtype: object",602
-"0    Braden Richards
-Name: name, dtype: object",601
-"0    Tam Quan
-Name: name, dtype: object",601
-"0    Daniel Atlas
-Name: name, dtype: object",600
-"0    Reuben San Luis
-Name: name, dtype: object",600
-"0    Samuel Moliver
-Name: name, dtype: object",599
-"0    Jacob Shum
-Name: name, dtype: object",598
-"0    Chenhao Sun (孙晨皓)
-Name: name, dtype: object",598
-"0    Hrithik Solanki
-Name: name, dtype: object",596
-"0    Paul Mahvi
-Name: name, dtype: object",596
-"0    Adel Mosallami
-Name: name, dtype: object",595
-"0    Darren Siew Ee Yaang (蕭奕暘)
-Name: name, dtype: object",594
-"0    Pedro Luiz Ferreira Pires
-Name: name, dtype: object",594
-"0    Cameron Asato
-Name: name, dtype: object",594
-"0    Simon Westlund
-Name: name, dtype: object",594
-"0    Jose Polorhenzo Aquino
-Name: name, dtype: object",593
-"0    Matthew Sieredzinski
-Name: name, dtype: object",593
-"0    Max Xiong (熊锐明)
-Name: name, dtype: object",593
-"0    Shantanu Modak
-Name: name, dtype: object",592
-"0    Liam Highducheck
-Name: name, dtype: object",592
-"0    Yifan Wang (王逸帆)
-Name: name, dtype: object",591
-"0    Valentin Lanz
-Name: name, dtype: object",590
-"0    Brett Barry
-Name: name, dtype: object",590
-"0    Richard-Mattias Prints
-Name: name, dtype: object",590
-"0    Gintaras Grėbliūnas
-Name: name, dtype: object",590
-"0    Jared Stinson
-Name: name, dtype: object",590
-"0    Kalyani H. Kiran
-Name: name, dtype: object",589
-"0    Assylkhan Meirkhanov (Асылхан Мейрханов)
-Name: name, dtype: object",589
-"0    Dawid Wójcik
-Name: name, dtype: object",589
-"0    Olli Vikstedt
-Name: name, dtype: object",589
-"0    Emilio Alberto Rodríguez Jiménez
-Name: name, dtype: object",588
-"0    Liam Chen
-Name: name, dtype: object",587
-"0    Kim Min (김민)
-Name: name, dtype: object",587
-"0    Alikhan Yertursyn (Алихан Ертурсын)
-Name: name, dtype: object",587
-"0    Brandon Harnish
-Name: name, dtype: object",587
-"0    Martin Maréchal
-Name: name, dtype: object",587
-"0    Quinn McGagin
-Name: name, dtype: object",587
-"0    Jeremy Benik
-Name: name, dtype: object",587
-"0    Hayden C. Lesser
-Name: name, dtype: object",587
-"0    Joshua Graham
-Name: name, dtype: object",586
-"0    Gregory Lopez
-Name: name, dtype: object",585
-"0    Elijah Brown
-Name: name, dtype: object",585
-"0    Shuji Endo (遠藤修司)
-Name: name, dtype: object",585
-"0    Matthew Prestwich
-Name: name, dtype: object",584
-"0    Eason Siew Ee Son (蕭奕晨)
-Name: name, dtype: object",584
-"0    Haoyang Yan (晏浩洋)
-Name: name, dtype: object",583
-"0    Vincent Hartanto Utomo
-Name: name, dtype: object",581
-"0    Helmer Ewert
-Name: name, dtype: object",580
-"0    Igor Tarasov (Ігор Тарасов)
-Name: name, dtype: object",577
-"0    Lusheng Chen (陈露生)
-Name: name, dtype: object",574
-"0    Mark Boyanowski
-Name: name, dtype: object",573
-"0    Joe Akehurst
-Name: name, dtype: object",572
-"0    Adam Ahmad
-Name: name, dtype: object",571
-"0    Calvin Nielson
-Name: name, dtype: object",571
-"0    Raiyan Abdulrub
-Name: name, dtype: object",570
-"0    Richard Anthony Parada
-Name: name, dtype: object",569
-"0    Marco Edoardo Cittar
-Name: name, dtype: object",569
-"0    Danila Ryabinin
-Name: name, dtype: object",568
-"0    Liam Sweet
-Name: name, dtype: object",568
-"0    Sean Hartman
-Name: name, dtype: object",568
-"0    Ben Yu
-Name: name, dtype: object",567
-"0    Akash Rupela
-Name: name, dtype: object",567
-"0    Henri Gerber
-Name: name, dtype: object",566
-"0    Ting He (禾廷)
-Name: name, dtype: object",565
-"0    Zixing Wang (王子兴)
-Name: name, dtype: object",565
-"0    Kevin Min
-Name: name, dtype: object",565
-"0    Lucas Jarana
-Name: name, dtype: object",565
-"0    Kazutaka Watanabe (渡部和孝)
-Name: name, dtype: object",564
-"0    Angel Alexis Carrillo Ramirez
-Name: name, dtype: object",564
-"0    Manfred Siew Ee Sheng (蕭奕晟)
-Name: name, dtype: object",563
-"0    John F. Kronkvist
-Name: name, dtype: object",563
-"0    Choi Go-Ho (최고호)
-Name: name, dtype: object",563
-"0    Christian Angelo Araneta Naguio
-Name: name, dtype: object",562
-"0    Clarence Kinsey G. Orozco
-Name: name, dtype: object",562
-"0    Tianyu Zhao (赵天愉)
-Name: name, dtype: object",562
-"0    Arvind Manohar
-Name: name, dtype: object",562
-"0    Ivan Osovik
-Name: name, dtype: object",562
-"0    Craig Bouchard
-Name: name, dtype: object",562
-"0    Mike Hughey
-Name: name, dtype: object",561
-"0    Vilius Ribinskas
-Name: name, dtype: object",561
-"0    Jianxu Chen (陈建旭)
-Name: name, dtype: object",560
-"0    Vladimir Okenchits
-Name: name, dtype: object",560
-"0    Eben Quenneville
-Name: name, dtype: object",560
-"0    Natanael Lundberg
-Name: name, dtype: object",560
-"0    Orrin Simpkins
-Name: name, dtype: object",559
-"0    Moritz Lotz
-Name: name, dtype: object",559
-"0    Leslie Sampson
-Name: name, dtype: object",558
-"0    Yumeng Zhou (周雨萌)
-Name: name, dtype: object",558
-"0    Wilmer Torres
-Name: name, dtype: object",558
-"0    Henrik Buus Aagaard
-Name: name, dtype: object",556
-"0    Alon Ron
-Name: name, dtype: object",556
-"0    Owen Widdis
-Name: name, dtype: object",556
-"0    Jesús Fernando Castelán Gómez
-Name: name, dtype: object",556
-"0    Minyang Shi (时旻扬)
-Name: name, dtype: object",556
-"0    Tom Stanton-Barnett
-Name: name, dtype: object",555
-"0    Lanshi Zhang (张岚石)
-Name: name, dtype: object",555
-"0    Tomoya Firman
-Name: name, dtype: object",555
-"0    Caleb Clark
-Name: name, dtype: object",555
-"0    Farid Mikhailov
-Name: name, dtype: object",554
-"0    Radosław Opoka
-Name: name, dtype: object",553
-"0    Hiroki Iwashita (岩下大輝)
-Name: name, dtype: object",553
-"0    Joel Ulin
-Name: name, dtype: object",553
-"0    Yikuan Kan (阚亦宽)
-Name: name, dtype: object",552
-"0    Artem Kuminov
-Name: name, dtype: object",552
-"0    Şmit Andrei Oanea
-Name: name, dtype: object",550
-"0    Xinyun Chen (陈新运)
-Name: name, dtype: object",550
-"0    Ben Marlin
-Name: name, dtype: object",550
-"0    Lorenzo Mauro
-Name: name, dtype: object",549
-"0    Jair Sosa
-Name: name, dtype: object",549
-"0    Jareth Soong
-Name: name, dtype: object",548
-"0    Wilson Li
-Name: name, dtype: object",548
-"0    Dongzhe Li (李东哲)
-Name: name, dtype: object",548
-"0    Jacob Chambers
-Name: name, dtype: object",547
-"0    Carter Thomas
-Name: name, dtype: object",547
-"0    Eng Dickson (黄迪胜)
-Name: name, dtype: object",547
-"0    Preston Duke
-Name: name, dtype: object",547
-"0    Anqi Yu
-Name: name, dtype: object",546
-"0    Jack Fidler
-Name: name, dtype: object",546
-"0    Ko Youngjin (고영진)
-Name: name, dtype: object",546
-"0    Stephen Bohner
-Name: name, dtype: object",545
-"0    Firstian Fushada (符逢城)
-Name: name, dtype: object",545
-"0    Jason Kochan
-Name: name, dtype: object",545
-"0    Shenghai Fang (方胜海)
-Name: name, dtype: object",544
-"0    Fabian Common
-Name: name, dtype: object",543
-"0    Yang Li (李扬)
-Name: name, dtype: object",543
-"0    Ang Chin Zhen (洪靖程)
-Name: name, dtype: object",542
-"0    William Gan Wei Ren (颜伟仁)
-Name: name, dtype: object",542
-"0    Taha Ben Salah
-Name: name, dtype: object",541
-"0    Pacifico Rodriguez
-Name: name, dtype: object",541
-"0    Ethan Rusnak
-Name: name, dtype: object",541
-"0    César Mora Escobar
-Name: name, dtype: object",541
-"0    Anuj Singh Negi
-Name: name, dtype: object",541
-"0    Abhimanyu Singhal
-Name: name, dtype: object",540
-"0    Ivan Miletić
-Name: name, dtype: object",540
-"0    Joseph Williams
-Name: name, dtype: object",540
-"0    Zachary Barrus
-Name: name, dtype: object",540
-"0    DongSu Park (박동수)
-Name: name, dtype: object",538
-"0    Kiagus Ahmad Haikal Hafif Hamidy
-Name: name, dtype: object",538
-"0    Michael Bradley
-Name: name, dtype: object",538
-"0    Alex Hauben
-Name: name, dtype: object",538
-"0    Erik Kippus
-Name: name, dtype: object",537
-"0    Marcel Ručigaj
-Name: name, dtype: object",537
-"0    Matteo Chancerel
-Name: name, dtype: object",536
-"0    Will Russo
-Name: name, dtype: object",535
-"0    Knut Skaug Haraldsen
-Name: name, dtype: object",535
-"0    Steve Clarke
-Name: name, dtype: object",534
-"0    Egor Besedin (Егор Беседин)
-Name: name, dtype: object",534
-"0    Xiaobo Hou (侯晓博)
-Name: name, dtype: object",534
-"0    Chunyu Zhang (张春雨)
-Name: name, dtype: object",534
-"0    Jim Zhu
-Name: name, dtype: object",533
-"0    Mateusz Gil
-Name: name, dtype: object",533
-"0    Alexey Semichastnov
-Name: name, dtype: object",532
-"0    Lucas Maillard
-Name: name, dtype: object",532
-"0    Elias Fischer
-Name: name, dtype: object",531
-"0    Zeke Mackay
-Name: name, dtype: object",531
-"0    Dylan Wang
-Name: name, dtype: object",531
-"0    Tamara Macadam
-Name: name, dtype: object",530
-"0    Daniel Hermansson
-Name: name, dtype: object",529
-"0    Adam Marcellus Kelly
-Name: name, dtype: object",528
-"0    Ekaterina Kaneva
-Name: name, dtype: object",528
-"0    Luke Van Laningham
-Name: name, dtype: object",528
-"0    Duman Talgatuly (Думан Талгатулы)
-Name: name, dtype: object",527
-"0    Jan Riedl
-Name: name, dtype: object",527
-"0    Conor Sullivan
-Name: name, dtype: object",527
-"0    Brandon Lin
-Name: name, dtype: object",527
-"0    Roman Kostyukov
-Name: name, dtype: object",527
-"0    Avshalom Sharavani
-Name: name, dtype: object",527
-"0    Anonymous
-Name: name, dtype: object",526
-"0    Yuxin Wang (王宇欣)
-Name: name, dtype: object",525
-"0    Kasparas Lienys
-Name: name, dtype: object",525
-"0    Yutao Guo (郭宇韬)
-Name: name, dtype: object",524
-"0    Donna Krueger
-Name: name, dtype: object",524
-"0    Haoyang Chen (陈浩杨)
-Name: name, dtype: object",523
-"0    Luke Heath-Edwards
-Name: name, dtype: object",523
-"0    Adam Burk
-Name: name, dtype: object",522
-"0    Aneurin Hunt
-Name: name, dtype: object",521
-"0    Stanley Nerkowski IV
-Name: name, dtype: object",520
-"0    Ilya Kerymov (Ілля Керимов)
-Name: name, dtype: object",519
-"0    Mathieu Hudon
-Name: name, dtype: object",519
-"0    Pamulapati Sai Teja
-Name: name, dtype: object",519
-"0    William Jensen
-Name: name, dtype: object",519
-"0    Claudio Bentivoglio
-Name: name, dtype: object",519
-"0    Katsuki Takahashi (高橋勝紀)
-Name: name, dtype: object",519
-"0    Sebastian Outh-Aut
-Name: name, dtype: object",518
-"0    Hongyuan Tang (唐鸿远)
-Name: name, dtype: object",518
-"0    Joseph Tudor
-Name: name, dtype: object",518
-"0    Noah Swor
-Name: name, dtype: object",518
-"0    Luca Rannisi
-Name: name, dtype: object",518
-"0    Jackson Palmer
-Name: name, dtype: object",517
-"0    Yash Mehta
-Name: name, dtype: object",516
-"0    Kevin Matthews
-Name: name, dtype: object",516
-"0    Andrei Solntsev
-Name: name, dtype: object",514
-"0    Fabian Settelen
-Name: name, dtype: object",514
-"0    Mikhail Kuzin
-Name: name, dtype: object",512
-"0    Jakub Hamkało
-Name: name, dtype: object",512
-"0    Jonathon Griffith
-Name: name, dtype: object",511
-"0    Lichao Liu (刘立超)
-Name: name, dtype: object",510
-"0    Samuel Simko
-Name: name, dtype: object",510
-"0    Artyom Martirosov
-Name: name, dtype: object",509
-"0    Heejun Kim (김희준)
-Name: name, dtype: object",509
-"0    Nicholas Fogo
-Name: name, dtype: object",509
-"0    Axel Flordal
-Name: name, dtype: object",509
-"0    Alex Agranov
-Name: name, dtype: object",508
-"0    Aldrin Alba Soria
-Name: name, dtype: object",508
-"0    Jaden Dao
-Name: name, dtype: object",508
-"0    Delphine Tran (Ngọc Phượng Vĩ Trần)
-Name: name, dtype: object",508
-"0    Saiyam Jain
-Name: name, dtype: object",507
-"0    Wilfrid Py
-Name: name, dtype: object",507
-"0    Lee Hoween
-Name: name, dtype: object",506
-"0    Robert Paus
-Name: name, dtype: object",506
-"0    Conlan Trace
-Name: name, dtype: object",506
-"0    Abylai Orazalin (Абылай Оразалин)
-Name: name, dtype: object",505
-"0    Jérôme Carlier
-Name: name, dtype: object",504
-"0    Hellen Ding
-Name: name, dtype: object",503
-"0    Yeeun Park (박예은)
-Name: name, dtype: object",503
-"0    Peter Preston
-Name: name, dtype: object",503
-"0    Yuji Yoshida
-Name: name, dtype: object",502
-"0    Leonardo Ezequiel Cruz
-Name: name, dtype: object",502
-"0    Timothy Goh
-Name: name, dtype: object",502
-"0    Connor Yungbluth
-Name: name, dtype: object",501
-"0    Wong Chong Wen (黄崇文)
-Name: name, dtype: object",500
-"0    Raluca Ioana Grigoraș
-Name: name, dtype: object",500
-"0    Guowei Sun (孙国卫)
-Name: name, dtype: object",500
-"0    Joseph Pasterski
-Name: name, dtype: object",500
-"0    Michael Larsen
-Name: name, dtype: object",500
-"0    Kayla Brown
-Name: name, dtype: object",500
-"0    Lucas Garron
-Name: name, dtype: object",499
-"0    Marco Yang
-Name: name, dtype: object",499
-"0    Balázs Polyák
-Name: name, dtype: object",499
-"0    Ben Whitmore
-Name: name, dtype: object",498
-"0    Chris Hardwick
-Name: name, dtype: object",498
-"0    Jiachi Han (韩佳池)
-Name: name, dtype: object",498
-"0    Alex Walker
-Name: name, dtype: object",496
-"0    Nathan Daviaud
-Name: name, dtype: object",496
-"0    Milan van Wanrooij
-Name: name, dtype: object",495
-"0    Yoni Strassberg
-Name: name, dtype: object",494
-"0    Damir Zhanataev (Дамир Жанатаев)
-Name: name, dtype: object",494
-"0    Tom Maguire
-Name: name, dtype: object",494
-"0    Zian Song (宋子安)
-Name: name, dtype: object",494
-"0    Daniel Karnaukh
-Name: name, dtype: object",494
-"0    Berta García Parra
-Name: name, dtype: object",493
-"0    Isaac Langer
-Name: name, dtype: object",493
-"0    Tomohiro Kobayashi (小林知広)
-Name: name, dtype: object",493
-"0    Cameron Stollery
-Name: name, dtype: object",492
-"0    Liang Zhang (张亮)
-Name: name, dtype: object",492
-"0    Wajdi Omrani
-Name: name, dtype: object",491
-"0    Andrew Rizo
-Name: name, dtype: object",491
-"0    John Leeds
-Name: name, dtype: object",490
-"0    Gianfranco Huanqui
-Name: name, dtype: object",489
-"0    Joel Hernández
-Name: name, dtype: object",488
-"0    Liew Yee Voon (劉倚文)
-Name: name, dtype: object",488
-"0    Selim Makni
-Name: name, dtype: object",487
-"0    Callum Goodyear
-Name: name, dtype: object",487
-"0    Anders Berggren
-Name: name, dtype: object",487
-"0    Lucas O'Connell
-Name: name, dtype: object",487
-"0    Jorge Manuel Lira Ibarra
-Name: name, dtype: object",487
-"0    Ruben Grobler
-Name: name, dtype: object",486
-"0    Stephen Huan
-Name: name, dtype: object",485
-"0    Erick Amaro Hernandez
-Name: name, dtype: object",485
-"0    Will Cerne
-Name: name, dtype: object",485
-"0    Cendy Cahyo Rahmat
-Name: name, dtype: object",485
-"0    Jake Klassen
-Name: name, dtype: object",483
-"0    Thomas Bevan
-Name: name, dtype: object",483
-"0    Christian König
-Name: name, dtype: object",483
-"0    Riley Dexter
-Name: name, dtype: object",483
-"0    Antoine Cantin
-Name: name, dtype: object",483
-"0    Jake M. Hanson
-Name: name, dtype: object",482
-"0    Ivo Bakker
-Name: name, dtype: object",482
-"0    Ciarán Beahan
-Name: name, dtype: object",481
-"0    Jang Seok Won (장석원)
-Name: name, dtype: object",480
-"0    Wilson Alvis (陈智胜)
-Name: name, dtype: object",480
-"0    Dušan Zakelšek
-Name: name, dtype: object",480
-"0    Erik Tjong Kim Sang
-Name: name, dtype: object",479
-"0    Shelley Chang
-Name: name, dtype: object",479
-"0    Andrey Ivanov
-Name: name, dtype: object",479
-"0    Nikolay Masson (Николай Массон)
-Name: name, dtype: object",479
-"0    Lorenzo Vigani Poli
-Name: name, dtype: object",479
-"0    Hasabi Sailendra
-Name: name, dtype: object",478
-"0    Feilong Tang (唐飞龙)
-Name: name, dtype: object",478
-"0    Tiago Zamberlan
-Name: name, dtype: object",478
-"0    James Molloy
-Name: name, dtype: object",477
-"0    Mara Oprea
-Name: name, dtype: object",477
-"0    Blake Thompson
-Name: name, dtype: object",477
-"0    Deni Mintsaev (Дени Минцаев)
-Name: name, dtype: object",477
-"0    Nikhil Mande
-Name: name, dtype: object",476
-"0    Ole Nikolai Gjerset
-Name: name, dtype: object",476
-"0    Eric Limeback
-Name: name, dtype: object",476
-"0    Choi Hyo-jin (최효진)
-Name: name, dtype: object",475
-"0    Dan Tran
-Name: name, dtype: object",475
-"0    Jakub Lorens
-Name: name, dtype: object",475
-"0    Hannes Müller
-Name: name, dtype: object",475
-"0    Jacob Posner
-Name: name, dtype: object",474
-"0    Riku Akiyama (秋山吏玖)
-Name: name, dtype: object",472
-"0    Jeff Park
-Name: name, dtype: object",472
-"0    Timon Veurink
-Name: name, dtype: object",472
-"0    Lionel Malloggi
-Name: name, dtype: object",472
-"0    Mykyta Prytyko (Микита Притико)
-Name: name, dtype: object",471
-"0    Kamil Michalak
-Name: name, dtype: object",471
-"0    Lindsay Hans
-Name: name, dtype: object",470
-"0    Ben Keogh
-Name: name, dtype: object",470
-"0    Cary Huang
-Name: name, dtype: object",469
-"0    Peter Åberg
-Name: name, dtype: object",469
-"0    Chris Choi
-Name: name, dtype: object",469
-"0    Sebastian Alanen
-Name: name, dtype: object",469
-"0    Hargun Singh Tikku
-Name: name, dtype: object",468
-"0    Jack Pfeifer
-Name: name, dtype: object",468
-"0    Yifan Zhuang (庄一凡)
-Name: name, dtype: object",467
-"0    Olivier Vos
-Name: name, dtype: object",467
-"0    Tommy Kiprillis
-Name: name, dtype: object",466
-"0    Chad Harris
-Name: name, dtype: object",465
-"0    Brent Silkyn
-Name: name, dtype: object",464
-"0    Damian Wilding
-Name: name, dtype: object",464
-"0    David Epstein
-Name: name, dtype: object",463
-"0    Taylor Cookmeyer
-Name: name, dtype: object",463
-"0    Aniketh Arya
-Name: name, dtype: object",462
-"0    Boqin Zhao (赵博钦)
-Name: name, dtype: object",461
-"0    Aurelien Marion
-Name: name, dtype: object",461
-"0    Zack Hobbs
-Name: name, dtype: object",461
-"0    Martin Fronescu
-Name: name, dtype: object",461
-"0    Alexandre Henrique Afonso Campos
-Name: name, dtype: object",461
-"0    Jacob McGruddy
-Name: name, dtype: object",460
-"0    Noah Feld
-Name: name, dtype: object",460
-"0    Hua-Ting Lee (李華庭)
-Name: name, dtype: object",460
-"0    Paris Dorn
-Name: name, dtype: object",460
-"0    Hannah Minas
-Name: name, dtype: object",459
-"0    Moisés Alberto Rojas León
-Name: name, dtype: object",459
-"0    Maxim Chechnev
-Name: name, dtype: object",459
-"0    Zongwen Mu (牟宗文)
-Name: name, dtype: object",458
-"0    YongKyu Lee (이용규)
-Name: name, dtype: object",457
-"0    Elias Malomgré
-Name: name, dtype: object",456
-"0    David Adams
-Name: name, dtype: object",455
-"0    Konstantin Jaehne
-Name: name, dtype: object",455
-"0    Rodson Lingad
-Name: name, dtype: object",455
-"0    Leonid Aznauryan
-Name: name, dtype: object",455
-"0    Daniel Goodman
-Name: name, dtype: object",454
-"0    Ádám Barta
-Name: name, dtype: object",454
-"0    Vladimir Kostin
-Name: name, dtype: object",454
-"0    Lee Stanton-Barnett
-Name: name, dtype: object",453
-"0    Michael Fung
-Name: name, dtype: object",452
-"0    Salil Desai
-Name: name, dtype: object",452
-"0    Vasile Dan
-Name: name, dtype: object",452
-"0    Gerson Natanael
-Name: name, dtype: object",452
-"0    John Linder
-Name: name, dtype: object",452
-"0    Chris Groenewald
-Name: name, dtype: object",451
-"0    Ernur Ersayynov
-Name: name, dtype: object",451
-"0    Mikus Lembergs
-Name: name, dtype: object",451
-"0    András Gelencsér
-Name: name, dtype: object",451
-"0    Arkadiusz Żynel
-Name: name, dtype: object",451
-"0    Paul Neumann
-Name: name, dtype: object",450
-"0    Brendan Bakker
-Name: name, dtype: object",450
-"0    Justin Choi
-Name: name, dtype: object",449
-"0    Ian Drake
-Name: name, dtype: object",449
-"0    Weina Bao (鲍伟娜)
-Name: name, dtype: object",449
-"0    Andrew Nguyen
-Name: name, dtype: object",448
-"0    Gleiciano Cosmo Santos
-Name: name, dtype: object",448
-"0    Satoshi Kodama (児玉聡)
-Name: name, dtype: object",447
-"0    Niclas Mach
-Name: name, dtype: object",446
-"0    Sam Adams
-Name: name, dtype: object",446
-"0    Jaemin Chang (장재민)
-Name: name, dtype: object",445
-"0    Harry Owen
-Name: name, dtype: object",445
-"0    Zhichun Li (李志纯)
-Name: name, dtype: object",445
-"0    Doyul Kim (김도율)
-Name: name, dtype: object",444
-"0    Nathan Seeto
-Name: name, dtype: object",443
-"0    Yusuke Takada (高田祐介)
-Name: name, dtype: object",443
-"0    Chan Hay Yin (陳希言)
-Name: name, dtype: object",443
-"0    Nikita Kabanin (Никита Кабанин)
-Name: name, dtype: object",443
-"0    William Phommaha
-Name: name, dtype: object",443
-"0    Ethan Pride
-Name: name, dtype: object",442
-"0    Alistair Robequin
-Name: name, dtype: object",441
-"0    Yuval Porat
-Name: name, dtype: object",441
-"0    Gregor Billing
-Name: name, dtype: object",440
-"0    Clay Moore
-Name: name, dtype: object",440
-"0    Jihaobutao (冀好布套)
-Name: name, dtype: object",439
-"0    Grzegorz Jałocha
-Name: name, dtype: object",439
-"0    Alexis Fedeler
-Name: name, dtype: object",439
-"0    Bertie Longden
-Name: name, dtype: object",438
-"0    Michael (謝富亦)
-Name: name, dtype: object",438
-"0    Gianluca Placenti
-Name: name, dtype: object",437
-"0    Szymon Brzana
-Name: name, dtype: object",437
-"0    Will Callan
-Name: name, dtype: object",437
-"0    Andrew Nathenson
-Name: name, dtype: object",436
-"0    Lachlan Malcolm
-Name: name, dtype: object",436
-"0    Jēkabs Janovs
-Name: name, dtype: object",435
-"0    Vishwanath Jeyaraman
-Name: name, dtype: object",435
-"0    Antonie Paterakis
-1    Antonie Paterakis
-Name: name, dtype: object",435
-"0    Óskar Pétursson
-Name: name, dtype: object",434
-"0    Darby Lee
-Name: name, dtype: object",433
-"0    Anaëlle Msaidie
-Name: name, dtype: object",433
-"0    Carl Emil Exner
-Name: name, dtype: object",433
-"0    Yunhao Lou (娄云皓)
-Name: name, dtype: object",433
-"0    Chunjie Shan (单淳劼)
-Name: name, dtype: object",433
-"0    Tristan Steeves
-Name: name, dtype: object",433
-"0    Mason Langenderfer
-Name: name, dtype: object",432
-"0    Jonas Rongé
-Name: name, dtype: object",432
-"0    Krish Shah-Nathwani
-Name: name, dtype: object",431
-"0    David McLean
-Name: name, dtype: object",431
-"0    Nathanael Morgan
-Name: name, dtype: object",431
-"0    Yifan Cheng (程依凡)
-Name: name, dtype: object",430
-"0    Tyler Hicks
-Name: name, dtype: object",430
-"0    Alexander Olleta del Molino
-Name: name, dtype: object",428
-"0    Samuel Baird
-Name: name, dtype: object",427
-"0    Suraj Vidyasagar
-Name: name, dtype: object",426
-"0    Michał Wroński
-Name: name, dtype: object",426
-"0    Jacob Oliver Bruun
-Name: name, dtype: object",426
-"0    Atharva R. Bhat
-Name: name, dtype: object",426
-"0    José Antonio Navarro Sánchez
-Name: name, dtype: object",426
-"0    Roan Paone
-Name: name, dtype: object",425
-"0    Benjamin Gottschalk
-Name: name, dtype: object",425
-"0    Robert Riordan
-Name: name, dtype: object",425
-"0    Elias Seoane Bucio
-Name: name, dtype: object",424
-"0    Alessio Giuliano
-Name: name, dtype: object",424
-"0    Yu Zhou (周煜)
-Name: name, dtype: object",424
-"0    Dallas McNeil
-Name: name, dtype: object",424
-"0    Krzysztof Bober
-Name: name, dtype: object",423
-"0    Ryan Francisco
-Name: name, dtype: object",422
-"0    Nikita Razzamazov (Никита Раззама́зов)
-Name: name, dtype: object",422
-"0    Yucheng Chen (陈裕铖)
-Name: name, dtype: object",422
-"0    Daniel Tidsey
-Name: name, dtype: object",422
-"0    Danang Adianto
-Name: name, dtype: object",421
-"0    Yuta Okada (岡田雄太)
-Name: name, dtype: object",421
-"0    Danny SungIn Park
-Name: name, dtype: object",420
-"0    Steve Greer
-Name: name, dtype: object",420
-"0    Angel Arrioja Landa
-Name: name, dtype: object",419
-"0    Arnau Tous Mateu
-Name: name, dtype: object",419
-"0    Ray Bai
-Name: name, dtype: object",419
-"0    Zachary Trudell
-Name: name, dtype: object",418
-"0    Emanuel Rheinert
-Name: name, dtype: object",418
-"0    Jeremy Kemmerer
-Name: name, dtype: object",417
-"0    Jami Viljanen
-Name: name, dtype: object",416
-"0    Jakub Bartos
-Name: name, dtype: object",415
-"0    Robin Hagner
-Name: name, dtype: object",415
-"0    Zheng Shen (申正)
-Name: name, dtype: object",414
-"0    Nipun Das
-Name: name, dtype: object",414
-"0    John Edison Ubaldo
-Name: name, dtype: object",414
-"0    Zachary White
-Name: name, dtype: object",414
-"0    Alberto Arturo Ayllón Bustos
-Name: name, dtype: object",414
-"0    Luca Rizzi
-Name: name, dtype: object",412
-"0    Kymberlyn Calderon
-Name: name, dtype: object",412
-"0    Eva Kato
-Name: name, dtype: object",411
-"0    Eduardo Henrique Philippsen
-Name: name, dtype: object",410
-"0    Matej Bolta
-Name: name, dtype: object",410
-"0    Zhenyang Shao (邵振洋)
-Name: name, dtype: object",409
-"0    Travis Burkett
-Name: name, dtype: object",409
-"0    Yu Da-Hyun (유다현)
-Name: name, dtype: object",408
-"0    Simon Kellum
-Name: name, dtype: object",408
-"0    Christopher Morris
-Name: name, dtype: object",407
-"0    Matan Betesh
-Name: name, dtype: object",407
-"0    Liudi Sun (孙柳笛)
-Name: name, dtype: object",407
-"0    Piotr Janecki
-Name: name, dtype: object",406
-"0    Daan Baartmans
-Name: name, dtype: object",406
-"0    Jinghui Suo (索晶辉)
-Name: name, dtype: object",405
-"0    Chi-Lun Hung (洪啟倫)
-Name: name, dtype: object",405
-"0    Sam van Vliet
-Name: name, dtype: object",404
-"0    Jason Bilgrei
-Name: name, dtype: object",404
-"0    Jordan Baum
-Name: name, dtype: object",404
-"0    Christopher Chi
-Name: name, dtype: object",404
-"0    Yuchao Zhang (张昱超)
-Name: name, dtype: object",404
-"0    Aragón Galván Solano
-Name: name, dtype: object",402
-"0    Thiago Kunrath
-Name: name, dtype: object",402
-"0    Lakshmi Sai Srivatsa
-Name: name, dtype: object",402
-"0    Reto Bubendorf
-1    Reto Bubendorf
-Name: name, dtype: object",401
-"0    Fabian Löhle
-Name: name, dtype: object",401
-"0    Matthew Dickman
-Name: name, dtype: object",401
-"0    Luigi Soriano
-Name: name, dtype: object",401
-"0    Juho Arjanne
-Name: name, dtype: object",400
-"0    Matteo Dummar
-Name: name, dtype: object",400
-"0    Magnus Patrick Kanstrup
-Name: name, dtype: object",399
-"0    Cheung-Hao Tu
-Name: name, dtype: object",399
-"0    Mochammad Yopy Anggara Putra
-Name: name, dtype: object",398
-"0    Will Faust
-Name: name, dtype: object",398
-"0    Takuma Shirahase (白波瀬拓磨)
-Name: name, dtype: object",398
-"0    Jacob Eoin Gipp
-Name: name, dtype: object",398
-"0    Rotem Ifrach
-Name: name, dtype: object",396
-"0    Alexander Botz
-Name: name, dtype: object",396
-"0    Paul Ellement
-Name: name, dtype: object",395
-"0    Joel Mamani Tumiri
-Name: name, dtype: object",394
-"0    Stanisław Szyszka
-Name: name, dtype: object",394
-"0    Shintaro Hirose (広瀬慎太郎)
-Name: name, dtype: object",394
-"0    Jiazheng Zhao (赵家正)
-Name: name, dtype: object",393
-"0    Paweł Duraj
-Name: name, dtype: object",393
-"0    Viktor Zenk
-Name: name, dtype: object",393
-"0    Jae Hyun Jeong
-Name: name, dtype: object",393
-"0    Pavel Kovirzin (Павел Ковырзин)
-Name: name, dtype: object",393
-"0    Taku Yanai (矢内拓)
-Name: name, dtype: object",393
-"0    Philip Cuthbertson
-Name: name, dtype: object",392
-"0    Mykhailo Lagoida (Михайло Лагойда)
-Name: name, dtype: object",392
-"0    Calvin Sall
-Name: name, dtype: object",392
-"0    Ishaan Lal
-Name: name, dtype: object",391
-"0    Andreas Lambropoulos
-Name: name, dtype: object",391
-"0    Pranav Prabhu
-Name: name, dtype: object",391
-"0    Wenjie Xu (徐文杰)
-Name: name, dtype: object",390
-"0    Jaden Ginsburg
-Name: name, dtype: object",390
-"0    Jintao Jin (金锦涛)
-Name: name, dtype: object",390
-"0    Javier Hernandez Requena
-Name: name, dtype: object",389
-"0    Alban Reynaud
-Name: name, dtype: object",389
-"0    Zhao-Zhe Zhong (鍾肇哲)
-Name: name, dtype: object",389
-"0    Leonardo Pranadyar
-Name: name, dtype: object",388
-"0    Nathan Dwyer
-Name: name, dtype: object",387
-"0    Finn Trass
-Name: name, dtype: object",387
-"0    Xiaoliang Zhu (朱校良)
-Name: name, dtype: object",387
-"0    Angelo Fontanini Lamure
-Name: name, dtype: object",387
-"0    Jefferson Andres Durango Argaez
-Name: name, dtype: object",387
-"0    Víctor Adán Solis Martinez
-Name: name, dtype: object",386
-"0    Volodymyr Korol (Володимир Король)
-Name: name, dtype: object",386
-"0    Ethan Stevens
-Name: name, dtype: object",386
-"0    Marcus Moberg
-Name: name, dtype: object",385
-"0    João Pedro de Ornellas Cardoso
-Name: name, dtype: object",384
-"0    Tripp Peters
-Name: name, dtype: object",384
-"0    Theodor Nordstrand
-Name: name, dtype: object",384
-"0    David Vujasić
-Name: name, dtype: object",384
-"0    Ethan Basanov
-Name: name, dtype: object",383
-"0    Naoko Ogino (荻野奈緒子)
-Name: name, dtype: object",382
-"0    Sora Sato
-Name: name, dtype: object",382
-"0    Frederick Zheng
-Name: name, dtype: object",382
-"0    Nam Anh Dang
-Name: name, dtype: object",380
-"0    Jong-Ho Jeong (정종호)
-Name: name, dtype: object",380
-"0    Vitalii Khomyn (Віталій Хомин)
-Name: name, dtype: object",379
-"0    Michael Young
-Name: name, dtype: object",378
-"0    Acchyut Jolly
-Name: name, dtype: object",377
-"0    Hippolyte Moreau
-Name: name, dtype: object",377
-"0    Jia-Wei Liu (劉家瑋)
-Name: name, dtype: object",375
-"0    Niels van Ee
-Name: name, dtype: object",375
-"0    Callum Hales-Jepp
-Name: name, dtype: object",375
-"0    Dominic Amrhein
-Name: name, dtype: object",374
-"0    Yunsu Nam (남윤수)
-Name: name, dtype: object",373
-"0    Xin Luo (罗鑫)
-Name: name, dtype: object",373
-"0    Ryota Aoki (青木涼太)
-Name: name, dtype: object",372
-"0    Tijmen van der Ree
-Name: name, dtype: object",372
-"0    Mingyang Xie (谢铭扬)
-Name: name, dtype: object",372
-"0    Samuel Fang
-Name: name, dtype: object",372
-"0    Mohammad Ibnu Sabilillah
-Name: name, dtype: object",371
-"0    Raúl Cuevas Castillo
-Name: name, dtype: object",371
-"0    Calvin Brauer
-Name: name, dtype: object",370
-"0    Daniel Vædele Egdal
-Name: name, dtype: object",370
-"0    Sergio Bulux
-Name: name, dtype: object",370
-"0    Anirudh Sureshram
-Name: name, dtype: object",369
-"0    Tomoyuki Hiraide (平出智之)
-Name: name, dtype: object",369
-"0    Pavlo Bondar (Павло Бондар)
-Name: name, dtype: object",369
-"0    Timo Hromádka
-Name: name, dtype: object",369
-"0    Joshua Eom
-Name: name, dtype: object",368
-"0    Eli Jay
-Name: name, dtype: object",367
-"0    Yiquan Ling (凌艺全)
-Name: name, dtype: object",367
-"0    Tyler Patten
-Name: name, dtype: object",367
-"0    Jacopo Antonio Boffa
-Name: name, dtype: object",366
-"0    Andrew Robey
-Name: name, dtype: object",366
-"0    Oto Aoyagi (青柳吟)
-Name: name, dtype: object",365
-"0    Einar Kvam Lundberg
-Name: name, dtype: object",365
-"0    Eric Waldbillig
-Name: name, dtype: object",365
-"0    Haruka Kitamura (北村晴香)
-Name: name, dtype: object",364
-"0    Victor Hugo Lopez Bautista
-Name: name, dtype: object",364
-"0    Lincoln Solt
-Name: name, dtype: object",364
-"0    Joel Lundström
-Name: name, dtype: object",363
-"0    Joshua Williams
-Name: name, dtype: object",363
-"0    James Macdiarmid
-Name: name, dtype: object",363
-"0    Ramses Amaya
-Name: name, dtype: object",363
-"0    Kristopher De Asis
-Name: name, dtype: object",363
-"0    Derek Kong
-Name: name, dtype: object",363
-"0    Mircea Simionica
-Name: name, dtype: object",362
-"0    Akash Malajpure
-Name: name, dtype: object",362
-"0    Simon Jansson
-Name: name, dtype: object",361
-"0    Josh Bloch
-Name: name, dtype: object",361
-"0    Kazuki Sakamoto (坂本一樹)
-Name: name, dtype: object",361
-"0    Kazuki Ojima (尾島和樹)
-Name: name, dtype: object",361
-"0    Eduardo José Poveda Rojas
-Name: name, dtype: object",360
-"0    Brian Acuña
-Name: name, dtype: object",360
-"0    Breandan Vallance
-Name: name, dtype: object",359
-"0    Jie Chen (陈杰)
-Name: name, dtype: object",359
-"0    CJ Sheng
-Name: name, dtype: object",359
-"0    Polina Lapteva (Полина Лаптева)
-Name: name, dtype: object",359
-"0    Timothy Castle
-Name: name, dtype: object",359
-"0    Erik Bitvai
-Name: name, dtype: object",358
-"0    Diego Meneghetti
-Name: name, dtype: object",358
-"0    Hang Yu (禹杭)
-Name: name, dtype: object",358
-"0    Viljo Elo
-Name: name, dtype: object",358
-"0    Ethan Dennis
-Name: name, dtype: object",357
-"0    Roberto da Costa Barbosa Nunes Caldas
-Name: name, dtype: object",357
-"0    Bobby D'Angelo
-Name: name, dtype: object",357
-"0    Mattheo de Wit
-Name: name, dtype: object",356
-"0    Malte Ihlefeld
-Name: name, dtype: object",356
-"0    Łukasz Gondek
-Name: name, dtype: object",356
-"0    Shin Myeong Park (박신명)
-Name: name, dtype: object",354
-"0    Ryan McIlhenny
-Name: name, dtype: object",354
-"0    Brandon Satterstrom
-Name: name, dtype: object",354
-"0    Kaidrich Keolo Pobre
-Name: name, dtype: object",354
-"0    Vicenzo Guerino Cecchini
-Name: name, dtype: object",353
-"0    Timothy Loh
-Name: name, dtype: object",353
-"0    Luboš Bartík
-Name: name, dtype: object",353
-"0    Noel Kim
-Name: name, dtype: object",353
-"0    Patryk Milewczyk
-Name: name, dtype: object",351
-"0    Zhiyuan Ma (马之元)
-Name: name, dtype: object",350
-"0    Ryan Eckersley
-Name: name, dtype: object",350
-"0    Sergio Bodega Herráiz
-Name: name, dtype: object",350
-"0    Rodrigo Zarate
-Name: name, dtype: object",350
-"0    Max Hahnbück
-Name: name, dtype: object",350
-"0    Mohamad Danisy Asyraf Bin Abdul Razak
-Name: name, dtype: object",350
-"0    Owen Wilkins
-Name: name, dtype: object",349
-"0    Céline Souty
-Name: name, dtype: object",349
-"0    AJ Blair
-Name: name, dtype: object",348
-"0    Manuel Bühler
-Name: name, dtype: object",348
-"0    Naman Jain
-Name: name, dtype: object",348
-"0    Jeric Bobo
-Name: name, dtype: object",348
-"0    Ryan DeLine
-Name: name, dtype: object",347
-"0    Charlie Stark
-Name: name, dtype: object",347
-"0    Fahad Ittikaparambil Palakkal Haneefa
-Name: name, dtype: object",347
-"0    Tao Yu (喻韬)
-1    Tao Yu (喻韬)
-Name: name, dtype: object",347
-"0    Jesús Lindo García
-Name: name, dtype: object",346
-"0    Peter Andersson
-Name: name, dtype: object",345
-"0    Carlos Pedro Casado de Achával
-Name: name, dtype: object",345
-"0    Ivan Li Ka Leong (李嘉亮)
-Name: name, dtype: object",344
-"0    Daniel Gracia Ortiz
-Name: name, dtype: object",343
-"0    Levi André Tallaksen
-Name: name, dtype: object",343
-"0    Clément Burgevin
-Name: name, dtype: object",342
-"0    Guoliang Wang (王国梁)
-Name: name, dtype: object",342
-"0    Andy Wong
-Name: name, dtype: object",341
-"0    Remo Pihel
-Name: name, dtype: object",340
-"0    Brandon Mikel
-Name: name, dtype: object",340
-"0    Matt Sullivan
-Name: name, dtype: object",340
-"0    Shifei Dai (代时飞)
-Name: name, dtype: object",340
-"0    Timo Forsthofer
-Name: name, dtype: object",339
-"0    Marcos Masini
-Name: name, dtype: object",339
-"0    Gabriel Henrique Cabral Barthasson
-Name: name, dtype: object",339
-"0    Andrew Le
-Name: name, dtype: object",339
-"0    Santiago Reyes Idarraga
-Name: name, dtype: object",339
-"0    Oscar Jones
-Name: name, dtype: object",339
-"0    Serhii Mormul (Сергій Мормуль)
-Name: name, dtype: object",339
-"0    David Verdooren Flórez
-Name: name, dtype: object",338
-"0    Xiaochuan Feng (冯小川)
-Name: name, dtype: object",338
-"0    Amelie Dieterich
-Name: name, dtype: object",337
-"0    Daniel Chudecki
-Name: name, dtype: object",336
-"0    Eddy Deturche
-Name: name, dtype: object",336
-"0    Laura Holzhauer
-Name: name, dtype: object",336
-"0    Jesper Frisk
-Name: name, dtype: object",335
-"0    Muhammad Saleh Imtiaz
-Name: name, dtype: object",335
-"0    Radosław Drozdowicz
-Name: name, dtype: object",335
-"0    Abdullah Gulab
-Name: name, dtype: object",335
-"0    Yan Xia (夏炎)
-Name: name, dtype: object",333
-"0    Akatsuki Kitamura (北村曉)
-Name: name, dtype: object",333
-"0    James Hildreth
-Name: name, dtype: object",333
-"0    Daniel Tarifa
-Name: name, dtype: object",332
-"0    Willem Klose
-Name: name, dtype: object",332
-"0    Ben Streeter
-Name: name, dtype: object",331
-"0    Kevin Gerhardt
-Name: name, dtype: object",331
-"0    Caleb Fox
-Name: name, dtype: object",331
-"0    Aidan Proietto
-Name: name, dtype: object",331
-"0    Jerich Lee (李再圆)
-Name: name, dtype: object",331
-"0    Tommy Szeliga
-Name: name, dtype: object",330
-"0    Shunsuke Wada (和田俊輔)
-Name: name, dtype: object",330
-"0    Jing Jia (贾婧)
-Name: name, dtype: object",330
-"0    Philippe Virouleau
-Name: name, dtype: object",329
-"0    Spencer Chubb
-Name: name, dtype: object",328
-"0    Tyler Robinson
-Name: name, dtype: object",328
-"0    Andreas Pohl
-Name: name, dtype: object",327
-"0    Brady Metherall
-Name: name, dtype: object",327
-"0    Shuo Zhao (赵硕)
-Name: name, dtype: object",327
-"0    Antonio Egidio
-Name: name, dtype: object",327
-"0    Pranav Veera
-Name: name, dtype: object",327
-"0    Jorge Mario Gurdián Flores
-Name: name, dtype: object",326
-"0    Lakshay Modi
-Name: name, dtype: object",326
-"0    Ben Baron
-Name: name, dtype: object",325
-"0    Julian Schaffhauser
-Name: name, dtype: object",325
-"0    Angelo Piccolella
-Name: name, dtype: object",325
-"0    Matthew Hollinger
-Name: name, dtype: object",324
-"0    Dalton Padgett
-Name: name, dtype: object",324
-"0    Alejandro Isaza
-Name: name, dtype: object",324
-"0    Daniel Rose-Levine
-Name: name, dtype: object",324
-"0    Sebastian Werb
-Name: name, dtype: object",324
-"0    Hanns Hub
-Name: name, dtype: object",324
+name,country,444bf
+Yinhao Ding,Australia,1057
+Stanley Chapel,USA,1046
+Michael Tripodi,Australia,1000
+Jeremy Sheng,USA,986
+Anthony Rochester,Australia,976
+Amy Eguchi-Fergusson,Australia,975
+Sergey Marin (Сергей Марьин),Russia,975
+Ming Dao Ting,Australia,973
+Lennon Hughes,Australia,967
+Jeremy Crouther,Australia,966
+Kaijun Lin (林恺俊),China,957
+Ryan Paroz,Australia,944
+Kacper Paweł Dworak,Poland,922
+Isaac Wells,Australia,911
+Pedro Henrique de Jesus Silva,Brazil,905
+Sam Sieracki,Australia,904
+Witali Bułatow,Poland,902
+Zabir Bin Moaj,Bangladesh,899
+Sergio Antonio Galvan Beltran,Mexico,896
+Gustavo Dutra Santolin,Brazil,885
+Jan Fonš,Czech Republic,882
+Jhasmani Oxa Lopez,Bolivia,877
+Naoto Shinagawa (品川直登),Japan,877
+Cedric Meysing,Germany,875
+Aaron Spiller,Australia,871
+Charlie Harrison,United Kingdom,867
+Mohammed Aiman Koli,India,865
+Swami Srinivasan,Australia,862
+Kamil Przybylski,Poland,861
+Abhijeet Ghodgaonkar,India,861
+Adrian Dębski,Poland,858
+Timo Norrkniivilä,Finland,856
+Sukant Koul,India,855
+Rowe Hessler,USA,853
+Brandon Poulton,United Kingdom,851
+Evgeniy Lee,Uzbekistan,851
+Renan da Cunha Santos,Brazil,850
+Jeyamurugesh Jeyaraj,India,849
+Tyler Williams,Australia,847
+Mengfei Shen (沈梦非),China,845
+Thomás Lima Braga,Brazil,844
+Graham Siggins,USA,843
+Joshua Hounslow,Australia,837
+Cale Schoon,USA,835
+Oliver Wheat,United Kingdom,834
+Mikołaj Salamon,Poland,834
+Teruki Tamura (田村旭輝),Japan,833
+Muhtasim Al Farabi,Bangladesh,831
+Joshua Feran,USA,828
+Marcos Ferreira Semolini,Brazil,827
+Nicholas Paul,Australia,825
+Andrii Lushpak (Андрій Лушпак),Ukraine,819
+Brayden Wroten,USA,819
+Nevins Chan Pak Hoong (陈百鸿),Malaysia,818
+Noah Kraft,Germany,817
+Harry Savage,United Kingdom,813
+Yuki Yamamoto (山本祐輝),Japan,811
+Hari Anirudh,India,807
+Christopher Sun,USA,802
+Simon Kelly,Ireland,801
+Jeremiah Martin,USA,801
+Haozhen Ding (丁昊桢),China,796
+Bill Wang,Canada,794
+Sebastiano Tronto,Italy,794
+Jason White,USA,793
+Oliver Fritz,Germany,792
+Shivam Bansal,India,792
+Jayden Lederer,Australia,792
+Nicholas Tan Jun Wei,Malaysia,790
+Naoki Tani (谷直輝),Japan,788
+Hui Cai (蔡辉),China,787
+Dieter Amberger,Austria,786
+Yuri de Oliveira,Brazil,786
+Gabriel Barrios,Guatemala,784
+Daniel Wallin,Sweden,780
+Brandon Pierel,USA,777
+Bence Barát,Hungary,777
+Steven Kearns,United Kingdom,775
+Linus Frész,Germany,775
+Peri Le Dain,USA,772
+Alyssa Bell,USA,767
+Lee Zhi Xuan,Malaysia,767
+István Kocza,Hungary,767
+Ng Jia Quan (黄佳铨),Malaysia,766
+Jonathan Charlesworth,Australia,765
+Hiroto Fujita (藤田浩斗),Japan,765
+Jack Cai,Australia,764
+Caleb Hall,New Zealand,762
+Haijun Tan (谭海俊),China,761
+Vincent Chen,USA,759
+Sandy Aaron Jones,France,758
+Bo-Yu Lin (林柏佑),Taiwan,757
+Quentin Rivault,France,756
+Timur Kabizhanov (Тимур Кабижанов),Kazakhstan,755
+Jan Bentlage,Germany,755
+Beomseok Ryu (류범석),Korea,754
+Chen-Pin Sun (孫振斌),Taiwan,753
+Alan Galym (Алан Галым),Kazakhstan,752
+Max Siauw,USA,751
+Neel Gore,USA,751
+Ben Erwin,USA,747
+Toma Kishimoto (岸本到馬),Japan,743
+Akshaansh Chilakapati,India,741
+Aditya Vij,USA,740
+Jakub Drobný,Slovakia,740
+Andy Nicholls,United Kingdom,739
+Charles Barden,USA,737
+Patrick Kleverlaan,Australia,737
+Julian Galliano,Italy,735
+Marharyta Dovbii (Маргарита Довбій),Ukraine,734
+Alex Taylor,New Zealand,732
+Arthur Garcin,France,730
+Frederico Canal Gomes,Brazil,728
+Jagadish Muthuram,India,727
+Jeon Junhyeok (전준혁),Korea,727
+Antonio Isaías Martínez Santos,Mexico,727
+Christopher Baird,USA,726
+Thomas Reinke,USA,726
+Rodrigo Aguilar,Peru,724
+Matthew Bidwell,USA,723
+Takafumi Sakakibara (榊原隆文),Japan,721
+Joseph Daus,USA,719
+Lucas Pedersson,Australia,719
+Krishna Pranav Balasubramanian,India,717
+Paul Taylor,USA,717
+Maksym Dumanskyi (Максим Думанський),Ukraine,717
+Christopher Connolly,Canada,717
+Anuar Miguel Abib Onofre,Brazil,716
+Bill Hammill,United Kingdom,716
+Frederik Rollmann,Germany,716
+Charles Martinson,USA,715
+Evan Liu,USA,713
+Oliver Frost,United Kingdom,712
+Samuel Hernandez Castro,Mexico,712
+Sameer Aggarwal,USA,710
+Eddie Smith,United Kingdom,709
+Modest Podzolkin,Ukraine,709
+Maxime Madrzyk,France,709
+Charley Abcouwer,Netherlands,708
+Jonathan Blöcher,Germany,707
+William Wright,United Kingdom,707
+Martin Vædele Egdal,Denmark,706
+DongJae Lee,Korea,706
+Christian Montoya,Peru,705
+David Pearce,Australia,704
+Xin Shi (石欣),China,704
+Bibhushan Saakha,Nepal,704
+Jaden Lim,Philippines,703
+Kristian Holme,Norway,702
+Sergio de la Mora García,Mexico,702
+Takayuki Tanaka (田中隆喜),Japan,701
+Robert Alden,United Kingdom,701
+Chloe Lee Synn Yii,Malaysia,701
+Joel Cetra,Germany,700
+Oleg Gritsenko,Russia,700
+Jia-Hong Lu (陸嘉宏),Taiwan,699
+Elliot Wiecek,USA,698
+Armando Dian,Malaysia,698
+Erlend Ektvedt Fredriksen,Norway,696
+Szabolcs Szántai,Hungary,696
+Jack Love,Australia,696
+Dan Alexandru Cechi,Romania,696
+Jonas Di Dier,Belgium,695
+Tiffany Soh (蘇明珠),Malaysia,694
+Shrijan Pal,India,694
+Carter Kucala,USA,693
+Roman Strakhov,Russia,693
+Ben Lemkin,USA,693
+Johnathan Starkey,Australia,693
+Grigorii Alekseev,Russia,691
+Fletcher Berry,USA,690
+Minhyun Kim (김민현),Korea,688
+Jason Harley,United Kingdom,687
+Igor Brazhnikov (Игорь Бражников),Russia,687
+Conan Mo,Australia,687
+Bowen Xiao (肖博文),China,686
+Feliks Zemdegs,Australia,685
+Will Belote,USA,685
+Santino Maiorino,USA,685
+James Quinn,USA,683
+Sukesh Kumar,India,683
+Leia Jiang,USA,682
+Keiichiro Taira (平佳一郎),Japan,682
+Alexey Kislovskiy,Russia,681
+Georgiy Titov (Георгій Тітов),Ukraine,680
+James McCambridge,Ireland,680
+Dylan Swarts,South Africa,680
+Walker Welch,USA,679
+Bradley Sampson,USA,679
+Aedan Bryant,USA,679
+Gabriel Lincon Souza,Brazil,678
+Mateusz Mączka,Poland,677
+Ethan Honest,Canada,677
+Abhi Majumdar,USA,676
+Arsène Laffarre,France,674
+Tom Nelson,New Zealand,673
+Ehikhuemen Paul,Nigeria,673
+Jacob Ambrose,USA,672
+Aoden Teo Masa Toshi,Singapore,671
+Dmitrii Saukov (Дмитрий Сауков),Russia,670
+Keenan Johnson,USA,666
+Diego Brizuela Crespo,Mexico,666
+Sean Moran,United Kingdom,666
+James Moore,New Zealand,666
+Zachary Zurawski,USA,665
+Dattatreya Chodavarapu,India,664
+Abhijat Sahu,India,664
+Kit Clement,USA,664
+Syougo Kamo (加茂翔吾),Japan,663
+Luiz Fellipe Oliuza Leal Silva,Brazil,663
+Jae Park,USA,663
+Igor Aipkin,Uzbekistan,663
+Lim Chun Yik,Malaysia,662
+Jose Javier Melendez Maldonado,Guatemala,662
+Giovanni Tanaka (陈华安),Indonesia,661
+Nabeel Mahmood,United Kingdom,659
+Israel Fraga da Silva,Brazil,659
+Martin Brath,Germany,658
+Pedro Lobeto Miyamoto,Brazil,658
+Ákos Dél,Hungary,657
+Joey Mait,USA,657
+Daniel Anker Hermansen,Denmark,657
+Davis Pogor,USA,656
+Elvin Thorsen,Sweden,656
+Michael Alexander,Australia,656
+Corey Sakowski,USA,656
+Zak Kenny,Australia,655
+Sanjay Jacob,India,653
+Pedro Trujillo García,Mexico,651
+Ainesh Sevellaraja,Malaysia,651
+Zamir Pantoja,Peru,650
+Hyeok Yang (양혁),Korea,650
+Francis Daniels Veğeris,Latvia,649
+Riley Woo,USA,649
+Katalin Horváth,Hungary,648
+Mihály Horváth,Hungary,648
+Ryan Pilat,USA,648
+Jode Brewster,Australia,646
+Michał Krasowski,Poland,646
+Lev Golub (Лев Голуб),Ukraine,645
+Matthew Sheerin,United Kingdom,645
+Yuto Date (伊達優人),Japan,645
+Nitesh Kumar,India,645
+Jason Ostdiek,USA,645
+Cheng-Ru Yang,New Zealand,644
+Kyra Joiner,USA,643
+Sam Spendla,United Kingdom,642
+Kerry Creech,USA,642
+Philippe Schwartz,Luxembourg,642
+Chong Jen Foong (莊振峰),Malaysia,641
+Tyler Farr,USA,641
+Cheng Hiu Yeung (鄭曉洋),Hong Kong,641
+Tomas Kristiansson,Sweden,640
+Raymond Goslow,USA,639
+Michael Conard,USA,638
+Christopher G. Argueta,USA,637
+Kaemen Te Dengjian,Malaysia,637
+Achyut Kayastha,Nepal,635
+Benjamin Paul,Australia,635
+Yurii Riabov (Юрій Рябов),Ukraine,635
+Tobias Peter,Switzerland,635
+Ahmad Naufal Hakim,Indonesia,633
+Daniel Mullen,USA,633
+Angel Torres Perez,Mexico,632
+Manuel Gutman,Argentina,632
+Miles Lipka,USA,630
+Simone Ohler,Germany,630
+Joel Brown Brisola,Brazil,630
+Hyun-Kyoo Rah (나현규),Korea,630
+Komal Gupta,India,629
+Elliott Kobelansky,Canada,629
+Ethan Davis,USA,629
+Vladimir Sergeev,Russia,628
+Zayd Chaudhry,Australia,627
+Manu Vereecken,Belgium,627
+Harsh Maheshwari,India,626
+Masato Fujiwara (藤原正人),Japan,626
+Li-Wei Wu (吳立偉),Taiwan,624
+Emile Compion,South Africa,624
+Kai Roff,United Kingdom,622
+Leon Tran,Australia,622
+Nikita Ovsyannikov (Никита Овсянников),Russia,621
+Tommy Cherry,USA,621
+Clément Cherblanc,France,621
+Nicholas Patterson,Canada,620
+Alaik Bhatia,India,620
+Jorge Augusto Siqueira Pinto,Brazil,619
+Michał Mlostek,Poland,619
+Guilherme Santana Campos,Brazil,619
+Eero Laasonen,Finland,619
+Qingze Li (李庆泽),China,619
+Fryderyk Janiak,Poland,617
+Enoch Gray,USA,617
+Luca Stalpers,Netherlands,617
+Mats Bergsten,Sweden,617
+Carson Claud,USA,617
+AJ Kamal,USA,617
+Kacper Rafalski,Poland,616
+Korakot Inkaew (กรกฎ อิ่นแก้ว),Thailand,616
+Ethan Pan,New Zealand,616
+Oliver Grace,Ireland,615
+Pauline Clémenceau,France,615
+Andrii Moisol (Андрій Мойсол),Ukraine,615
+Gabriel Coates,USA,615
+Nikhil Soares,India,615
+Kate Grahame,USA,613
+Fernando Israel Zúñiga Macedo,Mexico,613
+Simon Busko,Germany,613
+Wenxuan Yue (岳文轩),China,613
+Oleksandr Ivanchak (Олександр Іванчак),Ukraine,612
+Natthaphat Mahtani (ณัฐภัทร จี มาทานี),Thailand,612
+Kristian Gil Caragan,Philippines,612
+Ron Libman,Israel,612
+Vianne Chang,Canada,610
+Enzo Mattos,Brazil,610
+Oliver Castledine,United Kingdom,607
+Matthew Vazquez,USA,606
+Josh Weimer,USA,606
+Yoshio Matsumoto (松本嘉夫),Japan,606
+Myles Jarman,Australia,605
+Peter Weyers,USA,604
+Jolo Endona,Philippines,603
+Victor Tang Yao Jun (湯曜駿),Hong Kong,603
+Parth Garg,USA,603
+Jakob Gunnarsson,Sweden,603
+Wesley Miller,USA,603
+Wayne Pi,Taiwan,603
+Zhe Wang (王哲),China,603
+Hill Pong Yong Feng,Malaysia,603
+Thor Muto Asmund,Denmark,602
+Daniel Alejandro Torres Moreno,Colombia,602
+Pascal Ordano,Argentina,602
+Cole Campbell,New Zealand,602
+Mark Rivers,United Kingdom,602
+Braden Richards,USA,601
+Tam Quan,Australia,601
+Daniel Atlas,Israel,600
+Reuben San Luis,USA,600
+Samuel Moliver,Australia,599
+Jacob Shum,Canada,598
+Chenhao Sun (孙晨皓),China,598
+Hrithik Solanki,India,596
+Paul Mahvi,USA,596
+Adel Mosallami,Philippines,595
+Darren Siew Ee Yaang (蕭奕暘),Malaysia,594
+Pedro Luiz Ferreira Pires,Brazil,594
+Cameron Asato,USA,594
+Simon Westlund,Sweden,594
+Jose Polorhenzo Aquino,Philippines,593
+Matthew Sieredzinski,Australia,593
+Max Xiong (熊锐明),China,593
+Shantanu Modak,Singapore,592
+Liam Highducheck,Australia,592
+Yifan Wang (王逸帆),China,591
+Valentin Lanz,Switzerland,590
+Brett Barry,USA,590
+Richard-Mattias Prints,Estonia,590
+Gintaras Grėbliūnas,Lithuania,590
+Jared Stinson,USA,590
+Kalyani H. Kiran,India,589
+Assylkhan Meirkhanov (Асылхан Мейрханов),Kazakhstan,589
+Dawid Wójcik,Poland,589
+Olli Vikstedt,Finland,589
+Emilio Alberto Rodríguez Jiménez,Mexico,588
+Liam Chen,USA,587
+Kim Min (김민),Korea,587
+Alikhan Yertursyn (Алихан Ертурсын),Kazakhstan,587
+Brandon Harnish,USA,587
+Martin Maréchal,France,587
+Quinn McGagin,USA,587
+Jeremy Benik,USA,587
+Hayden C. Lesser,USA,587
+Joshua Graham,Canada,586
+Gregory Lopez,USA,585
+Elijah Brown,USA,585
+Shuji Endo (遠藤修司),Japan,585
+Matthew Prestwich,United Kingdom,584
+Eason Siew Ee Son (蕭奕晨),Malaysia,584
+Haoyang Yan (晏浩洋),China,583
+Vincent Hartanto Utomo,Indonesia,581
+Helmer Ewert,Sweden,580
+Igor Tarasov (Ігор Тарасов),Ukraine,577
+Lusheng Chen (陈露生),China,574
+Mark Boyanowski,USA,573
+Joe Akehurst,United Kingdom,572
+Adam Ahmad,USA,571
+Calvin Nielson,USA,571
+Raiyan Abdulrub,Canada,570
+Richard Anthony Parada,USA,569
+Marco Edoardo Cittar,Italy,569
+Danila Ryabinin,Russia,568
+Liam Sweet,Australia,568
+Sean Hartman,USA,568
+Ben Yu,USA,567
+Akash Rupela,India,567
+Henri Gerber,Germany,566
+Ting He (禾廷),China,565
+Zixing Wang (王子兴),China,565
+Kevin Min,Korea,565
+Lucas Jarana,United Kingdom,565
+Kazutaka Watanabe (渡部和孝),Japan,564
+Angel Alexis Carrillo Ramirez,Mexico,564
+Manfred Siew Ee Sheng (蕭奕晟),Malaysia,563
+John F. Kronkvist,USA,563
+Choi Go-Ho (최고호),Korea,563
+Christian Angelo Araneta Naguio,Philippines,562
+Clarence Kinsey G. Orozco,Philippines,562
+Tianyu Zhao (赵天愉),China,562
+Arvind Manohar,USA,562
+Ivan Osovik,Russia,562
+Craig Bouchard,Canada,562
+Mike Hughey,USA,561
+Vilius Ribinskas,Lithuania,561
+Jianxu Chen (陈建旭),China,560
+Vladimir Okenchits,Russia,560
+Eben Quenneville,USA,560
+Natanael Lundberg,Sweden,560
+Orrin Simpkins,USA,559
+Moritz Lotz,Germany,559
+Leslie Sampson,USA,558
+Yumeng Zhou (周雨萌),China,558
+Wilmer Torres,Guatemala,558
+Henrik Buus Aagaard,Denmark,556
+Alon Ron,Israel,556
+Owen Widdis,USA,556
+Jesús Fernando Castelán Gómez,Mexico,556
+Minyang Shi (时旻扬),China,556
+Tom Stanton-Barnett,New Zealand,555
+Lanshi Zhang (张岚石),China,555
+Tomoya Firman,Australia,555
+Caleb Clark,Australia,555
+Farid Mikhailov,Kazakhstan,554
+Radosław Opoka,Poland,553
+Hiroki Iwashita (岩下大輝),Japan,553
+Joel Ulin,Sweden,553
+Yikuan Kan (阚亦宽),China,552
+Artem Kuminov,Russia,552
+Şmit Andrei Oanea,Romania,550
+Xinyun Chen (陈新运),China,550
+Ben Marlin,USA,550
+Lorenzo Mauro,Italy,549
+Jair Sosa,USA,549
+Jareth Soong,Singapore,548
+Wilson Li,USA,548
+Dongzhe Li (李东哲),China,548
+Jacob Chambers,United Kingdom,547
+Carter Thomas,USA,547
+Eng Dickson (黄迪胜),Malaysia,547
+Preston Duke,USA,547
+Anqi Yu,Bulgaria,546
+Jack Fidler,United Kingdom,546
+Ko Youngjin (고영진),Korea,546
+Stephen Bohner,USA,545
+Firstian Fushada (符逢城),Indonesia,545
+Jason Kochan,USA,545
+Shenghai Fang (方胜海),China,544
+Fabian Common,Germany,543
+Yang Li (李扬),China,543
+Ang Chin Zhen (洪靖程),Malaysia,542
+William Gan Wei Ren (颜伟仁),Malaysia,542
+Taha Ben Salah,Tunisia,541
+Pacifico Rodriguez,Switzerland,541
+Ethan Rusnak,Canada,541
+César Mora Escobar,Mexico,541
+Anuj Singh Negi,India,541
+Abhimanyu Singhal,India,540
+Ivan Miletić,Serbia,540
+Joseph Williams,United Kingdom,540
+Zachary Barrus,USA,540
+DongSu Park (박동수),Korea,538
+Kiagus Ahmad Haikal Hafif Hamidy,Indonesia,538
+Michael Bradley,Canada,538
+Alex Hauben,USA,538
+Erik Kippus,Estonia,537
+Marcel Ručigaj,Slovenia,537
+Matteo Chancerel,France,536
+Will Russo,USA,535
+Knut Skaug Haraldsen,Norway,535
+Steve Clarke,United Kingdom,534
+Egor Besedin (Егор Беседин),Russia,534
+Xiaobo Hou (侯晓博),China,534
+Chunyu Zhang (张春雨),China,534
+Jim Zhu,New Zealand,533
+Mateusz Gil,Poland,533
+Alexey Semichastnov,Russia,532
+Lucas Maillard,France,532
+Elias Fischer,Germany,531
+Zeke Mackay,USA,531
+Dylan Wang,Canada,531
+Tamara Macadam,Australia,530
+Daniel Hermansson,Sweden,529
+Adam Marcellus Kelly,USA,528
+Ekaterina Kaneva,Russia,528
+Luke Van Laningham,USA,528
+Duman Talgatuly (Думан Талгатулы),Kazakhstan,527
+Jan Riedl,Czech Republic,527
+Conor Sullivan,Australia,527
+Brandon Lin,USA,527
+Roman Kostyukov,Russia,527
+Avshalom Sharavani,Israel,527
+Anonymous,Canada,526
+Yuxin Wang (王宇欣),China,525
+Kasparas Lienys,Lithuania,525
+Yutao Guo (郭宇韬),China,524
+Donna Krueger,USA,524
+Haoyang Chen (陈浩杨),China,523
+Luke Heath-Edwards,New Zealand,523
+Adam Burk,USA,522
+Aneurin Hunt,New Zealand,521
+Stanley Nerkowski IV,USA,520
+Ilya Kerymov (Ілля Керимов),Ukraine,519
+Mathieu Hudon,Canada,519
+Pamulapati Sai Teja,India,519
+William Jensen,Sweden,519
+Claudio Bentivoglio,Italy,519
+Katsuki Takahashi (高橋勝紀),Japan,519
+Sebastian Outh-Aut,Australia,518
+Hongyuan Tang (唐鸿远),China,518
+Joseph Tudor,United Kingdom,518
+Noah Swor,USA,518
+Luca Rannisi,Italy,518
+Jackson Palmer,USA,517
+Yash Mehta,India,516
+Kevin Matthews,Canada,516
+Andrei Solntsev,Estonia,514
+Fabian Settelen,Switzerland,514
+Mikhail Kuzin,Russia,512
+Jakub Hamkało,Poland,512
+Jonathon Griffith,USA,511
+Lichao Liu (刘立超),China,510
+Samuel Simko,Slovakia,510
+Artyom Martirosov,Russia,509
+Heejun Kim (김희준),Korea,509
+Nicholas Fogo,Australia,509
+Axel Flordal,Sweden,509
+Alex Agranov,USA,508
+Aldrin Alba Soria,Bolivia,508
+Jaden Dao,USA,508
+Delphine Tran (Ngọc Phượng Vĩ Trần),France,508
+Saiyam Jain,India,507
+Wilfrid Py,France,507
+Lee Hoween,Malaysia,506
+Robert Paus,Germany,506
+Conlan Trace,USA,506
+Abylai Orazalin (Абылай Оразалин),Kazakhstan,505
+Jérôme Carlier,Belgium,504
+Hellen Ding,New Zealand,503
+Yeeun Park (박예은),Korea,503
+Peter Preston,USA,503
+Yuji Yoshida,Philippines,502
+Leonardo Ezequiel Cruz,Argentina,502
+Timothy Goh,USA,502
+Connor Yungbluth,USA,501
+Wong Chong Wen (黄崇文),Singapore,500
+Raluca Ioana Grigoraș,Romania,500
+Guowei Sun (孙国卫),China,500
+Joseph Pasterski,USA,500
+Michael Larsen,USA,500
+Kayla Brown,USA,500
+Lucas Garron,Germany,499
+Marco Yang,Canada,499
+Balázs Polyák,Hungary,499
+Ben Whitmore,United Kingdom,498
+Chris Hardwick,USA,498
+Jiachi Han (韩佳池),China,498
+Alex Walker,USA,496
+Nathan Daviaud,France,496
+Milan van Wanrooij,Netherlands,495
+Yoni Strassberg,Israel,494
+Damir Zhanataev (Дамир Жанатаев),Kazakhstan,494
+Tom Maguire,Australia,494
+Zian Song (宋子安),China,494
+Daniel Karnaukh,USA,494
+Berta García Parra,Spain,493
+Isaac Langer,USA,493
+Tomohiro Kobayashi (小林知広),Japan,493
+Cameron Stollery,Australia,492
+Liang Zhang (张亮),China,492
+Wajdi Omrani,Tunisia,491
+Andrew Rizo,USA,491
+John Leeds,USA,490
+Gianfranco Huanqui,Peru,489
+Joel Hernández,El Salvador,488
+Liew Yee Voon (劉倚文),Malaysia,488
+Selim Makni,Tunisia,487
+Callum Goodyear,United Kingdom,487
+Anders Berggren,Sweden,487
+Lucas O'Connell,New Zealand,487
+Jorge Manuel Lira Ibarra,Mexico,487
+Ruben Grobler,South Africa,486
+Stephen Huan,USA,485
+Erick Amaro Hernandez,USA,485
+Will Cerne,USA,485
+Cendy Cahyo Rahmat,Indonesia,485
+Jake Klassen,Canada,483
+Thomas Bevan,United Kingdom,483
+Christian König,Germany,483
+Riley Dexter,Australia,483
+Antoine Cantin,Canada,483
+Jake M. Hanson,USA,482
+Ivo Bakker,Netherlands,482
+Ciarán Beahan,Ireland,481
+Jang Seok Won (장석원),Korea,480
+Wilson Alvis (陈智胜),Indonesia,480
+Dušan Zakelšek,Slovenia,480
+Erik Tjong Kim Sang,Netherlands,479
+Shelley Chang,USA,479
+Andrey Ivanov,Russia,479
+Nikolay Masson (Николай Массон),Russia,479
+Lorenzo Vigani Poli,Italy,479
+Hasabi Sailendra,Indonesia,478
+Feilong Tang (唐飞龙),China,478
+Tiago Zamberlan,Brazil,478
+James Molloy,United Kingdom,477
+Mara Oprea,Romania,477
+Blake Thompson,USA,477
+Deni Mintsaev (Дени Минцаев),Russia,477
+Nikhil Mande,India,476
+Ole Nikolai Gjerset,Norway,476
+Eric Limeback,Canada,476
+Choi Hyo-jin (최효진),Korea,475
+Dan Tran,USA,475
+Jakub Lorens,Poland,475
+Hannes Müller,Germany,475
+Jacob Posner,USA,474
+Riku Akiyama (秋山吏玖),Japan,472
+Jeff Park,USA,472
+Timon Veurink,Netherlands,472
+Lionel Malloggi,France,472
+Mykyta Prytyko (Микита Притико),Ukraine,471
+Kamil Michalak,Poland,471
+Lindsay Hans,South Africa,470
+Ben Keogh,Ireland,470
+Cary Huang,USA,469
+Peter Åberg,Sweden,469
+Chris Choi,USA,469
+Sebastian Alanen,Sweden,469
+Hargun Singh Tikku,India,468
+Jack Pfeifer,USA,468
+Yifan Zhuang (庄一凡),China,467
+Olivier Vos,Netherlands,467
+Tommy Kiprillis,Australia,466
+Chad Harris,USA,465
+Brent Silkyn,Belgium,464
+Damian Wilding,USA,464
+David Epstein,Australia,463
+Taylor Cookmeyer,USA,463
+Aniketh Arya,India,462
+Boqin Zhao (赵博钦),China,461
+Aurelien Marion,Belgium,461
+Zack Hobbs,USA,461
+Martin Fronescu,Romania,461
+Alexandre Henrique Afonso Campos,Brazil,461
+Jacob McGruddy,Australia,460
+Noah Feld,USA,460
+Hua-Ting Lee (李華庭),Taiwan,460
+Paris Dorn,Canada,460
+Hannah Minas,Switzerland,459
+Moisés Alberto Rojas León,Mexico,459
+Maxim Chechnev,Russia,459
+Zongwen Mu (牟宗文),China,458
+YongKyu Lee (이용규),Korea,457
+Elias Malomgré,Belgium,456
+David Adams,USA,455
+Konstantin Jaehne,Germany,455
+Rodson Lingad,Philippines,455
+Leonid Aznauryan,Russia,455
+Daniel Goodman,USA,454
+Ádám Barta,Hungary,454
+Vladimir Kostin,Russia,454
+Lee Stanton-Barnett,New Zealand,453
+Michael Fung,Netherlands,452
+Salil Desai,USA,452
+Vasile Dan,Romania,452
+Gerson Natanael,Indonesia,452
+John Linder,Canada,452
+Chris Groenewald,South Africa,451
+Ernur Ersayynov,Kazakhstan,451
+Mikus Lembergs,Latvia,451
+András Gelencsér,Hungary,451
+Arkadiusz Żynel,Poland,451
+Paul Neumann,Germany,450
+Brendan Bakker,USA,450
+Justin Choi,USA,449
+Ian Drake,USA,449
+Weina Bao (鲍伟娜),China,449
+Andrew Nguyen,Canada,448
+Gleiciano Cosmo Santos,Brazil,448
+Satoshi Kodama (児玉聡),Japan,447
+Niclas Mach,Germany,446
+Sam Adams,USA,446
+Jaemin Chang (장재민),Korea,445
+Harry Owen,United Kingdom,445
+Zhichun Li (李志纯),China,445
+Doyul Kim (김도율),Korea,444
+Nathan Seeto,Australia,443
+Yusuke Takada (高田祐介),Japan,443
+Chan Hay Yin (陳希言),Hong Kong,443
+Nikita Kabanin (Никита Кабанин),Russia,443
+William Phommaha,France,443
+Ethan Pride,Australia,442
+Alistair Robequin,Switzerland,441
+Yuval Porat,Israel,441
+Gregor Billing,Germany,440
+Clay Moore,USA,440
+Jihaobutao (冀好布套),China,439
+Grzegorz Jałocha,Poland,439
+Alexis Fedeler,Germany,439
+Bertie Longden,United Kingdom,438
+Michael (謝富亦),Indonesia,438
+Gianluca Placenti,Italy,437
+Szymon Brzana,Poland,437
+Will Callan,USA,437
+Andrew Nathenson,USA,436
+Lachlan Malcolm,Australia,436
+Jēkabs Janovs,Latvia,435
+Vishwanath Jeyaraman,India,435
+Antonie Paterakis,Greece,435
+Óskar Pétursson,Iceland,434
+Darby Lee,Australia,433
+Anaëlle Msaidie,France,433
+Carl Emil Exner,Denmark,433
+Yunhao Lou (娄云皓),China,433
+Chunjie Shan (单淳劼),China,433
+Tristan Steeves,USA,433
+Mason Langenderfer,USA,432
+Jonas Rongé,Belgium,432
+Krish Shah-Nathwani,USA,431
+David McLean,Australia,431
+Nathanael Morgan,USA,431
+Yifan Cheng (程依凡),China,430
+Tyler Hicks,USA,430
+Alexander Olleta del Molino,Spain,428
+Samuel Baird,USA,427
+Suraj Vidyasagar,India,426
+Michał Wroński,Poland,426
+Jacob Oliver Bruun,Norway,426
+Atharva R. Bhat,India,426
+José Antonio Navarro Sánchez,Spain,426
+Roan Paone,Canada,425
+Benjamin Gottschalk,USA,425
+Robert Riordan,Ireland,425
+Elias Seoane Bucio,Mexico,424
+Alessio Giuliano,Switzerland,424
+Yu Zhou (周煜),China,424
+Dallas McNeil,Australia,424
+Krzysztof Bober,Poland,423
+Ryan Francisco,Philippines,422
+Nikita Razzamazov (Никита Раззама́зов),Russia,422
+Yucheng Chen (陈裕铖),China,422
+Daniel Tidsey,United Kingdom,422
+Danang Adianto,Indonesia,421
+Yuta Okada (岡田雄太),Japan,421
+Danny SungIn Park,Korea,420
+Steve Greer,USA,420
+Angel Arrioja Landa,Mexico,419
+Arnau Tous Mateu,Spain,419
+Ray Bai,USA,419
+Zachary Trudell,USA,418
+Emanuel Rheinert,Germany,418
+Jeremy Kemmerer,USA,417
+Jami Viljanen,Finland,416
+Jakub Bartos,Poland,415
+Robin Hagner,Finland,415
+Zheng Shen (申正),China,414
+Nipun Das,USA,414
+John Edison Ubaldo,Philippines,414
+Zachary White,USA,414
+Alberto Arturo Ayllón Bustos,Bolivia,414
+Luca Rizzi,Switzerland,412
+Kymberlyn Calderon,USA,412
+Eva Kato,USA,411
+Eduardo Henrique Philippsen,Brazil,410
+Matej Bolta,Slovenia,410
+Zhenyang Shao (邵振洋),China,409
+Travis Burkett,USA,409
+Yu Da-Hyun (유다현),Korea,408
+Simon Kellum,USA,408
+Christopher Morris,United Kingdom,407
+Matan Betesh,Israel,407
+Liudi Sun (孙柳笛),China,407
+Piotr Janecki,Poland,406
+Daan Baartmans,Netherlands,406
+Jinghui Suo (索晶辉),China,405
+Chi-Lun Hung (洪啟倫),Taiwan,405
+Sam van Vliet,Australia,404
+Jason Bilgrei,USA,404
+Jordan Baum,Canada,404
+Christopher Chi,USA,404
+Yuchao Zhang (张昱超),China,404
+Aragón Galván Solano,Mexico,402
+Thiago Kunrath,Brazil,402
+Lakshmi Sai Srivatsa,India,402
+Reto Bubendorf,Switzerland,401
+Fabian Löhle,Switzerland,401
+Matthew Dickman,USA,401
+Luigi Soriano,USA,401
+Juho Arjanne,Finland,400
+Matteo Dummar,Italy,400
+Magnus Patrick Kanstrup,Denmark,399
+Cheung-Hao Tu,United Kingdom,399
+Mochammad Yopy Anggara Putra,Indonesia,398
+Will Faust,USA,398
+Takuma Shirahase (白波瀬拓磨),Japan,398
+Jacob Eoin Gipp,Canada,398
+Rotem Ifrach,Israel,396
+Alexander Botz,Germany,396
+Paul Ellement,Canada,395
+Joel Mamani Tumiri,Bolivia,394
+Stanisław Szyszka,Poland,394
+Shintaro Hirose (広瀬慎太郎),Japan,394
+Jiazheng Zhao (赵家正),China,393
+Paweł Duraj,Poland,393
+Viktor Zenk,Sweden,393
+Jae Hyun Jeong,Korea,393
+Pavel Kovirzin (Павел Ковырзин),Russia,393
+Taku Yanai (矢内拓),Japan,393
+Philip Cuthbertson,USA,392
+Mykhailo Lagoida (Михайло Лагойда),Ukraine,392
+Calvin Sall,USA,392
+Ishaan Lal,USA,391
+Andreas Lambropoulos,USA,391
+Pranav Prabhu,India,391
+Wenjie Xu (徐文杰),China,390
+Jaden Ginsburg,USA,390
+Jintao Jin (金锦涛),China,390
+Javier Hernandez Requena,Spain,389
+Alban Reynaud,France,389
+Zhao-Zhe Zhong (鍾肇哲),Taiwan,389
+Leonardo Pranadyar,Indonesia,388
+Nathan Dwyer,USA,387
+Finn Trass,New Zealand,387
+Xiaoliang Zhu (朱校良),China,387
+Angelo Fontanini Lamure,France,387
+Jefferson Andres Durango Argaez,Colombia,387
+Víctor Adán Solis Martinez,Mexico,386
+Volodymyr Korol (Володимир Король),Ukraine,386
+Ethan Stevens,Australia,386
+Marcus Moberg,Sweden,385
+João Pedro de Ornellas Cardoso,Brazil,384
+Tripp Peters,USA,384
+Theodor Nordstrand,Sweden,384
+David Vujasić,Croatia,384
+Ethan Basanov,Canada,383
+Naoko Ogino (荻野奈緒子),Japan,382
+Sora Sato,Australia,382
+Frederick Zheng,USA,382
+Nam Anh Dang,Australia,380
+Jong-Ho Jeong (정종호),Korea,380
+Vitalii Khomyn (Віталій Хомин),Ukraine,379
+Michael Young,USA,378
+Acchyut Jolly,India,377
+Hippolyte Moreau,France,377
+Jia-Wei Liu (劉家瑋),Taiwan,375
+Niels van Ee,Netherlands,375
+Callum Hales-Jepp,United Kingdom,375
+Dominic Amrhein,Germany,374
+Yunsu Nam (남윤수),Korea,373
+Xin Luo (罗鑫),China,373
+Ryota Aoki (青木涼太),Japan,372
+Tijmen van der Ree,Netherlands,372
+Mingyang Xie (谢铭扬),China,372
+Samuel Fang,USA,372
+Mohammad Ibnu Sabilillah,Indonesia,371
+Raúl Cuevas Castillo,Spain,371
+Calvin Brauer,USA,370
+Daniel Vædele Egdal,Denmark,370
+Sergio Bulux,Guatemala,370
+Anirudh Sureshram,India,369
+Tomoyuki Hiraide (平出智之),Japan,369
+Pavlo Bondar (Павло Бондар),Ukraine,369
+Timo Hromádka,Slovakia,369
+Joshua Eom,USA,368
+Eli Jay,United Kingdom,367
+Yiquan Ling (凌艺全),China,367
+Tyler Patten,USA,367
+Jacopo Antonio Boffa,Italy,366
+Andrew Robey,USA,366
+Oto Aoyagi (青柳吟),Japan,365
+Einar Kvam Lundberg,Norway,365
+Eric Waldbillig,USA,365
+Haruka Kitamura (北村晴香),Japan,364
+Victor Hugo Lopez Bautista,Mexico,364
+Lincoln Solt,USA,364
+Joel Lundström,Sweden,363
+Joshua Williams,United Kingdom,363
+James Macdiarmid,New Zealand,363
+Ramses Amaya,Colombia,363
+Kristopher De Asis,Canada,363
+Derek Kong,Canada,363
+Mircea Simionica,Romania,362
+Akash Malajpure,India,362
+Simon Jansson,Sweden,361
+Josh Bloch,USA,361
+Kazuki Sakamoto (坂本一樹),Japan,361
+Kazuki Ojima (尾島和樹),Japan,361
+Eduardo José Poveda Rojas,Costa Rica,360
+Brian Acuña,Philippines,360
+Breandan Vallance,United Kingdom,359
+Jie Chen (陈杰),China,359
+CJ Sheng,USA,359
+Polina Lapteva (Полина Лаптева),Russia,359
+Timothy Castle,USA,359
+Erik Bitvai,Sweden,358
+Diego Meneghetti,Brazil,358
+Hang Yu (禹杭),China,358
+Viljo Elo,Finland,358
+Ethan Dennis,USA,357
+Roberto da Costa Barbosa Nunes Caldas,Brazil,357
+Bobby D'Angelo,USA,357
+Mattheo de Wit,Netherlands,356
+Malte Ihlefeld,Germany,356
+Łukasz Gondek,Poland,356
+Shin Myeong Park (박신명),Korea,354
+Ryan McIlhenny,USA,354
+Brandon Satterstrom,USA,354
+Kaidrich Keolo Pobre,Philippines,354
+Vicenzo Guerino Cecchini,Brazil,353
+Timothy Loh,Australia,353
+Luboš Bartík,Czech Republic,353
+Noel Kim,New Zealand,353
+Patryk Milewczyk,Poland,351
+Zhiyuan Ma (马之元),China,350
+Ryan Eckersley,United Kingdom,350
+Sergio Bodega Herráiz,Spain,350
+Rodrigo Zarate,Peru,350
+Max Hahnbück,Germany,350
+Mohamad Danisy Asyraf Bin Abdul Razak,Malaysia,350
+Owen Wilkins,USA,349
+Céline Souty,France,349
+AJ Blair,USA,348
+Manuel Bühler,Switzerland,348
+Naman Jain,India,348
+Jeric Bobo,Philippines,348
+Ryan DeLine,USA,347
+Charlie Stark,United Kingdom,347
+Fahad Ittikaparambil Palakkal Haneefa,India,347
+Tao Yu (喻韬),China,347
+Jesús Lindo García,Spain,346
+Peter Andersson,Sweden,345
+Carlos Pedro Casado de Achával,Argentina,345
+Ivan Li Ka Leong (李嘉亮),Hong Kong,344
+Daniel Gracia Ortiz,Spain,343
+Levi André Tallaksen,Norway,343
+Clément Burgevin,France,342
+Guoliang Wang (王国梁),China,342
+Andy Wong,USA,341
+Remo Pihel,Estonia,340
+Brandon Mikel,USA,340
+Matt Sullivan,USA,340
+Shifei Dai (代时飞),China,340
+Timo Forsthofer,Germany,339
+Marcos Masini,Argentina,339
+Gabriel Henrique Cabral Barthasson,Brazil,339
+Andrew Le,USA,339
+Santiago Reyes Idarraga,Colombia,339
+Oscar Jones,United Kingdom,339
+Serhii Mormul (Сергій Мормуль),Ukraine,339
+David Verdooren Flórez,Colombia,338
+Xiaochuan Feng (冯小川),China,338
+Amelie Dieterich,Germany,337
+Daniel Chudecki,Poland,336
+Eddy Deturche,France,336
+Laura Holzhauer,Germany,336
+Jesper Frisk,Sweden,335
+Muhammad Saleh Imtiaz,Pakistan,335
+Radosław Drozdowicz,Poland,335
+Abdullah Gulab,Pakistan,335
+Yan Xia (夏炎),China,333
+Akatsuki Kitamura (北村曉),Japan,333
+James Hildreth,USA,333
+Daniel Tarifa,Bolivia,332
+Willem Klose,Germany,332
+Ben Streeter,USA,331
+Kevin Gerhardt,Germany,331
+Caleb Fox,USA,331
+Aidan Proietto,USA,331
+Jerich Lee (李再圆),USA,331
+Tommy Szeliga,USA,330
+Shunsuke Wada (和田俊輔),Japan,330
+Jing Jia (贾婧),China,330
+Philippe Virouleau,France,329
+Spencer Chubb,USA,328
+Tyler Robinson,USA,328
+Andreas Pohl,Germany,327
+Brady Metherall,Canada,327
+Shuo Zhao (赵硕),China,327
+Antonio Egidio,USA,327
+Pranav Veera,USA,327
+Jorge Mario Gurdián Flores,Nicaragua,326
+Lakshay Modi,India,326
+Ben Baron,Israel,325
+Julian Schaffhauser,Argentina,325
+Angelo Piccolella,Italy,325
+Matthew Hollinger,USA,324
+Dalton Padgett,USA,324
+Alejandro Isaza,Colombia,324
+Daniel Rose-Levine,USA,324
+Sebastian Werb,Germany,324
+Hanns Hub,Germany,324
