@@ -23,10 +23,10 @@ print("Events dictionary finished.")
 print("ELO dictionary started.")
 elo_dict = {}
 scratch = False
-persons = results.personId.nunique()
+#persons = results.personId.nunique()
 personlist = results.personId.unique()
 if not scratch:
-    ncomps = 7075
+    ncomps = 7080
     elotable_scratch = pd.read_csv("elotable_" + str(ncomps) + ".csv")
     for wcaid in list(elotable_scratch.columns):
         elo_dict[wcaid] = list(elotable_scratch[wcaid])
@@ -210,25 +210,31 @@ if start:
     print("Elapsed time:", datetime.now() - init_t)
 
 # Creates the CSV file
-
+retired_events = ["magic", "mmagic", "333mbo", "333ft"]
 elo_table = {}
 elo_table["personId"] = list(elo_dict.keys())
-for e in range(len(events)):
-    event = events[e]
-    elo_table[event] = []
-    for wcaid in list(elo_dict.keys()):
-        score = elo_dict[wcaid][e]
-        elo_table[event].append(round(score))
+elo_table["overall"] = []
+for wcaid in list(elo_dict.keys()):
+    total_score = 0  # For overall score
+    for event in events:
+        if event not in retired_events and event not in list(elo_table.keys()):
+            elo_table[event] = []
+        if event not in retired_events:
+            e = events_dict[event]
+            score = elo_dict[wcaid][e]
+            if score > 0:
+                total_score += score
+            elo_table[event].append(round(score))
+    elo_table["overall"].append(round(total_score / 17))
 
 elo_df = pd.DataFrame(elo_table)
 if not start:
-    print(elo_df.sort_values("333", ascending=False).reset_index(drop="index").head(10))
+    print(elo_df.sort_values("333", ascending=False).reset_index(drop="index").head(10))  # ELO test
 if start:
     elo_df.to_csv("wca_elo_rankings.csv", index=False)
-    # Creating CSV files for Github
+    # Creating CSV files for Github Repo
     elodf = pd.read_csv("wca_elo_rankings.csv")
-    retired_events = ["magic", "mmagic", "333mbo", "333ft"]
-    elodf = elodf.drop(retired_events, axis=1)
+    # elodf = elodf.drop(retired_events, axis=1)
     for event in elodf.columns:
         if event != "personId":
             print("Started " + event)
