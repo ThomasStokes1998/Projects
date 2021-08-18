@@ -34,6 +34,7 @@ Other | 20
 Tournament | x1.5
 Worlds | x2
 
+**New ELO Formulae** \
 Home ELO = Weighting * ( 1 - 1 / (1 + e^{λ(away - home)}) ) \
 Away ELO = -Weighting * 1 / (1 + e^{λ(home - away)}) ) \
 Where Home ELO and Away ELO are the amounts to be added respectively, home and away are the current ELOs of the two competitors and λ is a parameter that enusres a sensible
