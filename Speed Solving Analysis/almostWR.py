@@ -89,6 +89,7 @@ v3 = []
 v4 = []
 bpa = []
 cwr = []
+mint = []
 
 competitions = competitions[competitions.cancelled == 0].reset_index(drop="index")
 comps = competitions.id.unique()
@@ -108,6 +109,7 @@ for comp in comps:
                 b = df["value2"][i]
                 c = df["value3"][i]
                 d = df["value4"][i]
+                # If there is a DNF in the average
                 if np.min([a, b, c, d]) < 0 and a + b + c + d - np.min([a, b, c, d]) < 3 * wravg:
                     wcaid = df.personId[i]
                     # First DF
@@ -126,6 +128,12 @@ for comp in comps:
                     bpa.append(round((a + b + c + d - np.min([a, b, c, d])) / 300, 2))
                     cwr.append(wravg / 100)
 
+                    x = np.percentile([a, b, c, d], 200 / 3)
+                    y = np.max([a, b, c, d])
+                    t = 3 * wravg - x - y
+                    mint.append(t / 100)
+
+                # No DNF averages
                 elif np.min([a, b, c, d]) > 0 and a + b + c + d - np.max([a, b, c, d]) < 3 * wravg:
                     wcaid = df.personId[i]
                     # First DF
@@ -143,6 +151,12 @@ for comp in comps:
                     v4.append(d / 100)
                     bpa.append(round((a + b + c + d - np.max([a, b, c, d])) / 300, 2))
                     cwr.append(wravg / 100)
+
+                    x = np.percentile([a, b, c, d], 100 / 3)
+                    y = np.percentile([a, b, c, d], 200 / 3)
+                    t = 3 * wravg - x - y
+                    mint.append(t / 100)
+
     if count % 100 == 0:
         dt = datetime.now() - u
         print(f"Time elapsed for {count} competitions: {dt}")
@@ -168,6 +182,6 @@ stat.to_csv("unlucky.csv", index=False)
 # Second DF
 mc = pd.DataFrame(
     {"Name": wcaname(wcaids), "Country": wcacountry(wcaids), "Competition": komp, "Best Possible Average": bpa,
-     "Current WR": cwr, "Solve1": v1, "Solve2": v2, "Solve3": v3, "Solve4": v4})
+     "Current WR": cwr, "Minimum Time Needed": mint, "Solve1": v1, "Solve2": v2, "Solve3": v3, "Solve4": v4})
 
 mc.to_csv("unlucky breakdown.csv", index=False)
