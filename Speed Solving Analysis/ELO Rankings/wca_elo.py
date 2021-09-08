@@ -25,7 +25,7 @@ elo_dict = {}
 scratch = False
 personlist = results.personId.unique()
 if not scratch:
-    ncomps = 7083
+    ncomps = 7091
     elotable_scratch = pd.read_csv("elotable_" + str(ncomps) + ".csv")
     for wcaid in list(elotable_scratch.columns):
         elo_dict[wcaid] = list(elotable_scratch[wcaid])
