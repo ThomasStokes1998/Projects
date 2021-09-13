@@ -143,13 +143,10 @@ for cr in ["AfR", "AsR", "ER", "NaR", "OcR", "SaR"]:
         country.append(records.personCountryId[l - 1])
         lstreak = 0
         record_hist = {}
-        init_start = 0
         # Creates a dictionary containing start and end dates for all CRs
         for i in range(l):
             start = records.date[i]
             start_time = toDate([start])[0]
-            if init_start == 0 and start_time.year >= 2003:
-                init_start = start_time
             record_types = list(record_hist.keys())
             if start_time.year >= 2003:
                 ev = records.eventId[i]
@@ -184,7 +181,7 @@ for cr in ["AfR", "AsR", "ER", "NaR", "OcR", "SaR"]:
         eventype = []
         start_times = []
         end_times = []
-        for evty in record_types:
+        for evty in list(record_hist.keys()):
             y = record_hist[evty]
             for x in y:
                 eventype.append(evty)
@@ -193,6 +190,8 @@ for cr in ["AfR", "AsR", "ER", "NaR", "OcR", "SaR"]:
         et = pd.DataFrame({"ET": eventype, "STT": start_times, "ENT": end_times})
         et = et.sort_values("STT").reset_index(drop="index")
         if len(et) == 0:
+            print(wcaid)
+            print("record_hist:", record_hist)
             longest_streak.append(0)
             start_dates.append(date(2003, 1, 1))
             end_dates.append(date(2003, 1, 1))
