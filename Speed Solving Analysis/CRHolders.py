@@ -40,7 +40,7 @@ def getCRtype(cr):
         return "_Asia"
     if cr == "ER":
         return "_Europe"
-    if cr == "NaR":
+    if cr == "NAR":
         return "_North America"
     if cr == "OcR":
         return "_Oceania"
@@ -129,7 +129,7 @@ country = []
 longest_streak = []
 start_dates = []
 end_dates = []
-for cr in ["AfR", "AsR", "ER", "NaR", "OcR", "SaR"]:
+for cr in ["AfR", "AsR", "ER", "NAR", "OcR", "SaR"]:
     print("Starting " + getCRtype(cr)[1:])
     u = datetime.now()
     cr_dict = allCRs(cr)
