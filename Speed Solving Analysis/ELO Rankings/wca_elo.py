@@ -25,7 +25,7 @@ elo_dict = {}
 scratch = False
 personlist = results.personId.unique()
 if not scratch:
-    ncomps = 7091
+    ncomps = 7099
     elotable_scratch = pd.read_csv("elotable_" + str(ncomps) + ".csv")
     for wcaid in list(elotable_scratch.columns):
         elo_dict[wcaid] = list(elotable_scratch[wcaid])
@@ -158,7 +158,7 @@ else:
 total_comps = results.competitionId.nunique()
 list_comps = results.competitionId.unique()
 init_t = datetime.now()
-comp_date = "08_2021"
+comp_date = "09_2021"
 start = True
 if start:
     print("Started")
@@ -187,21 +187,6 @@ if start:
                 print("Elapsed time:", datetime.now() - t)
                 print("Total elapsed time:", datetime.now() - init_t)
             t = datetime.now()
-        # Creating regular saves (every 100 comps) incase the program crashes
-        # This code is largely redundant as long as I don't decide to restart in the future
-        if count % 100 == 0 and count > start_val:
-            elotable = pd.DataFrame(elo_dict)
-            elotable.to_csv("elotable_" + str(count) + ".csv", index=False)
-            if count - start_val == 100:
-                print("=" * 20 + competition + "=" * 20)
-                print("Elapsed time for " + str(count) + " comps:", datetime.now() - init_t)
-                print("=" * 20 + competition + "=" * 20)
-                m = datetime.now()
-            else:  # Probably can be deleted (see previous comment)
-                print("=" * 20 + competition + "=" * 20)
-                print("Elapsed time for " + str(count) + " comps:", datetime.now() - m)
-                print("=" * 20 + competition + "=" * 20)
-                m = datetime.now()
     # Complete ELO Table
     elotable = pd.DataFrame(elo_dict)
     elotable.to_csv("elotable_" + str(count) + ".csv", index=False)
