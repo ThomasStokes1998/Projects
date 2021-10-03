@@ -5,45 +5,76 @@ import matplotlib.pyplot as plt
 class Cube:
     def __init__(self, colours=("white", "orange", "green", "red", "blue", "yellow")):
         # Solved Cube
-        solved = np.array([np.arange(0, 24, 1), np.arange(0, 24, 1)])
+        solved = np.array([np.arange(0, 24, 1), np.arange(0, 24, 1), np.arange(0, 24, 1)])
         self.solved = solved
         # Generators
-        # move[0]=Corners, move[1]=Edges
+        # move[0]=Corners, move[1]=Edges, move[2]=Centres
         self.left = np.array([[18, 1, 2, 17, 7, 4, 5, 6, 0, 9, 10, 3, 12, 13, 14, 15, 16, 23, 20, 19, 8, 21, 22, 11],
-                              [0, 1, 2, 17, 7, 4, 5, 6, 8, 9, 10, 3, 12, 13, 14, 15, 16, 23, 18, 19, 20, 21, 22, 11]])
+                              [0, 1, 2, 17, 7, 4, 5, 6, 8, 9, 10, 3, 12, 13, 14, 15, 16, 23, 18, 19, 20, 21, 22, 11],
+                              np.arange(0, 24, 1)])
         self.left_ = np.array([[8, 1, 2, 11, 5, 6, 7, 4, 20, 9, 10, 23, 12, 13, 14, 15, 16, 3, 0, 19, 18, 21, 22, 17],
-                               [0, 1, 2, 11, 5, 6, 7, 4, 8, 9, 10, 23, 12, 13, 14, 15, 16, 3, 18, 19, 20, 21, 22, 17]])
+                               [0, 1, 2, 11, 5, 6, 7, 4, 8, 9, 10, 23, 12, 13, 14, 15, 16, 3, 18, 19, 20, 21, 22, 17],
+                               np.arange(0, 24, 1)])
         self.right = np.array([[0, 9, 10, 3, 4, 5, 6, 7, 8, 21, 22, 11, 15, 12, 13, 14, 2, 17, 18, 1, 20, 19, 16, 23],
-                               [0, 9, 2, 3, 4, 5, 6, 7, 8, 21, 10, 11, 15, 12, 13, 14, 16, 17, 18, 1, 20, 19, 22, 23]])
+                               [0, 9, 2, 3, 4, 5, 6, 7, 8, 21, 10, 11, 15, 12, 13, 14, 16, 17, 18, 1, 20, 19, 22, 23],
+                               np.arange(0, 24, 1)])
         self.right_ = np.array([[0, 19, 16, 3, 4, 5, 6, 7, 8, 1, 2, 11, 13, 14, 15, 12, 22, 17, 18, 21, 20, 9, 10, 23],
-                                [0, 19, 2, 3, 4, 5, 6, 7, 8, 1, 10, 11, 13, 14, 15, 12, 16, 17, 18, 21, 20, 9, 22, 23]])
+                                [0, 19, 2, 3, 4, 5, 6, 7, 8, 1, 10, 11, 13, 14, 15, 12, 16, 17, 18, 21, 20, 9, 22, 23],
+                                np.arange(0, 24, 1)])
         self.up = np.array([[3, 0, 1, 2, 8, 9, 6, 7, 12, 13, 10, 11, 16, 17, 14, 15, 4, 5, 18, 19, 20, 21, 22, 23],
-                            [3, 0, 1, 2, 8, 5, 6, 7, 12, 9, 10, 11, 16, 13, 14, 15, 4, 17, 18, 19, 20, 21, 22, 23]])
+                            [3, 0, 1, 2, 8, 5, 6, 7, 12, 9, 10, 11, 16, 13, 14, 15, 4, 17, 18, 19, 20, 21, 22, 23],
+                            np.arange(0, 24, 1)])
         self.up_ = np.array([[1, 2, 3, 0, 16, 17, 6, 7, 4, 5, 10, 11, 8, 9, 14, 15, 12, 13, 18, 19, 20, 21, 22, 23],
-                             [1, 2, 3, 0, 16, 5, 6, 7, 4, 9, 10, 11, 8, 13, 14, 15, 12, 17, 18, 19, 20, 21, 22, 23]])
+                             [1, 2, 3, 0, 16, 5, 6, 7, 4, 9, 10, 11, 8, 13, 14, 15, 12, 17, 18, 19, 20, 21, 22, 23],
+                             np.arange(0, 24, 1)])
         self.down = np.array([[0, 1, 2, 3, 4, 5, 18, 19, 8, 9, 6, 7, 12, 13, 10, 11, 16, 17, 14, 15, 23, 20, 21, 22],
-                              [0, 1, 2, 3, 4, 5, 18, 7, 8, 9, 6, 11, 12, 13, 10, 15, 16, 17, 14, 19, 23, 20, 21, 22]])
+                              [0, 1, 2, 3, 4, 5, 18, 7, 8, 9, 6, 11, 12, 13, 10, 15, 16, 17, 14, 19, 23, 20, 21, 22],
+                              np.arange(0, 24, 1)])
         self.down_ = np.array([[0, 1, 2, 3, 4, 5, 10, 11, 8, 9, 14, 15, 12, 13, 18, 19, 16, 17, 6, 7, 21, 22, 23, 20],
-                               [0, 1, 2, 3, 4, 5, 10, 7, 8, 9, 14, 11, 12, 13, 18, 15, 16, 17, 6, 19, 21, 22, 23, 20]])
+                               [0, 1, 2, 3, 4, 5, 10, 7, 8, 9, 14, 11, 12, 13, 18, 15, 16, 17, 6, 19, 21, 22, 23, 20],
+                               np.arange(0, 24, 1)])
         self.front = np.array([[0, 1, 5, 6, 4, 20, 21, 7, 11, 8, 9, 10, 3, 13, 14, 2, 16, 17, 18, 19, 15, 12, 22, 23],
-                               [0, 1, 5, 3, 4, 20, 6, 7, 11, 8, 9, 10, 12, 13, 14, 2, 16, 17, 18, 19, 15, 21, 22, 23]])
+                               [0, 1, 5, 3, 4, 20, 6, 7, 11, 8, 9, 10, 12, 13, 14, 2, 16, 17, 18, 19, 15, 21, 22, 23],
+                               np.arange(0, 24, 1)])
         self.front_ = np.array([[0, 1, 15, 12, 4, 2, 3, 7, 9, 10, 11, 8, 21, 13, 14, 20, 16, 17, 18, 19, 5, 6, 22, 23],
-                                [0, 1, 15, 3, 4, 2, 6, 7, 9, 10, 11, 8, 12, 13, 14, 20, 16, 17, 18, 19, 5, 21, 22, 23]])
+                                [0, 1, 15, 3, 4, 2, 6, 7, 9, 10, 11, 8, 12, 13, 14, 20, 16, 17, 18, 19, 5, 21, 22, 23],
+                                np.arange(0, 24, 1)])
         self.back = np.array([[13, 14, 2, 3, 1, 5, 6, 0, 8, 9, 10, 11, 12, 22, 23, 15, 19, 16, 17, 18, 20, 21, 7, 4],
-                              [13, 1, 2, 3, 4, 5, 6, 0, 8, 9, 10, 11, 12, 22, 14, 15, 19, 16, 17, 18, 20, 21, 7, 23]])
+                              [13, 1, 2, 3, 4, 5, 6, 0, 8, 9, 10, 11, 12, 22, 14, 15, 19, 16, 17, 18, 20, 21, 7, 23],
+                              np.arange(0, 24, 1)])
         self.back_ = np.array([[7, 4, 2, 3, 23, 5, 6, 22, 8, 9, 10, 11, 12, 0, 1, 15, 17, 18, 19, 16, 20, 21, 13, 14],
-                               [7, 1, 2, 3, 4, 5, 6, 22, 8, 9, 10, 11, 12, 0, 14, 15, 17, 18, 19, 16, 20, 21, 13, 23]])
-        self.poss_moves = ["U", "U'", "U2", "L", "L'", "L2", "F", "F'", "F2", "R", "R'", "R2", "B", "B'", "B2",
-                           "D", "D'", "D2"]
+                               [7, 1, 2, 3, 4, 5, 6, 22, 8, 9, 10, 11, 12, 0, 14, 15, 17, 18, 19, 16, 20, 21, 13, 23],
+                               np.arange(0, 24, 1)])
+        self.middle = np.array([np.arange(0, 24, 1),
+                                [18, 1, 16, 3, 4, 5, 6, 7, 0, 9, 2, 11, 12, 13, 14, 15, 20, 17, 22, 19, 8, 21, 10, 23],
+                                [16, 17, 18, 19, 4, 5, 6, 7, 0, 1, 2, 3, 12, 13, 14, 15, 20, 21, 22, 23, 8, 9, 10, 11]])
+        self.middle_ = np.array([np.arange(0, 24, 1),
+                                [8, 1, 10, 3, 4, 5, 6, 7, 20, 9, 22, 11, 12, 13, 14, 15, 3, 17, 0, 19, 18, 21, 16, 23],
+                                [8, 9, 10, 11, 4, 5, 6, 7, 20, 21, 22, 23, 12, 13, 14, 15, 0, 1, 2, 3, 16, 17, 18, 19]])
+        self.equator = np.array([np.arange(0, 24, 1),
+                                [0, 1, 2, 3, 4, 17, 6, 19, 8, 5, 10, 7, 12, 9, 14, 11, 16, 13, 18, 15, 20, 21, 22, 23],
+                                [0, 1, 2, 3, 16, 17, 18, 19, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 20, 21, 22, 23]])
+        self.equator_ = np.array([np.arange(0, 24, 1),
+                                  [0, 1, 2, 3, 4, 9, 6, 11, 8, 13, 10, 15, 12, 17, 14, 19, 16, 5, 18, 7, 20, 21, 22, 23]
+                                ,[0, 1, 2, 3, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 4, 5, 6, 7, 20, 21, 22, 23]])
+        self.slice = np.array([np.arange(0, 24, 1),
+                               [0, 4, 2, 6, 23, 5, 21, 7, 8, 9, 10, 11, 3, 13, 1, 15, 16, 17, 18, 19, 20, 12, 22, 14],
+                               [4, 5, 6, 7, 20, 21, 22, 23, 8, 9, 10, 11, 0, 1, 2, 3, 16, 17, 18, 19, 12, 13, 14, 15]])
+        self.slice_ = np.array([np.arange(0, 24, 1),
+                                [0, 14, 2, 12, 1, 5, 3, 7, 8, 9, 10, 11, 21, 13, 23, 15, 16, 17, 18, 19, 20, 6, 22, 4],
+                                [12, 13, 14, 15, 0, 1, 2, 3, 8, 9, 10, 11, 20, 21, 22, 23, 16, 17, 18, 19, 4, 5, 6, 7]])
+        self.poss_moves = ["U", "U'", "U2", "L", "L'", "L2", "F", "F'", "F2", "R", "R'", "R2", "B", "B'", "B2", "D",
+                           "D'", "D2", "Uw", "Uw'", "Uw2", "Lw", "Lw'", "Lw2", "Fw", "Fw'", "Fw2", "Rw", "Rw'", "Rw2",
+                           "Bw", "Bw'", "Bw2", "Dw", "Dw'", "Dw2", "M", "M'", "M2", "E", "E'", "E2", "S", "S'", "S2"]
         # Colours
         if len(colours) != 6:
-            print("Must name 6 colours")
+            print("Must name exactly 6 colours!")
         else:
             self.colour = colours
 
     # Functions
     # Turning the cube
-    def turn(self, move, state=None, size=2):
+    def turn(self, move, state=None, size=3):
         if state is None:
             state = self.solved
         new = {}
@@ -53,7 +84,7 @@ class Cube:
             new[x] = []
             for s in swaps:
                 new[x].append(pieces[s])
-        new_state = np.array([new[0], new[1]])
+        new_state = np.array([new[k] for k in range(size)])
         return new_state
 
     # Recovers a move
@@ -82,6 +113,18 @@ class Cube:
             return self.back
         elif x == "B'":
             return self.back_
+        elif x == "M":
+            return self.middle
+        elif x == "M'":
+            return self.middle_
+        elif x == "E":
+            return self.equator
+        elif x == "E'":
+            return self.equator_
+        elif x == "S":
+            return self.slice
+        elif x == "S'":
+            return self.slice_
         else:
             return print("Invalid Move")
 
@@ -90,11 +133,18 @@ class Cube:
         X = []
         for i in range(len(turns)):
             a = turns[i]
-            if a not in ["'", '2']:
+            if a not in ["'", '2', "w"]:
                 if turns[(i + 1) % len(turns)] == "'":
                     X.append(a + "'")
                 elif turns[(i + 1) % len(turns)] == '2':
                     X.append(a + '2')
+                elif turns[(i + 1) % len(turns)] == "w":
+                    if turns[(i + 2) % len(turns)] == "'":
+                        X.append(a + "w'")
+                    elif turns[(i + 2) % len(turns)] == "2":
+                        X.append(a + "w2")
+                    else:
+                        X.append(a)
                 else:
                     X.append(a)
         return X
@@ -137,11 +187,11 @@ class Cube:
                 s += m
                 l += 1
             elif len(m) == 1:
-                if s[-1] not in ["'", "2"] and s[-1] != m:  # Ensures successive letters are different
-                    if len(s) < 4:
-                        s += m
-                        l += 1
-                    elif s[-2] not in ["'", "2"] and s[-2] != m:  # Ensures no three consecutive letters are the same
+                if len(s) < 4:
+                    s += m
+                    l += 1
+                elif s[-1] not in ["'", "2"] and s[-1] != m:  # Ensures successive letters are different
+                    if s[-2] not in ["'", "2"] and s[-2] != m:  # Ensures no three consecutive letters are the same
                         s += m
                         l += 1
                     elif s[-2] in ["'", "2"] and s[-3] != m:
@@ -155,10 +205,10 @@ class Cube:
                         s += m
                         l += 1
             elif len(m) == 2:
-                if s[-1] not in ["'", "2"] and s[-1] != m[0]:  # Ensures successive letters are different
-                    if len(s) < 4:
-                        s += m
-                        l += 1
+                if len(s) < 4:
+                    s += m
+                    l += 1
+                elif s[-1] not in ["'", "2"] and s[-1] != m[0]:  # Ensures successive letters are different
                     if s[-2] not in ["'", "2"] and s[-2] != m[0]:  # Ensures no three consecutive letters are the same
                         s += m
                         l += 1
@@ -181,15 +231,155 @@ class Cube:
         s = state
         X = Cube().qtm(scramble)
         for x in X:
-            if '2' in x:
-                for i in range(2):
-                    m = Cube().move(x[0])
+            if "w" in x:
+                if x[0] == "L":
+                    if x[-1] == "w":
+                        m = Cube().move(x[0])
+                        y = Cube().turn(m, s)
+                        s = y
+                        m = Cube().move("M")
+                        y = Cube().turn(m, s)
+                        s = y
+                    elif x[-1] == "'":
+                        m = Cube().move(x[0] + x[-1])
+                        y = Cube().turn(m, s)
+                        s = y
+                        m = Cube().move("M'")
+                        y = Cube().turn(m, s)
+                        s = y
+                    elif x[-1] == "2":
+                        for i in range(2):
+                            m = Cube().move(x[0])
+                            y = Cube().turn(m, s)
+                            s = y
+                            m = Cube().move("M")
+                            y = Cube().turn(m, s)
+                            s = y
+                if x[0] == "R":
+                    if x[-1] == "w":
+                        m = Cube().move(x[0])
+                        y = Cube().turn(m, s)
+                        s = y
+                        m = Cube().move("M'")
+                        y = Cube().turn(m, s)
+                        s = y
+                    elif x[-1] == "'":
+                        m = Cube().move(x[0] + x[-1])
+                        y = Cube().turn(m, s)
+                        s = y
+                        m = Cube().move("M")
+                        y = Cube().turn(m, s)
+                        s = y
+                    elif x[-1] == "2":
+                        for i in range(2):
+                            m = Cube().move(x[0])
+                            y = Cube().turn(m, s)
+                            s = y
+                            m = Cube().move("M")
+                            y = Cube().turn(m, s)
+                            s = y
+                if x[0] == "U":
+                    if x[-1] == "w":
+                        m = Cube().move(x[0])
+                        y = Cube().turn(m, s)
+                        s = y
+                        m = Cube().move("E'")
+                        y = Cube().turn(m, s)
+                        s = y
+                    elif x[-1] == "'":
+                        m = Cube().move(x[0] + x[-1])
+                        y = Cube().turn(m, s)
+                        s = y
+                        m = Cube().move("E")
+                        y = Cube().turn(m, s)
+                        s = y
+                    elif x[-1] == "2":
+                        for i in range(2):
+                            m = Cube().move(x[0])
+                            y = Cube().turn(m, s)
+                            s = y
+                            m = Cube().move("E'")
+                            y = Cube().turn(m, s)
+                            s = y
+                if x[0] == "D":
+                    if x[-1] == "w":
+                        m = Cube().move(x[0])
+                        y = Cube().turn(m, s)
+                        s = y
+                        m = Cube().move("E")
+                        y = Cube().turn(m, s)
+                        s = y
+                    elif x[-1] == "'":
+                        m = Cube().move(x[0] + x[-1])
+                        y = Cube().turn(m, s)
+                        s = y
+                        m = Cube().move("E'")
+                        y = Cube().turn(m, s)
+                        s = y
+                    elif x[-1] == "2":
+                        for i in range(2):
+                            m = Cube().move(x[0])
+                            y = Cube().turn(m, s)
+                            s = y
+                            m = Cube().move("E")
+                            y = Cube().turn(m, s)
+                            s = y
+                if x[0] == "F":
+                    if x[-1] == "w":
+                        m = Cube().move(x[0])
+                        y = Cube().turn(m, s)
+                        s = y
+                        m = Cube().move("S")
+                        y = Cube().turn(m, s)
+                        s = y
+                    elif x[-1] == "'":
+                        m = Cube().move(x[0] + x[-1])
+                        y = Cube().turn(m, s)
+                        s = y
+                        m = Cube().move("S'")
+                        y = Cube().turn(m, s)
+                        s = y
+                    elif x[-1] == "2":
+                        for i in range(2):
+                            m = Cube().move(x[0])
+                            y = Cube().turn(m, s)
+                            s = y
+                            m = Cube().move("S")
+                            y = Cube().turn(m, s)
+                            s = y
+                if x[0] == "B":
+                    if x[-1] == "w":
+                        m = Cube().move(x[0])
+                        y = Cube().turn(m, s)
+                        s = y
+                        m = Cube().move("S'")
+                        y = Cube().turn(m, s)
+                        s = y
+                    elif x[-1] == "'":
+                        m = Cube().move(x[0] + x[-1])
+                        y = Cube().turn(m, s)
+                        s = y
+                        m = Cube().move("S")
+                        y = Cube().turn(m, s)
+                        s = y
+                    elif x[-1] == "2":
+                        for i in range(2):
+                            m = Cube().move(x[0])
+                            y = Cube().turn(m, s)
+                            s = y
+                            m = Cube().move("S'")
+                            y = Cube().turn(m, s)
+                            s = y
+            else:
+                if '2' in x:
+                    for i in range(2):
+                        m = Cube().move(x[0])
+                        y = Cube().turn(m, s)
+                        s = y
+                else:
+                    m = Cube().move(x)
                     y = Cube().turn(m, s)
                     s = y
-            else:
-                m = Cube().move(x)
-                y = Cube().turn(m, s)
-                s = y
         return s
 
     # Graphing the Cube
@@ -213,12 +403,16 @@ class Cube:
         info = []
         cor = state[0]
         edg = state[1]
+        sen = state[2]
+        print("Centre List:", sen)
         for i in range(24):
             colc = Cube().colours(cor[i])
             cole = Cube().colours(edg[i])
+            cols = Cube().colours(sen[i])
             # Up
             if i == 0:
-                info.append([-3 / 2, 0, self.colour[0]])
+                print(f"i: {i}, sen: {sen[i]}")
+                info.append([-3 / 2, 0, cols])
                 info.append([-4 / 2, -1 / 2, colc])
                 info.append([-4 / 2, 0, cole])
             if i == 1:
@@ -232,7 +426,8 @@ class Cube:
                 info.append([-3 / 2, -1 / 2, cole])
             # Left
             if i == 4:
-                info.append([0, -3 / 2, self.colour[1]])
+                print(f"i: {i}, sen: {sen[i]}")
+                info.append([0, -3 / 2, cols])
                 info.append([-1 / 2, -4 / 2, colc])
                 info.append([-1 / 2, -3 / 2, cole])
             if i == 5:
@@ -246,7 +441,8 @@ class Cube:
                 info.append([0, -4 / 2, cole])
             # Front
             if i == 8:
-                info.append([0, 0, self.colour[2]])
+                print(f"i: {i}, sen: {sen[i]}")
+                info.append([0, 0, cols])
                 info.append([-1 / 2, -1 / 2, colc])
                 info.append([-1 / 2, 0, cole])
             if i == 9:
@@ -260,7 +456,8 @@ class Cube:
                 info.append([0, -1 / 2, cole])
             # Right
             if i == 12:
-                info.append([0, 3 / 2, self.colour[3]])
+                print(f"i: {i}, sen: {sen[i]}")
+                info.append([0, 3 / 2, cols])
                 info.append([-1 / 2, 2 / 2, colc])
                 info.append([-1 / 2, 3 / 2, cole])
             if i == 13:
@@ -274,7 +471,8 @@ class Cube:
                 info.append([0, 2 / 2, cole])
             # Back
             if i == 16:
-                info.append([6 / 2, 0, self.colour[4]])
+                print(f"i: {i}, sen: {sen[i]}")
+                info.append([6 / 2, 0, cols])
                 info.append([7 / 2, 1 / 2, colc])
                 info.append([7 / 2, 0, cole])
             if i == 17:
@@ -288,7 +486,8 @@ class Cube:
                 info.append([6 / 2, 1 / 2, cole])
             # Down
             if i == 20:
-                info.append([3 / 2, 0, self.colour[5]])
+                print(f"i: {i}, sen: {sen[i]}")
+                info.append([3 / 2, 0, cols])
                 info.append([2 / 2, -1 / 2, colc])
                 info.append([2 / 2, 0 / 2, cole])
             if i == 21:
@@ -321,4 +520,4 @@ class Cube:
 
 # Test Visualisation
 if __name__ == "__main__":
-    Cube().viscube(Cube().scramble(25))
+    Cube().viscube("Rw")
