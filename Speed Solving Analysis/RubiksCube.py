@@ -45,11 +45,12 @@ class Cube:
         self.back_ = np.array([[7, 4, 2, 3, 23, 5, 6, 22, 8, 9, 10, 11, 12, 0, 1, 15, 17, 18, 19, 16, 20, 21, 13, 14],
                                [7, 1, 2, 3, 4, 5, 6, 22, 8, 9, 10, 11, 12, 0, 14, 15, 17, 18, 19, 16, 20, 21, 13, 23],
                                np.arange(0, 24, 1)])
+        # Middle Layer Turns
         self.middle = np.array([np.arange(0, 24, 1),
-                                [18, 1, 16, 3, 4, 5, 6, 7, 0, 9, 2, 11, 12, 13, 14, 15, 20, 17, 22, 19, 8, 21, 10, 23],
+                                [18, 1, 16, 3, 4, 5, 6, 7, 0, 9, 2, 11, 12, 13, 14, 15, 22, 17, 20, 19, 8, 21, 10, 23],
                                 [16, 17, 18, 19, 4, 5, 6, 7, 0, 1, 2, 3, 12, 13, 14, 15, 20, 21, 22, 23, 8, 9, 10, 11]])
         self.middle_ = np.array([np.arange(0, 24, 1),
-                                [8, 1, 10, 3, 4, 5, 6, 7, 20, 9, 22, 11, 12, 13, 14, 15, 3, 17, 0, 19, 18, 21, 16, 23],
+                                [8, 1, 10, 3, 4, 5, 6, 7, 20, 9, 22, 11, 12, 13, 14, 15, 2, 17, 0, 19, 18, 21, 16, 23],
                                 [8, 9, 10, 11, 4, 5, 6, 7, 20, 21, 22, 23, 12, 13, 14, 15, 0, 1, 2, 3, 16, 17, 18, 19]])
         self.equator = np.array([np.arange(0, 24, 1),
                                 [0, 1, 2, 3, 4, 17, 6, 19, 8, 5, 10, 7, 12, 9, 14, 11, 16, 13, 18, 15, 20, 21, 22, 23],
@@ -63,9 +64,32 @@ class Cube:
         self.slice_ = np.array([np.arange(0, 24, 1),
                                 [0, 14, 2, 12, 1, 5, 3, 7, 8, 9, 10, 11, 21, 13, 23, 15, 16, 17, 18, 19, 20, 6, 22, 4],
                                 [12, 13, 14, 15, 0, 1, 2, 3, 8, 9, 10, 11, 20, 21, 22, 23, 16, 17, 18, 19, 4, 5, 6, 7]])
+        # Rotations
+        self.eks = np.array([[18, 19, 16, 17, 7, 4, 5, 6, 0, 1, 2, 3, 13, 14, 15, 12, 22, 23, 20, 21, 8, 9, 10, 11],
+                            [18, 19, 16, 17, 7, 4, 5, 6, 0, 1, 2, 3, 13, 14, 15, 12, 22, 23, 20, 21, 8, 9, 10, 11],
+                            [18, 19, 16, 17, 7, 4, 5, 6, 0, 1, 2, 3, 13, 14, 15, 12, 22, 23, 20, 21, 8, 9, 10, 11]])
+        self.eks_ = np.array([[8, 9, 10, 11, 5, 6, 7, 4, 20, 21, 22, 23, 15, 12, 13, 14, 2, 3, 0, 1, 18, 19, 16, 17],
+                              [8, 9, 10, 11, 5, 6, 7, 4, 20, 21, 22, 23, 15, 12, 13, 14, 2, 3, 0, 1, 18, 19, 16, 17],
+                              [8, 9, 10, 11, 5, 6, 7, 4, 20, 21, 22, 23, 15, 12, 13, 14, 2, 3, 0, 1, 18, 19, 16, 17]])
+        self.wai = np.array([[3, 0, 1, 2, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 4, 5, 6, 7, 21, 22, 23, 20],
+                             [3, 0, 1, 2, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 4, 5, 6, 7, 21, 22, 23, 20],
+                             [3, 0, 1, 2, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 4, 5, 6, 7, 21, 22, 23, 20]])
+        self.wai_ = np.array([[1, 2, 3, 0, 16, 17, 18, 19, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 23, 20, 21, 22],
+                              [1, 2, 3, 0, 16, 17, 18, 19, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 23, 20, 21, 22],
+                              [1, 2, 3, 0, 16, 17, 18, 19, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 23, 20, 21, 22]])
+        self.zed = np.array([[7, 4, 5, 6, 23, 20, 21, 22, 11, 8, 9, 10, 3, 0, 1, 2, 17, 18, 19, 16, 15, 12, 13, 14],
+                             [7, 4, 5, 6, 23, 20, 21, 22, 11, 8, 9, 10, 3, 0, 1, 2, 17, 18, 19, 16, 15, 12, 13, 14],
+                             [7, 4, 5, 6, 23, 20, 21, 22, 11, 8, 9, 10, 3, 0, 1, 2, 17, 18, 19, 16, 15, 12, 13, 14]])
+        self.zed_ = np.array([[13, 14, 15, 12, 1, 2, 3, 0, 9, 10, 11, 8, 21, 22, 23, 20, 19, 16, 17, 18, 5, 6, 7, 4],
+                              [13, 14, 15, 12, 1, 2, 3, 0, 9, 10, 11, 8, 21, 22, 23, 20, 19, 16, 17, 18, 5, 6, 7, 4],
+                              [13, 14, 15, 12, 1, 2, 3, 0, 9, 10, 11, 8, 21, 22, 23, 20, 19, 16, 17, 18, 5, 6, 7, 4]])
+        # Different Individual Moves and Rotations
         self.poss_moves = ["U", "U'", "U2", "L", "L'", "L2", "F", "F'", "F2", "R", "R'", "R2", "B", "B'", "B2", "D",
                            "D'", "D2", "Uw", "Uw'", "Uw2", "Lw", "Lw'", "Lw2", "Fw", "Fw'", "Fw2", "Rw", "Rw'", "Rw2",
                            "Bw", "Bw'", "Bw2", "Dw", "Dw'", "Dw2", "M", "M'", "M2", "E", "E'", "E2", "S", "S'", "S2"]
+        self.rotations = ["x", "x'", "x2", "y", "y'", "y2", "z", "z'", "z2", "xy", "xy2", "xy'", "x'y", "x'y'", "x'y2",
+                          "x2y", "x2y'", "xz", "xz'", "x'z", "x'z'", "x2z", "x2z'"]
+
         # Colours
         if len(colours) != 6:
             print("Must name exactly 6 colours!")
@@ -125,6 +149,18 @@ class Cube:
             return self.slice
         elif x == "S'":
             return self.slice_
+        elif x == "x":
+            return self.eks
+        elif x == "x'":
+            return self.eks_
+        elif x == "y":
+            return self.wai
+        elif x == "y'":
+            return self.wai_
+        elif x == "z":
+            return self.zed
+        elif x == "z'":
+            return self.zed_
         else:
             return print("Invalid Move")
 
@@ -133,18 +169,28 @@ class Cube:
         X = []
         for i in range(len(turns)):
             a = turns[i]
-            if a not in ["'", '2', "w"]:
+            # Rotations
+            if a in ["x", "y", "z"]:
                 if turns[(i + 1) % len(turns)] == "'":
                     X.append(a + "'")
                 elif turns[(i + 1) % len(turns)] == '2':
                     X.append(a + '2')
+                else:
+                    X.append(a)
+            elif a not in ["'", '2', "w"]:
+                if turns[(i + 1) % len(turns)] == "'":
+                    X.append(a + "'")
+                elif turns[(i + 1) % len(turns)] == '2':
+                    X.append(a + '2')
+                # Wide Moves
                 elif turns[(i + 1) % len(turns)] == "w":
                     if turns[(i + 2) % len(turns)] == "'":
                         X.append(a + "w'")
                     elif turns[(i + 2) % len(turns)] == "2":
                         X.append(a + "w2")
                     else:
-                        X.append(a)
+                        X.append(a+"w")
+                # Regular Turn
                 else:
                     X.append(a)
         return X
@@ -180,48 +226,25 @@ class Cube:
     def scramble(self, length=25):
         s = ""
         l = 0
+        ns = []
         while l < length:
-            n = np.random.randint(0, len(self.poss_moves), 1)[0]
+            n = np.random.randint(0, 18, 1)[0]
             m = self.poss_moves[n]
-            if len(s) == 0:
+            if l == 0:
                 s += m
+                ns.append(n)
                 l += 1
-            elif len(m) == 1:
-                if len(s) < 4:
+            elif l == 1:
+                # Ensures the current move does not cancel with the previous move
+                if ns[0] // 3 != n // 3:
                     s += m
+                    ns.append(n)
                     l += 1
-                elif s[-1] not in ["'", "2"] and s[-1] != m:  # Ensures successive letters are different
-                    if s[-2] not in ["'", "2"] and s[-2] != m:  # Ensures no three consecutive letters are the same
-                        s += m
-                        l += 1
-                    elif s[-2] in ["'", "2"] and s[-3] != m:
-                        s += m
-                        l += 1
-                elif s[-1] in ["'", "2"] and s[-2] != m:
-                    if s[-3] not in ["'", "2"] and s[-3] != m:
-                        s += m
-                        l += 1
-                    elif s[-3] in ["'", "2"] and s[-4] != m:
-                        s += m
-                        l += 1
-            elif len(m) == 2:
-                if len(s) < 4:
-                    s += m
-                    l += 1
-                elif s[-1] not in ["'", "2"] and s[-1] != m[0]:  # Ensures successive letters are different
-                    if s[-2] not in ["'", "2"] and s[-2] != m[0]:  # Ensures no three consecutive letters are the same
-                        s += m
-                        l += 1
-                    elif s[-2] in ["'", "2"] and s[-3] != m[0]:
-                        s += m
-                        l += 1
-                elif s[-1] in ["'", "2"] and s[-2] != m[0]:
-                    if s[-3] not in ["'", "2"] and s[-3] != m[0]:
-                        s += m
-                        l += 1
-                    elif s[-3] in ["'", "2"] and s[-4] != m[0]:
-                        s += m
-                        l += 1
+            # Ensures no simplifications from previous two moves
+            elif ns[l-1] // 3 != n // 3 and ns[l-2] // 3 != n // 3:
+                s += m
+                ns.append(n)
+                l += 1
         return s
 
     # Calculates the final state for an input scramble
@@ -231,6 +254,7 @@ class Cube:
         s = state
         X = Cube().qtm(scramble)
         for x in X:
+            # Wide Moves
             if "w" in x:
                 if x[0] == "L":
                     if x[-1] == "w":
@@ -370,6 +394,7 @@ class Cube:
                             m = Cube().move("S'")
                             y = Cube().turn(m, s)
                             s = y
+            # Regular Moves
             else:
                 if '2' in x:
                     for i in range(2):
@@ -520,4 +545,4 @@ class Cube:
 
 # Test Visualisation
 if __name__ == "__main__":
-    Cube().viscube("Rw")
+    Cube().viscube("x2")
