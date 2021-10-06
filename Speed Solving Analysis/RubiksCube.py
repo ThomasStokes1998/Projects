@@ -87,8 +87,8 @@ class Cube:
         self.poss_moves = ["U", "U'", "U2", "L", "L'", "L2", "F", "F'", "F2", "R", "R'", "R2", "B", "B'", "B2", "D",
                            "D'", "D2", "Uw", "Uw'", "Uw2", "Lw", "Lw'", "Lw2", "Fw", "Fw'", "Fw2", "Rw", "Rw'", "Rw2",
                            "Bw", "Bw'", "Bw2", "Dw", "Dw'", "Dw2", "M", "M'", "M2", "E", "E'", "E2", "S", "S'", "S2"]
-        self.rotations = ["x", "x'", "x2", "y", "y'", "y2", "z", "z'", "z2", "xy", "xy2", "xy'", "x'y", "x'y'", "x'y2",
-                          "x2y", "x2y'", "xz", "xz'", "x'z", "x'z'", "x2z", "x2z'"]
+        self.rotations = ["", "x", "x'", "x2", "y", "y'", "y2", "z", "z'", "z2", "xy", "xy2", "xy'", "x'y", "x'y'",
+                          "x'y2", "x2y", "x2y'", "xz", "xz'", "x'z", "x'z'", "x2z", "x2z'"]
 
         # Colours
         if len(colours) != 6:
@@ -113,27 +113,27 @@ class Cube:
 
     # Recovers a move
     def move(self, x):
-        if x == 'L':
+        if x == "L":
             return self.left
         elif x == "L'":
             return self.left_
-        elif x == 'R':
+        elif x == "R":
             return self.right
         elif x == "R'":
             return self.right_
-        elif x == 'U':
+        elif x == "U":
             return self.up
         elif x == "U'":
             return self.up_
-        elif x == 'D':
+        elif x == "D":
             return self.down
         elif x == "D'":
             return self.down_
-        elif x == 'F':
+        elif x == "F":
             return self.front
         elif x == "F'":
             return self.front_
-        elif x == 'B':
+        elif x == "B":
             return self.back
         elif x == "B'":
             return self.back_
@@ -410,18 +410,7 @@ class Cube:
     # Graphing the Cube
     # Colours
     def colours(self, n):
-        if n in [0, 1, 2, 3]:
-            return self.colour[0]  # Up
-        if n in [4, 5, 6, 7]:
-            return self.colour[1]  # Left
-        if n in [8, 9, 10, 11]:
-            return self.colour[2]  # Front
-        if n in [12, 13, 14, 15]:
-            return self.colour[3]  # Right
-        if n in [16, 17, 18, 19]:
-            return self.colour[4]  # Back
-        if n in [20, 21, 22, 23]:
-            return self.colour[5]  # Down
+        return self.colour[n // 4]
 
     # Coords
     def coord(self, state):
@@ -429,14 +418,12 @@ class Cube:
         cor = state[0]
         edg = state[1]
         sen = state[2]
-        print("Centre List:", sen)
         for i in range(24):
             colc = Cube().colours(cor[i])
             cole = Cube().colours(edg[i])
             cols = Cube().colours(sen[i])
             # Up
             if i == 0:
-                print(f"i: {i}, sen: {sen[i]}")
                 info.append([-3 / 2, 0, cols])
                 info.append([-4 / 2, -1 / 2, colc])
                 info.append([-4 / 2, 0, cole])
@@ -451,7 +438,6 @@ class Cube:
                 info.append([-3 / 2, -1 / 2, cole])
             # Left
             if i == 4:
-                print(f"i: {i}, sen: {sen[i]}")
                 info.append([0, -3 / 2, cols])
                 info.append([-1 / 2, -4 / 2, colc])
                 info.append([-1 / 2, -3 / 2, cole])
@@ -466,7 +452,6 @@ class Cube:
                 info.append([0, -4 / 2, cole])
             # Front
             if i == 8:
-                print(f"i: {i}, sen: {sen[i]}")
                 info.append([0, 0, cols])
                 info.append([-1 / 2, -1 / 2, colc])
                 info.append([-1 / 2, 0, cole])
@@ -481,7 +466,6 @@ class Cube:
                 info.append([0, -1 / 2, cole])
             # Right
             if i == 12:
-                print(f"i: {i}, sen: {sen[i]}")
                 info.append([0, 3 / 2, cols])
                 info.append([-1 / 2, 2 / 2, colc])
                 info.append([-1 / 2, 3 / 2, cole])
@@ -496,7 +480,6 @@ class Cube:
                 info.append([0, 2 / 2, cole])
             # Back
             if i == 16:
-                print(f"i: {i}, sen: {sen[i]}")
                 info.append([6 / 2, 0, cols])
                 info.append([7 / 2, 1 / 2, colc])
                 info.append([7 / 2, 0, cole])
@@ -511,7 +494,6 @@ class Cube:
                 info.append([6 / 2, 1 / 2, cole])
             # Down
             if i == 20:
-                print(f"i: {i}, sen: {sen[i]}")
                 info.append([3 / 2, 0, cols])
                 info.append([2 / 2, -1 / 2, colc])
                 info.append([2 / 2, 0 / 2, cole])
@@ -545,4 +527,4 @@ class Cube:
 
 # Test Visualisation
 if __name__ == "__main__":
-    Cube().viscube("x2")
+    Cube().viscube(Cube().scramble())
