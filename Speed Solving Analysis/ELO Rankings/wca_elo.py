@@ -25,7 +25,7 @@ elo_dict = {}
 scratch = False
 personlist = results.personId.unique()
 if not scratch:
-    ncomps = 7099
+    ncomps = 7106
     elotable_scratch = pd.read_csv("elotable_" + str(ncomps) + ".csv")
     for wcaid in list(elotable_scratch.columns):
         elo_dict[wcaid] = list(elotable_scratch[wcaid])
@@ -158,7 +158,7 @@ else:
 total_comps = results.competitionId.nunique()
 list_comps = results.competitionId.unique()
 init_t = datetime.now()
-comp_date = "09_2021"
+comp_date = "10_2021"
 start = True
 if start:
     print("Started")
