@@ -1,18 +1,21 @@
 name,country,minx
-Jan Zych,Poland,1221
+Jan Zych,Poland,1263
 Alexander Vujcich,New Zealand,1212
+Magdalena Pabisz,Poland,1198
 Ziyu Wu (吴子钰),China,1190
-Magdalena Pabisz,Poland,1167
 James Macdiarmid,New Zealand,1161
+Martin Vædele Egdal,Denmark,1155
+Bartłomiej Krokos,Poland,1145
 Feliks Zemdegs,Australia,1142
-Bartłomiej Krokos,Poland,1127
+Oscar Roth Andersen,Denmark,1124
 Sean Moran,United Kingdom,1124
 Yun-Rui Chiang (江昀叡),Taiwan,1116
 Andrey Che,Russia,1111
 Jasper Murray,New Zealand,1101
+Kacper Rafalski,Poland,1096
+Jakob Gunnarsson,Sweden,1096
 Juan Pablo Huanqui,Peru,1093
 Jode Brewster,Australia,1090
-Łukasz Burliga,Poland,1090
 Yunliang Zhang (张赟量),China,1088
 James Holdsworth,Australia,1084
 Igor Tarasov (Ігор Тарасов),Ukraine,1083
@@ -20,26 +23,30 @@ Ping-Yueh Huang (黃品越),Taiwan,1083
 Shun-Hsin Chang (張舜欣),Taiwan,1080
 Amos Nordman,Finland,1080
 Katie Davies,United Kingdom,1075
+Muhammad Saleh Imtiaz,Pakistan,1073
 Riley Dexter,Australia,1066
 Lucas O'Connell,New Zealand,1065
 Bartłomiej Owczarek,Poland,1059
 Alan Ma,Australia,1058
+Adrian Walkowiak,Poland,1056
 Ethan Davis,USA,1054
 Dongzhe Li (李东哲),China,1054
-Yu Tang (唐语),China,1051
 Benjamin Bucksmith,New Zealand,1051
+Yu Tang (唐语),China,1051
 Nicolas Naing,USA,1050
+Daniel Vædele Egdal,Denmark,1049
 Jonathan Charlesworth,Australia,1046
-Dwyane Ramos,New Zealand,1043
 Kai-Wen Wang (王楷文),Taiwan,1043
+Dwyane Ramos,New Zealand,1043
 Brandon Harris,New Zealand,1043
 Ray Zhang (张灏睿),Australia,1038
 Pavel Mesyatsev,Russia,1037
-Karol Zakrzewski,Poland,1036
-Gergely Novotni,Hungary,1036
 Andy Gong,Australia,1036
+Gergely Novotni,Hungary,1036
+Karol Zakrzewski,Poland,1036
 Jiazhou Li (李佳洲),China,1035
 Brian Hambeck,Uruguay,1029
+Karina Grandjean Beck,Denmark,1027
 Phillip Lewicki,USA,1025
 Shih-Hao Wang (王士豪),Taiwan,1024
 José Leonardo Chaparro Prieto,Colombia,1023
@@ -49,6 +56,7 @@ Stephen Waller,United Kingdom,1021
 Chris Mills,United Kingdom,1018
 Shang Liu (刘尚),China,1017
 Yibo Wang (王奕博),China,1017
+Łukasz Burliga,Poland,1016
 Maksim Demchenko (Максим Демченко),Russia,1016
 Samir Homsi,Turkey,1014
 Darcy Way,Australia,1012
@@ -57,14 +65,12 @@ Alexei Sinyavin,USA,1009
 Shangtong Fu (傅上桐),China,1008
 Joshua Hounslow,Australia,1008
 Kevin Gerhardt,Germany,1008
-Adam Chodyniecki,Poland,1007
-Manuel Bühler,Switzerland,1006
 Edward Rust,Australia,1006
-Kacper Rafalski,Poland,1005
+Manuel Bühler,Switzerland,1006
+Daniel Wallin,Sweden,1004
 Oleksandr Seniuk (Олександр Сенюк),Ukraine,1003
 Cormac Farrell,United Kingdom,1002
 Zac Graham,Australia,1002
-Oscar Roth Andersen,Denmark,1001
 Yi-Ho Hsueh (薛以和),Taiwan,1000
 Nikita Malykhin (Никита Малыхин),Russia,1000
 Will Gurnett,Australia,999
@@ -73,929 +79,923 @@ Robert Yau,United Kingdom,993
 Taine Cassar,Australia,993
 Sofiya Bondarenko,Ukraine,992
 Darren Siew Ee Yaang (蕭奕暘),Malaysia,991
-Renxin Tang (汤任欣),China,990
 Víctor Gálvez,Uruguay,990
+Renxin Tang (汤任欣),China,990
 Max Siauw,USA,989
-Muhammad Saleh Imtiaz,Pakistan,988
 Michael Muething,USA,988
 Nikhil Soares,India,986
 AJ Kamal,USA,983
-Bill Wang,Canada,982
 Adrien Auvray Matyn,New Zealand,982
+Bill Wang,Canada,982
+Magnus Søndergaard Byrne,Denmark,981
 Alex Van Vugt,Australia,980
 David Epstein,Australia,980
 Sebastian Outh-Aut,Australia,980
+Tristan Chua Yong,Singapore,979
 Callum Hales-Jepp,United Kingdom,979
 Marquez Phan,Australia,979
 Michael Chai (柴天方),USA,979
-Tristan Chua Yong,Singapore,979
 Zhenyu Wang (王振宇),China,978
+Adam Chodyniecki,Poland,978
 Juliette Sébastien,France,978
 Charlie Eggins,Australia,977
 Daniel Zepeda,USA,976
 Jayden McNeill,Australia,976
 Wayne Pi,Taiwan,975
 Zejun Chen (陈泽鋆),China,974
-Mateusz Szulik,Poland,974
-Myles Jarman,Australia,973
-Mats Valk,Netherlands,973
 Hayden Ng,Australia,973
+Mats Valk,Netherlands,973
+Myles Jarman,Australia,973
 Matthew Cook,Australia,972
 Zuhayr Muhammad Haq,Australia,972
-Ilya Nazarov,Russia,971
 Haohan Zheng (郑皓涵),China,971
 Leandro Martín López,Argentina,971
+Ilya Nazarov,Russia,971
 Finn Trass,New Zealand,970
 Philopatir Bichoy Raafat Chenouda,Egypt,969
 Lev Golub (Лев Голуб),Ukraine,967
-Piotr Kogut,Poland,965
 Dana Yi,USA,965
-Max Beames,Australia,964
 Caleb Clark,Australia,964
+Max Beames,Australia,964
+Ethan Pan,New Zealand,963
 Andy Denney,USA,963
 Jakub Grzybowski,Poland,963
-Ethan Pan,New Zealand,963
 Ben Kirby,New Zealand,962
-Martin Vædele Egdal,Denmark,962
 Jacob Chambers,United Kingdom,961
 Kyeongmin Choi,Korea,960
 Tommas Austin-Milne,Australia,959
-Grigoriy Barashkin,Russia,957
 Danil Antoniu (Данил Антониу),Russia,957
+Jan Bentlage,Germany,957
+Grigoriy Barashkin,Russia,957
+Michał Krasowski,Poland,957
 Fabio Schwandt,United Kingdom,957
 Joanna Hołdakowska,Poland,956
 Luka Jankovic,Serbia,955
 Tymon Kolasiński,Poland,954
 Henri Gerber,Germany,953
 Andrey Mishin,Russia,952
-Ben Stokes,United Kingdom,952
 Chun-Yu Yang (楊竣宇),Taiwan,952
 Michael Andres Castillo Lemus,Colombia,952
+Ben Stokes,United Kingdom,952
+Hao Do,Australia,951
 Ashley Foster,New Zealand,951
 Manuel Malvárez,Uruguay,951
-Hao Do,Australia,951
+Ivan Bogdan,Belarus,950
 Bart Sekulski,Poland,950
 Ethan Pride,Australia,950
-Ivan Bogdan,Belarus,950
-Oscar Watson,Australia,949
-Zhiquan Li (李志权),China,949
 Tommy Cherry,USA,949
+Zhiquan Li (李志权),China,949
 Peri Le Dain,USA,949
+Oscar Watson,Australia,949
 Mattheo de Wit,Netherlands,949
-Vyacheslav Kochergin (Вячеслав Кочергин),Russia,948
 Umut Coşan,Turkey,948
-Caleb Hall,New Zealand,947
+Vyacheslav Kochergin (Вячеслав Кочергин),Russia,948
 Cian-Jyun Yang (楊謙君),Taiwan,947
-Timur Imanov,Russia,946
-Tommy Kiprillis,Australia,946
+Caleb Hall,New Zealand,947
 Ryan Wu,Canada,946
+Tommy Kiprillis,Australia,946
+Timur Imanov,Russia,946
 José David Rendón Martínez,Colombia,946
-Ernest Seroczyński,Poland,945
-Kyle Nguyen,USA,945
+Dominik Unijewski,Poland,945
 Aidan McKenzie,USA,945
+Kyle Nguyen,USA,945
 Ioannis Papadopoulos,Greece,945
+Ernest Seroczyński,Poland,945
 Qi Mi (米琦),China,943
-Junqi Feng (冯骏骐),China,943
-Roy Lee,USA,943
 Louis Cormier,Canada,943
+Roy Lee,USA,943
+Junqi Feng (冯骏骐),China,943
 Ianis Costin Chele,Romania,941
 William Holloway,Australia,941
-Michał Krasowski,Poland,940
-David Pearce,Australia,939
 Jack Mennie,Australia,939
+David Pearce,Australia,939
 Trần Đăng Quang,Vietnam,937
-Ozer Uysal,Australia,937
 Ray Bai,USA,937
+Ozer Uysal,Australia,937
 Jeff Miao,China,936
 Szymon Malinowski,Poland,935
+Callum Goodyear,United Kingdom,935
 Livia Kleiner,USA,934
 Patrick Ponce,USA,934
-Nate Mochrie,New Zealand,934
 Dawid Wójcik,Poland,934
 Dylan Miller,USA,934
-Choi Hyo-jin (최효진),Korea,933
-Igor Tarabrin (Игорь Тарабрин),Russia,933
-Jeann Valdez,Australia,933
+Nate Mochrie,New Zealand,934
 Benjamin Gottschalk,USA,933
+Choi Hyo-jin (최효진),Korea,933
+Jeann Valdez,Australia,933
 Mattia Furlan,Italy,933
+Igor Tarabrin (Игорь Тарабрин),Russia,933
+Szymon Brzana,Poland,932
 David McLean,Australia,932
 Maksymilian Majcher,Poland,932
-Szymon Brzana,Poland,932
 Sean Hartman,USA,931
 Rémi Perrin,France,931
 Cass Hopkins,Australia,930
-John Bacouël,France,929
 Rafał Sądek,Poland,929
+John Bacouël,France,929
 Daniel Gutierrez,USA,928
 Michael Eleftheriades,Cyprus,928
 Chenhao Sun (孙晨皓),China,927
 Francisco Hamlin,Argentina,926
-Erkin Can,Turkey,926
-Heinrich de Lange,South Africa,926
 Islam Kitiev,Russia,926
+Heinrich de Lange,South Africa,926
+Erkin Can,Turkey,926
 Sukant Koul,India,925
-Zhao-Zhe Zhong (鍾肇哲),Taiwan,925
-Leeah Gard-Spaulding,Australia,925
+Paweł Duraj,Poland,925
 Jeongyoon Yeo,Korea,925
-Rami Sbahi,USA,924
-Chuhao Guo (郭楚昊),China,924
+Leeah Gard-Spaulding,Australia,925
+Zhao-Zhe Zhong (鍾肇哲),Taiwan,925
 Dylan Baumbach,USA,924
-Stanley Chapel,USA,924
-Alexis Rodrigo Cazu Mendoza,Mexico,924
-Roan Paone,Canada,924
 Tom Stanton-Barnett,New Zealand,924
+Chuhao Guo (郭楚昊),China,924
+Roan Paone,Canada,924
+Alexis Rodrigo Cazu Mendoza,Mexico,924
+Stanley Chapel,USA,924
+Rami Sbahi,USA,924
 Ömer Faruk Bircan,Turkey,924
 Ethan Basanov,Canada,924
 Luke Garrett,USA,922
-Ziqi Ding,China,922
-János Bereczki,Romania,922
 Maksym Oliynyk (Максим Олійник),Ukraine,922
+János Bereczki,Romania,922
+Ziqi Ding,China,922
 Alvaro Haidar Ersha,Indonesia,921
 Anton Smolyanyy,USA,920
+Marco Rota,Italy,920
 Bhargav Narasimhan,India,920
 Ramses Amaya,Colombia,920
-Marco Rota,Italy,920
-Rafał Waryszak,Poland,919
-Yuhang Sun (孙煜航),China,919
-Rodrigo Cabezas,Chile,919
-Clément Cherblanc,France,919
-Alexey Zharikov,Russia,919
-Matej Bolta,Slovenia,919
 John Gaynor,USA,919
+Rafał Waryszak,Poland,919
+Matej Bolta,Slovenia,919
+Alexey Zharikov,Russia,919
+Clément Cherblanc,France,919
+Rodrigo Cabezas,Chile,919
+Yuhang Sun (孙煜航),China,919
 Do Hyun Kwon (권도현),Korea,917
-Markus Hirvonen,Australia,917
-Nguyễn Hoàng Thiên Vũ,Vietnam,917
 Ryan Yasinko,Canada,917
-Ryan Glennon,Australia,916
+Nguyễn Hoàng Thiên Vũ,Vietnam,917
+Markus Hirvonen,Australia,917
 Cole Campbell,New Zealand,916
-Karina Grandjean Beck,Denmark,916
+Ryan Glennon,Australia,916
 Luke Tycksen,USA,915
-Taylor Cookmeyer,USA,915
 Anvar Abdullaev,Uzbekistan,915
+Taylor Cookmeyer,USA,915
 Blake Thompson,USA,914
+Chan Hui Tung (陳許瞳),Hong Kong,914
 Bo-Yan Wu (吳柏彥),Taiwan,914
 Marcos Gabriel Gomes,Australia,914
-Chan Hui Tung (陳許瞳),Hong Kong,914
-Eder Olivencia Gonzalez,Spain,913
 Hill Pong Yong Feng,Malaysia,913
 Matic Omulec,Slovenia,913
+Eder Olivencia Gonzalez,Spain,913
 Jefferson Andres Durango Argaez,Colombia,912
 Christian Foyle,Australia,912
-Pavel Eroshkin (Павел Ерошкин),Russia,911
-Chenxiao He (何辰骁),China,911
-Ahmet Çınar Ablak,Turkey,911
-Ahmet Haris Alimi,Turkey,911
 Joshua Tekwie,Papua New Guinea,911
-Aleksandr Beznogov,Russia,911
+Chenxiao He (何辰骁),China,911
+Pavel Eroshkin (Павел Ерошкин),Russia,911
+Ahmet Haris Alimi,Turkey,911
+Magnus Patrick Kanstrup,Denmark,911
+Ahmet Çınar Ablak,Turkey,911
 Alex Asbery,New Zealand,911
+Aleksandr Beznogov,Russia,911
 Evan Liu,USA,910
-Dmitry Kryuzban,Russia,909
 Jonathan Esparaz,Canada,909
-Daphne Soegijono,Indonesia,909
-Daniel Vædele Egdal,Denmark,909
-Carter Kucala,USA,909
+Dmitry Kryuzban,Russia,909
 Damián Campos,Argentina,909
-Nikolay Vasilyev,Russia,908
-Ujjawal Pabreja,India,908
+Daphne Soegijono,Indonesia,909
+Carter Kucala,USA,909
 David Vujasić,Croatia,908
-Ahmed Ghandoor,Egypt,907
+Ujjawal Pabreja,India,908
+Nikolay Vasilyev,Russia,908
 Lennon Hughes,Australia,907
+Ahmed Ghandoor,Egypt,907
 Antonie Paterakis,Greece,907
-Laura Holzhauer,Germany,906
-Daniel Grabski,Austria,906
 Maxim Ilin,Russia,906
-Michał Halczuk,Poland,906
+Daniel Grabski,Austria,906
+Laura Holzhauer,Germany,906
 Jack Stewart,USA,906
+Ming Dao Ting,Australia,905
 Jack Pfeifer,USA,905
 Leo Hock-Morris,Australia,905
-Ming Dao Ting,Australia,905
 Erik Akkersdijk,Netherlands,905
-Mikhail Kopylov (Михаил Копылов),Russia,904
 DongSu Park (박동수),Korea,904
-Mohammed Aiman Koli,India,903
+Mikhail Kopylov (Михаил Копылов),Russia,904
 Cory Yurkovic,USA,903
+Mohammed Aiman Koli,India,903
 Kari Hyttinen,Finland,903
 Vladyslav Hryniuk (Владислав Гринюк),Ukraine,902
 Asher Kim-Magierek,USA,902
-Fred Lang,United Kingdom,901
 Phoenix Patterson,Australia,901
-Ilona Ansel,France,900
+Fred Lang,United Kingdom,901
 Maheran Chowdhury,Australia,900
+Ilona Ansel,France,900
 Matthew Lee,Canada,899
 Hao Zhang (张昊),China,899
-Przemysław Rogalski,Poland,899
 Richard Yiheng Tao,New Zealand,898
-Paris Dorn,Canada,897
-Thomas Smith,Australia,897
 Daniel Karnaukh,USA,897
+Thomas Smith,Australia,897
+Paris Dorn,Canada,897
 Joshua Santiago Monterrosa Herrera,Mexico,897
-Serdar Özdemir,Turkey,896
-Jingpeng Wu (吴劲芃),China,896
-Victor Wijsman,France,896
-Tyler Williams,Australia,896
 Andrew Sherman,Australia,896
-Marcin Stachura,Poland,895
+Victor Wijsman,France,896
+Jingpeng Wu (吴劲芃),China,896
+Serdar Özdemir,Turkey,896
+Tyler Williams,Australia,896
+Elyas Eyou,New Zealand,895
+Evan Liu,Canada,895
+Joel Lundström,Sweden,895
+Aquila Janoschka,Australia,895
+Kyle Polage,USA,895
 Tyler Howlett,USA,895
 You-Jun Hsieh (謝侑峻),Taiwan,895
 James Molloy,United Kingdom,895
-Aquila Janoschka,Australia,895
-Kyle Polage,USA,895
-Elyas Eyou,New Zealand,895
-Joel Lundström,Sweden,895
-Evan Liu,Canada,895
-William Gan Wei Ren (颜伟仁),Malaysia,894
-Semen Artyukhov,Russia,894
-Zhiyuan Ma (马之元),China,894
 Jose Ortiz Jr.,USA,894
+Zhiyuan Ma (马之元),China,894
+Semen Artyukhov,Russia,894
+William Gan Wei Ren (颜伟仁),Malaysia,894
 Tiffany Chien,USA,893
 Riley Woo,USA,892
 Ivaylo Ivaylov Vichev,Bulgaria,892
-Christian Manuel de Lange,New Zealand,892
-Sujai Shakthivel,India,892
-Jamie Otsu,Australia,892
 Patrick Quach,Australia,892
 Kanting Shi (史勘霆),China,892
-Joshua Feran,USA,891
+Sujai Shakthivel,India,892
+Christian Manuel de Lange,New Zealand,892
+Jamie Otsu,Australia,892
 Kristiāns Pietkuns,Latvia,891
-Cezary Mach,Poland,891
+Joshua Feran,USA,891
 Pavlo Bondar (Павло Бондар),Ukraine,890
-Danny SungIn Park,Korea,890
 Yexin Zhang (张业鑫),China,890
-Paul Mahvi,USA,890
 Calix Tang,USA,890
-Lucas Kuczaj,Canada,889
-Saavar Bajaj,Australia,889
+Paul Mahvi,USA,890
+Danny SungIn Park,Korea,890
+Piotr Kogut,Poland,890
 Richard Jay S. Apagar,Philippines,889
+Saavar Bajaj,Australia,889
 Zak Kenny,Australia,889
 Luke Burong,Australia,889
-Julian Bürgi,Switzerland,888
-Aedan Bryant,USA,888
+Lucas Kuczaj,Canada,889
 Konstantinos Parissis,Greece,888
-Mitchell Cretan,Australia,887
-Jakob Gunnarsson,Sweden,887
-Dylan Cossin,USA,887
+Aedan Bryant,USA,888
+Julian Bürgi,Switzerland,888
 Jared Stinson,USA,887
+Dylan Cossin,USA,887
+Mitchell Cretan,Australia,887
 Danil Kotenkov (Данил Котенков),Russia,886
+Chun-Xi Roan (阮淳熙),Taiwan,886
+Sora Sato,Australia,886
 Matthew Look,Canada,886
 Will Callan,USA,886
-Sora Sato,Australia,886
-Chun-Xi Roan (阮淳熙),Taiwan,886
-Sheng Cao (曹晟),China,885
 Liam Wadek,New Zealand,885
+Sheng Cao (曹晟),China,885
+Arkadiusz Żynel,Poland,885
 Marco Yang,Canada,885
+Doyul Kim (김도율),Korea,884
 Leonard Wetzel,Germany,884
 Hargun Singh Tikku,India,884
-Doyul Kim (김도율),Korea,884
 Tyler Robinson,USA,883
 Dmitriy Skakun,Russia,883
+Adam Marcellus Kelly,USA,883
+Amir Husain,Kazakhstan,882
 Yahia Ahmed Abdallah Elhawy,Egypt,882
 Isaac Wells,Australia,882
-Amir Husain,Kazakhstan,882
-Stephen Griggs,USA,882
-Ahmet Barış Atlı,Turkey,882
 Ho Hsieh (謝合),Taiwan,882
-Adrian Oon,Australia,881
-Shao-Heng Hung (洪紹恆),Taiwan,881
+Ahmet Barış Atlı,Turkey,882
+Stephen Griggs,USA,882
 Chong Jen Foong (莊振峰),Malaysia,881
+Shao-Heng Hung (洪紹恆),Taiwan,881
+Adrian Oon,Australia,881
 Jiazheng Zhao (赵家正),China,881
-Jan Bentlage,Germany,881
-Isaac Vergara Castillo,Mexico,880
 Shanglin Ye,Canada,880
-Henry Lichner,USA,880
-Gjorgji Cheshmedjievski,North Macedonia,880
 Joel Cetra,Germany,880
-Harry Savage,United Kingdom,880
-Daniel Sheppard,United Kingdom,880
+Gjorgji Cheshmedjievski,North Macedonia,880
 Jack McDougall,New Zealand,880
+Harry Savage,United Kingdom,880
 Amelie Dieterich,Germany,880
+Daniel Sheppard,United Kingdom,880
+Isaac Vergara Castillo,Mexico,880
+Henry Lichner,USA,880
+Wojciech Piórczyński,Poland,879
+Krish Shah-Nathwani,USA,879
 Juan David Carmona Vásquez,Colombia,879
 Phạm Đức Phước,Vietnam,879
-Krish Shah-Nathwani,USA,879
 Theo Iván Goluboff,Argentina,879
-Wojciech Piórczyński,Poland,879
-Mantas Urbanavičius,Lithuania,878
 Eli Parker,USA,878
+Mantas Urbanavičius,Lithuania,878
 Timotej Andrejko,Slovakia,878
-Tomáš Szyszkowicz,Czech Republic,877
 Jonathan O'Neill,Australia,877
-Lucas Chung,Australia,877
 Mitchell Lane,USA,877
+Tomáš Szyszkowicz,Czech Republic,877
 Ryan Pilat,USA,877
-Iurii Chesnokov (Юрий Чесноков),Russia,876
+Lucas Chung,Australia,877
 Serhii Fedorniak (Сергій Федорняк),Ukraine,876
 Isaac Lai Yin Chung,Canada,876
 Sarina Wang,New Zealand,876
-Joel David Hibbert,Australia,876
-Hugo Kinichi Briner,Australia,876
-Isaac Langer,USA,876
+Iurii Chesnokov (Юрий Чесноков),Russia,876
 Deniz Atak,USA,876
+Adrian Dębski,Poland,876
+Isaac Langer,USA,876
+Joel David Hibbert,Australia,876
 Daniel Goodman,USA,876
-Magnus Patrick Kanstrup,Denmark,875
+Hugo Kinichi Briner,Australia,876
 James Quinn,USA,875
 Nikita Starodubov,Belarus,874
 Rūdolfs Vīnkalns,Latvia,874
 Aneurin Hunt,New Zealand,873
 Kirby Jay Caragan,Philippines,873
 Travis Burkett,USA,872
-Mohamed Mostafa,Egypt,872
 Maxim Onushkin,Russia,872
-Govend Avgerinos Djangoi,Sweden,871
-Cheng-Ru Yang,New Zealand,871
+Mohamed Mostafa,Egypt,872
+Marcin Stachura,Poland,872
 Diego Trujeque,Mexico,871
+Cheng-Ru Yang,New Zealand,871
+Govend Avgerinos Djangoi,Sweden,871
 Ilia Murmulyak,Russia,871
-Natthaphat Mahtani (ณัฐภัทร จี มาทานี),Thailand,870
 Jimmy Tran,USA,870
-Jhon Edinson Arias Parra,Colombia,870
 Linus Laurén,Finland,870
-Seung Hyuk Nahm (남승혁),Korea,869
+Natthaphat Mahtani (ณัฐภัทร จี มาทานี),Thailand,870
+Jhon Edinson Arias Parra,Colombia,870
+Angeline Wijaya (黃千儀),Indonesia,869
 Noah Swor,USA,869
 Masayuki Hirai (平井雅之),Japan,869
-Angeline Wijaya (黃千儀),Indonesia,869
+Seung Hyuk Nahm (남승혁),Korea,869
 Krishang Agarwal,India,869
+Joe Davis,Australia,868
+Beau Ramsey,USA,868
 Carol Chai,New Zealand,868
 Elijah Brown,USA,868
-Beau Ramsey,USA,868
-Joe Davis,Australia,868
-Muhammed Pusat Özçelik,Turkey,867
-Mia Sponseller,USA,867
-Kajetan Opach,Poland,867
 Ivan Polkanov (Иван Полканов),Russia,867
+Kajetan Opach,Poland,867
+Muhammed Pusat Özçelik,Turkey,867
+Dallas McNeil,Australia,867
+Mia Sponseller,USA,867
 Owen Widdis,USA,867
 Tom Noble,Australia,867
-Dallas McNeil,Australia,867
-Marc Tol,Netherlands,866
 Alikhan Umarov (Алихан Умаров),Kazakhstan,866
-Marie Vincent,France,866
+Marc Tol,Netherlands,866
 Li Chak Kwan (李澤堃),Hong Kong,866
+Marie Vincent,France,866
 Malek Hamoui,Ghana,865
+Elizaveta Rymshina (Елизавета Ры́мшина),Russia,865
 Aiden Dajun Kim,Canada,865
+Mateusz Szulik,Poland,865
 Kirill Netesov,Russia,865
 Georgiy Titov (Георгій Тітов),Ukraine,865
-Elizaveta Rymshina (Елизавета Ры́мшина),Russia,865
-Ciarán Beahan,Ireland,864
-Timothy Castle,USA,864
-Daniel Tidsey,United Kingdom,864
 Milhouse Gibbons-Paul,United Kingdom,864
+Timothy Castle,USA,864
 Nicholas Paul,Australia,864
+Daniel Tidsey,United Kingdom,864
 Sean Weatherley,Australia,864
-Gabriel Rejdych,Poland,863
-Can Gücüyener,Turkey,863
 Taosif Amin Sahil,Bangladesh,863
-Steve Greer,USA,862
+Can Gücüyener,Turkey,863
 Adriel Wiebe,USA,862
-Alevio Hamizan Ersha,Indonesia,861
+Steve Greer,USA,862
 Mohannad Mahmoud Fathy,Egypt,861
 Ricardo Zapata Cruz,Venezuela,861
+Alevio Hamizan Ersha,Indonesia,861
 Ryan Driscoll,Australia,860
 Robert Alden,United Kingdom,860
-Brian Johnson,USA,860
 Sameer Aggarwal,USA,860
+Brian Johnson,USA,860
 Bill Hammill,United Kingdom,859
-Aolin Tang (唐奥林),China,859
 James Gonsalves,India,859
-Gabriel Santiago Velez Gonzalez,Colombia,858
+Aolin Tang (唐奥林),China,859
 Sam van Vliet,Australia,858
-Timo Günthardt,Switzerland,858
-Aset Agabekov (Асет Агабеков),Kazakhstan,858
-Tomohiro Kobayashi (小林知広),Japan,858
-Conan Mo,Australia,858
 Camerone Chin,New Zealand,858
+Gabriel Santiago Velez Gonzalez,Colombia,858
+Conan Mo,Australia,858
+Timo Günthardt,Switzerland,858
+Tomohiro Kobayashi (小林知広),Japan,858
+Aset Agabekov (Асет Агабеков),Kazakhstan,858
 Varun Mohanraj,USA,858
+Jakub Hamkało,Poland,857
+Joonas Silvennoinen,Finland,857
 Naren Loganathan,USA,857
 Willi Mickein,Germany,857
-Joonas Silvennoinen,Finland,857
-Piotr Olszewski,Poland,857
-Jakub Hamkało,Poland,857
-Magnus Søndergaard Byrne,Denmark,856
-Luke Heath-Edwards,New Zealand,856
-Gerard McGinley,Australia,856
-Braden Richards,USA,856
 Alexander Batz,Guatemala,856
+Luke Heath-Edwards,New Zealand,856
 Maksim Cheranyov (Максим Черанёв),Kazakhstan,856
-Max Xiong (熊锐明),China,856
 Raffael Simonet,Switzerland,856
-Rafae Rajani,Australia,855
+Gerard McGinley,Australia,856
+Max Xiong (熊锐明),China,856
+Braden Richards,USA,856
 Vladyslav Zhydkov (Владислав Жидков),Ukraine,855
-Vladimir Fedorov,Russia,855
+Mathias Søndergaard Byrne,Denmark,855
 Chong Hau Han,Malaysia,855
+Vladimir Fedorov,Russia,855
+Rafae Rajani,Australia,855
 Nick Nijssen,Netherlands,854
-Magnus Bester,South Africa,854
 Zachary Ochs,USA,854
+Magnus Bester,South Africa,854
+Henry Won Kai Sheng,Malaysia,853
+Dimitrije Vlajić,Serbia,853
 Tom Chiesura,France,853
 Saveliy Surikov,Russia,853
-Dimitrije Vlajić,Serbia,853
-Henry Won Kai Sheng,Malaysia,853
+Charlie Harrison,United Kingdom,852
 Huang-Bang Fang (房黃邦),Taiwan,852
 Samuel Janssen,Belgium,852
-Charlie Harrison,United Kingdom,852
+Zhitian Chen (陈知湉),China,851
 Helmer Ewert,Sweden,851
 Nicolas Harper,USA,851
-Zhitian Chen (陈知湉),China,851
-Michael Alexander,Australia,850
-Novaleigh Bui Nghi,Vietnam,850
-Kim Min (김민),Korea,850
-Mostafa Belal Elfaggal,Egypt,850
-Yunhui Zhao (赵云晖),China,850
 Michał Mlostek,Poland,850
+Kim Min (김민),Korea,850
+Yunhui Zhao (赵云晖),China,850
 Walker Welch,USA,850
-Daniel Rush,South Africa,849
-Maverick Pearson,South Africa,849
-James Arellano,USA,849
-Manuel Gutman,Argentina,849
+Novaleigh Bui Nghi,Vietnam,850
+Mostafa Belal Elfaggal,Egypt,850
+Michael Alexander,Australia,850
 Dylan Beetge,Australia,849
-Shanawer Yaqoob,Australia,848
-Yiqun Liu (刘轶群),China,848
-Sarah Cook,USA,848
-Ishaan Lal,USA,848
+Maverick Pearson,South Africa,849
+Manuel Gutman,Argentina,849
+Daniel Rush,South Africa,849
+James Arellano,USA,849
 Tobias Peter,Switzerland,848
+Sarah Cook,USA,848
 Sam Myung,USA,848
+Shanawer Yaqoob,Australia,848
+Ishaan Lal,USA,848
+Yiqun Liu (刘轶群),China,848
 Theo Hall,United Kingdom,847
 Darya Belonogova,Russia,847
-Lorenzo Mauro,Italy,846
-Davron Takhirov,Uzbekistan,846
-Patrycja Michalska,Poland,846
 Joaquin Abarca,Canada,846
 Preston Duke,USA,846
+Lorenzo Mauro,Italy,846
 Alexander Bashutkin,Russia,846
+Davron Takhirov,Uzbekistan,846
 George Scholey,United Kingdom,845
-Chris Deng,USA,845
 Jonathan Boer,Netherlands,845
 Gustavo Adolfo Farina Cabral,Dominican Republic,845
-Pranav Prabhu,India,844
+Chris Deng,USA,845
 Brandon Poulton,United Kingdom,844
 Rafik Sarwat Naeem Ragheb,Egypt,844
+Pranav Prabhu,India,844
 Thompson Clarke,Canada,844
 Leon Tran,Australia,843
 Joe Yang,USA,843
 Leo Millar,Australia,843
-Xavier W. NcCorchuk,USA,842
 Ewsey Obzherin,Russia,842
-Yaroslav Morhun (Ярослав Моргун),Ukraine,842
+Xavier W. NcCorchuk,USA,842
 Akshaansh Chilakapati,India,842
-Firstian Fushada (符逢城),Indonesia,841
-Jakub Drobný,Slovakia,841
-Dennis Hu,New Zealand,841
+Oleksandr Pryimakov (Олександр Приймаков),Ukraine,842
+Yaroslav Morhun (Ярослав Моргун),Ukraine,842
+Lauri Korhonen,Finland,841
 Ruihang Xu (许瑞航),China,841
 Bokang Peng (彭博康),China,841
-Lauri Korhonen,Finland,841
-Slavomil Voloskov (Славомил Волосков),Russia,840
-Wojciech Knott,Poland,840
-Celine Tran,Norway,840
+Dennis Hu,New Zealand,841
+Jakub Drobný,Slovakia,841
+Firstian Fushada (符逢城),Indonesia,841
 Ansh Iyer,India,840
-Duncan Butcher,Australia,840
+Celine Tran,Norway,840
+Lev Maslov,Russia,840
+Parker Trager,USA,840
 Renato Stopic,Bosnia and Herzegovina,840
 Mikołaj Tyra,Poland,840
-Parker Trager,USA,840
+Slavomil Voloskov (Славомил Волосков),Russia,840
 Jan Erik Soosaar,Estonia,840
-Lev Maslov,Russia,840
-Seath Margatinez,Philippines,839
+Duncan Butcher,Australia,840
+Florian Truckenthanner,Austria,839
 Luke Griesser,USA,839
 Simon Kellum,USA,839
 Felipe Medel,Chile,839
-Florian Truckenthanner,Austria,839
-Thibault Piollat,France,838
-Oleksii Lukin (Олексій Лукін),Ukraine,838
-Amina Chebochakova (Амина Чебочакова),Russia,838
+Seath Margatinez,Philippines,839
 Ahmad Ayman,Egypt,838
 Martin Fronescu,Romania,838
-Luis Eduardo Martínez Castellanos,Mexico,838
+Thibault Piollat,France,838
 Eben Quenneville,USA,838
-Daniel Mullen,USA,837
+Luis Eduardo Martínez Castellanos,Mexico,838
+Amina Chebochakova (Амина Чебочакова),Russia,838
+Oleksii Lukin (Олексій Лукін),Ukraine,838
 Matvei Zakataev (Матвей Закатаев),Russia,837
+Daniel Mullen,USA,837
 Jason White,USA,837
-Karol Piskorek,Poland,837
+Leow Yi Jun (廖艺畯),Malaysia,836
 Asia Konvittayayotin (เอเชีย กรวิทยโยธิน),Thailand,836
 Xinyan Li (李心妍),China,836
-Leow Yi Jun (廖艺畯),Malaysia,836
-Dominik Unijewski,Poland,835
-Jackson Moorhead,New Zealand,835
-John Colacarro,USA,835
+Mateusz Gil,Poland,835
 Sheldon Rego,India,835
 Francisco Moraes Mandalozzo,Brazil,835
 Abhimanyu Singhal,India,835
 Olivier Vos,Netherlands,835
-Mateusz Gil,Poland,835
-Rory Bailey,New Zealand,834
-Laura Ting,Australia,834
+John Colacarro,USA,835
+Cezary Mach,Poland,835
+Jackson Moorhead,New Zealand,835
+Artur Chechekhin (Артур Чечёхин),Russia,834
 Luke Van Laningham,USA,834
 Elian Beguec,France,834
-Artur Chechekhin (Артур Чечёхин),Russia,834
-Vicente Astroza,Chile,833
+Rory Bailey,New Zealand,834
+Laura Ting,Australia,834
 Levi Gibson,USA,833
 David Arzamastsev,Russia,833
+Vicente Astroza,Chile,833
 Edward Zeng,Canada,832
-Omar Ellabban,Canada,832
 Keaton Ellis,USA,832
+Omar Ellabban,Canada,832
 Ayaz Minnegaleev,Russia,832
-Oliver Fritz,Germany,831
 Javad Jafarli,Azerbaijan,831
-Maksymilian Kulas,Poland,831
-William Barlow,New Zealand,831
+Aiden Chan,Canada,831
 Alexey Kislovskiy,Russia,831
 Dash Cannon,Australia,831
-Aiden Chan,Canada,831
-Alberto Palacio,Dominican Republic,830
-Nguyễn Trần Hải Anh,Vietnam,830
-Arnav Adani,India,830
-Liubov Abashkina (Любовь Абашкина),Russia,830
+Maksymilian Kulas,Poland,831
+Oliver Fritz,Germany,831
+William Barlow,New Zealand,831
 Cary Huang,USA,830
-Jan Staubach,Germany,830
-Linus Kunath,Germany,830
+Arnav Adani,India,830
 Calvin Nielson,USA,830
-Maksym B. Tsymbaliuk (Максим Б. Цимбалюк),Ukraine,829
-Valeriia Volova (Валерія Волова),Ukraine,829
-Eduard Esteban García Domínguez,Colombia,829
-Choi Go-Ho (최고호),Korea,829
+Linus Kunath,Germany,830
+Jan Staubach,Germany,830
+Nguyễn Trần Hải Anh,Vietnam,830
+Alberto Palacio,Dominican Republic,830
+Liubov Abashkina (Любовь Абашкина),Russia,830
 Heewon Seo,USA,829
-Benjamin Walker,Australia,828
+Maksym B. Tsymbaliuk (Максим Б. Цимбалюк),Ukraine,829
+Choi Go-Ho (최고호),Korea,829
+Eduard Esteban García Domínguez,Colombia,829
+Valeriia Volova (Валерія Волова),Ukraine,829
+Rasmus Stub Detlefsen,Denmark,828
 Rui-Jun Liu (劉睿鈞),Taiwan,828
-Dominic Redisi,USA,827
-Zedan Mohamed Ahmed,Egypt,827
-Darby Lee,Australia,827
-Adrian Walkowiak,Poland,827
+Benjamin Walker,Australia,828
 Byron Gronning,Australia,827
-Thomas Imada,Canada,826
-Nikita Piialtcev,Russia,826
-Mitchell Hum,USA,826
-Daiven Strom,USA,826
-Márton Vancsa,Hungary,826
-Nipat Charoenpholphant (นิพัฒน์ เจริญพลพันธุ์),Thailand,826
+Zedan Mohamed Ahmed,Egypt,827
+Dominic Redisi,USA,827
+Darby Lee,Australia,827
 Aissultan Aizharkynuly (Айсұлтан Айжарқынұлы),Kazakhstan,826
 Oliver Leigh,Australia,826
+Nikita Piialtcev,Russia,826
 Suzanna Sharpless,USA,826
+Mitchell Hum,USA,826
+Daiven Strom,USA,826
+Thomas Imada,Canada,826
+Nipat Charoenpholphant (นิพัฒน์ เจริญพลพันธุ์),Thailand,826
 Andrey Kolevatykh (Андрей Колеватых),Russia,826
+Márton Vancsa,Hungary,826
 Jie Zhang (张杰),China,825
-Gabriel Ben,Australia,825
 Arina Baskakova (Арина Баскакова),Russia,825
 Trần Đình Anh,Vietnam,825
-Liam Pipia,Australia,824
-Zayn Khanani,USA,824
+Gabriel Ben,Australia,825
 Dmitrii Vershinin (Дмитрий Вершинин),Russia,824
+Zayn Khanani,USA,824
 Devina Gokaldas,India,824
-Ethan Rusnak,Canada,824
 Jiate Xie (谢佳特),China,824
-Jason Harley,United Kingdom,823
-Arseniy Dyachenko,Russia,823
-Yu-Kai Chen (陳宇楷),Taiwan,823
-Danila Ryabinin,Russia,823
-Renat Nurgaleev,Russia,823
+Ethan Rusnak,Canada,824
+Liam Pipia,Australia,824
 Bence Barát,Hungary,823
-Nathaniel Gee,USA,822
-Kymberlyn Calderon,USA,822
+Yu-Kai Chen (陳宇楷),Taiwan,823
+Hubert Firek,Poland,823
+Danila Ryabinin,Russia,823
+Jason Harley,United Kingdom,823
+Renat Nurgaleev,Russia,823
+Arseniy Dyachenko,Russia,823
 Diego Alfonso,France,822
-Jack Maddigan,New Zealand,822
-Caio Hideaki Sato,Brazil,822
-Kyyarkhan Nikolaev,Russia,822
+Nathaniel Gee,USA,822
 Akash Rupela,India,822
 Dmitry Matthew Yaquinto,Russia,822
-Azhar Virani,USA,821
-Lauren Phung,USA,821
-Julian Sico,New Zealand,821
-Zeke Mackay,USA,821
+Caio Hideaki Sato,Brazil,822
+Kyyarkhan Nikolaev,Russia,822
+Kymberlyn Calderon,USA,822
+Jack Maddigan,New Zealand,822
 Anton Bozhnev,Russia,821
+Julian Sico,New Zealand,821
+Lauren Phung,USA,821
+Azhar Virani,USA,821
+Zeke Mackay,USA,821
 Junze Zhao (赵俊泽),China,821
-Bautista Bonazzola,Argentina,820
+Zach Amiridis,Australia,820
 Scott Froggatt,Ireland,820
-Simon Westlund,Sweden,820
 Mathai Manavalan,Australia,820
 Cheng-Han Chu (朱政翰),Taiwan,820
-Zach Amiridis,Australia,820
+Simon Westlund,Sweden,820
 Dylan Ulysses James Thomas,Australia,820
-Alexander Mutch,Canada,819
-Santiago Peña Urrego,Colombia,819
-Bakhytzhan Sharipbay (Бахытжан Шарипбай),Kazakhstan,819
-Henry Helmuth,USA,819
+Bautista Bonazzola,Argentina,820
 Eduardo Gabriel Silva Bezerra,Brazil,819
-Ihor Kastranets (Ігор Кастранець),Ukraine,819
+Bakhytzhan Sharipbay (Бахытжан Шарипбай),Kazakhstan,819
+Santiago Peña Urrego,Colombia,819
 Conlan Trace,USA,819
-Zhongyu Zheng (郑仲宇),China,818
+Henry Helmuth,USA,819
+Ihor Kastranets (Ігор Кастранець),Ukraine,819
+Alexander Mutch,Canada,819
+Lucas Buckley,Australia,818
 Matej Marčok,Serbia,818
 Luca Stalpers,Netherlands,818
-Katie Hull,USA,818
-Nikita Pak,Russia,818
-Lucas Buckley,Australia,818
-Jason Ostdiek,USA,818
 Arhaan Sareen,Canada,818
+Zhongyu Zheng (郑仲宇),China,818
 Antonio López,Spain,818
-Võ Nguyên Phát,Vietnam,817
+Nikita Pak,Russia,818
+Katie Hull,USA,818
+Jason Ostdiek,USA,818
 Owen Chester,USA,817
+Võ Nguyên Phát,Vietnam,817
 Mantra Shukla,New Zealand,817
 Ihor Sukhovatenko (Ігор Суховатенко),Ukraine,816
-Oliver Hutchinson,Australia,816
-Jacob Joshi,Australia,816
 Nicolas Gertner,France,816
 Alicja Tyrakowska,Poland,816
+Jacob Joshi,Australia,816
 Leonid Shcherbakov (Леонид Щербаков),Russia,816
-Harrison Hollands,Australia,815
-Callum Goodyear,United Kingdom,815
-Zak Howard,Australia,815
-Juan de Dios Noriega Sánchez,Mexico,815
+Oliver Hutchinson,Australia,816
 Xinyun Chen (陈新运),China,815
 Heng Liao (廖衡),Taiwan,815
-William Jensen,Sweden,814
-Andres Arias Medina,Colombia,814
+Harrison Hollands,Australia,815
+Juan de Dios Noriega Sánchez,Mexico,815
+Adam Kędziorski,Poland,815
+Zak Howard,Australia,815
 Constantin Lüske,Germany,814
-Anjal Timsina,Nepal,814
 Salma Yasser Abdelmageed,Egypt,814
-Aleksey Tkachenko,Russia,813
-Leopoldo Andrés Ibarra Fuentes,Chile,813
+Andres Arias Medina,Colombia,814
+William Jensen,Sweden,814
+Anjal Timsina,Nepal,814
 Artem Kulikov (Артём Куликов),Russia,813
+Michał Halczuk,Poland,813
 Akmal Abduazizov,Uzbekistan,813
-Maxim Kozlov (Максим Козлов),Russia,812
-Vishwa Sankar,USA,812
+Leopoldo Andrés Ibarra Fuentes,Chile,813
+Aleksey Tkachenko,Russia,813
+Alexander Gusev,Russia,812
 Revan Rajahmoney,Australia,812
+Kate Grahame,USA,812
+Mitchell William Su,New Zealand,812
+Peter Weyers,USA,812
 John Brechon,USA,812
+Maxim Kozlov (Максим Козлов),Russia,812
+Daniel Fraser,New Zealand,812
 Felix Kiera,Australia,812
 Chris Yoder,USA,812
 CJ York,USA,812
-Mitchell William Su,New Zealand,812
-Daniel Fraser,New Zealand,812
-Alexander Gusev,Russia,812
-Peter Weyers,USA,812
-Kate Grahame,USA,812
 Riley Johnstone,Canada,812
+Vishwa Sankar,USA,812
+Charlie Stark,United Kingdom,811
 Nicole Wang,Canada,811
 Benjamin Pugh,USA,811
 Karina Voevodina,Russia,811
-Charlie Stark,United Kingdom,811
-Maoxuan Chen (陈茂轩),China,810
-Jules Desjardin,France,810
-Zhiyu Qian (钱治宇),China,810
+Dmitriy Kukuev,Russia,810
 Zhukun Zhong (钟柱坤),China,810
 Dmitry Sidorenko,Russia,810
+Maoxuan Chen (陈茂轩),China,810
+Diego Fraile,France,810
+Zhiyu Qian (钱治宇),China,810
+Jules Desjardin,France,810
 Ivan Torgashov (Иван Торгашов),Russia,810
 Jacobo Alvarez,Colombia,810
-Diego Fraile,France,810
-Dmitriy Kukuev,Russia,810
-Stepan Makarenko,Russia,809
-Mohamed Yehya,Lebanon,809
-Mark Ostrom,United Kingdom,809
 Tiana Diachenko,Australia,809
-Dmitry Melnikov (Дмитрий Мельников),Russia,809
+Mohamed Yehya,Lebanon,809
 Mary Hennessy,Ireland,809
+Mark Ostrom,United Kingdom,809
+Stepan Makarenko,Russia,809
 Birkan Mayadağ,Turkey,809
-Viktor Kalmar,Austria,808
+Dmitry Melnikov (Дмитрий Мельников),Russia,809
 Yusheng Du (杜宇生),China,808
-Ilya Sokolov,Russia,808
 Alexander Persaud,USA,808
 Vaishnav Nitesh,India,808
+Viktor Kalmar,Austria,808
+Ilya Sokolov,Russia,808
 Trenton Nelson,USA,808
-Mihai Căpăţinescu,Romania,807
 Yashwardhan Budhiraja,India,807
 Stanisław Dąbrowski,Poland,807
+Mihai Căpăţinescu,Romania,807
 Viktoria Ivanova (Виктория Иванова),Russia,806
-Samuel Long,Australia,806
 Brody Lassner,USA,806
+Sam Jacklin,United Kingdom,806
+Samuel Long,Australia,806
 Danila Rogozhnikov (Данила Рогожников),Russia,806
 Don Angelo Joson,Philippines,806
-Sam Jacklin,United Kingdom,806
-Manuel Prieto de Antón,Spain,805
 Nathan Daviaud,France,805
-Chelsea Watts,Australia,805
-Weijie Fang (方伟杰),China,805
 Tobiasz Rychlik,Poland,805
+Chelsea Watts,Australia,805
+Manuel Prieto de Antón,Spain,805
 Enzo Bruder-Jeannot,France,805
-Hua-Ting Lee (李華庭),Taiwan,804
+Weijie Fang (方伟杰),China,805
+Ying Lin (林颖),China,804
 Sergey Mironchenkov,Russia,804
+Hua-Ting Lee (李華庭),Taiwan,804
 Sameer Sethuram,USA,804
 David Suit,USA,804
 Ethan Hickman,Australia,804
-Ying Lin (林颖),China,804
-Joshua Broderick Phillips,USA,804
 Daniel Yakhkind,Israel,804
-Dylan Hughlett,USA,803
+Joshua Broderick Phillips,USA,804
 Kit Clement,USA,803
-Roman Povolotskii,Russia,803
+He-Ping Zheng (鄭和平),Taiwan,803
+Dylan Hughlett,USA,803
 Tony Nguyen,Vietnam,803
 Carter Thomas,USA,803
-He-Ping Zheng (鄭和平),Taiwan,803
+Roman Povolotskii,Russia,803
+Rishi Raj,USA,802
+Alexey Yarygin,Russia,802
 Daniyal Suleymen (Даниял Сулеймен),Kazakhstan,802
+Yu Feng (冯煜),China,802
 Da-Yeong Kim (김다영),Korea,802
 Lucas Déglise,France,802
-Alexey Yarygin,Russia,802
 Aamir Saifee,India,802
 Nicolás Irenco Peña Henríquez,Chile,802
-Rishi Raj,USA,802
 Mohamed Elsayed Ali,Egypt,802
-Yu Feng (冯煜),China,802
-Egdar Castillo,Panama,801
-Nicolás Truijens,Switzerland,801
-Giovanni Contardi,Italy,801
-Fanny Pousset,France,801
-Jolina Chen,Australia,801
 Andrew Nathenson,USA,801
 Lir Ukaj,France,801
-Daniel Quach,New Zealand,801
-Max Walaszek,USA,801
 Pavel Galaktionov,Russia,801
-Tobiasz Augustyn,Poland,800
+Daniel Quach,New Zealand,801
+Giovanni Contardi,Italy,801
+Jolina Chen,Australia,801
+Egdar Castillo,Panama,801
+Max Walaszek,USA,801
+Nicolás Truijens,Switzerland,801
+Fanny Pousset,France,801
 Serena Jones,New Zealand,800
 Frederik Løchte,Denmark,800
+Tobiasz Augustyn,Poland,800
+Zoé de Moffarts,Belgium,800
 Chih-Chuan Yang (楊智全),Taiwan,800
 Yuheng Zhu,China,800
 Amir Murzakarimov (Амир Мурзакаримов),Kazakhstan,799
 Wonbao Kua,Australia,799
-Pedro Giuseppe Garcia Milla,Peru,799
 Ivan Benedict Lee Yap,Philippines,799
+Pedro Giuseppe Garcia Milla,Peru,799
 Qiang Ma (马强),China,798
 Luis Mateo Peñuela Jara,Colombia,798
 Nguyễn Ngọc Thịnh,Vietnam,798
-Brennen Lin,Canada,797
-Bauyrzhan Zhandossuly (Бауыржан Жандосұлы),Kazakhstan,797
-Ian Holmes,Netherlands,797
-Mert Sağdınç,Turkey,797
-Harry Taylor,United Kingdom,797
-Maria Lebedeva (Мария Лебедева),Russia,797
-Anqi Dai (戴安琪),China,797
-Maxen Morrison,Canada,797
-Miron Solopov (Мирон Солопов),Russia,797
-Nestor Sokhan,USA,797
-Tommy Szeliga,USA,797
 Anderson Encarnación Cabrera,Dominican Republic,797
-Rami El Mallah,Lebanon,796
-Malte Ihlefeld,Germany,796
+Nestor Sokhan,USA,797
+Miron Solopov (Мирон Солопов),Russia,797
+Maria Lebedeva (Мария Лебедева),Russia,797
+Bauyrzhan Zhandossuly (Бауыржан Жандосұлы),Kazakhstan,797
+Maxen Morrison,Canada,797
+Tommy Szeliga,USA,797
+Harry Taylor,United Kingdom,797
+Mert Sağdınç,Turkey,797
+Brennen Lin,Canada,797
+Ian Holmes,Netherlands,797
+Anqi Dai (戴安琪),China,797
+Eshiel Narayanan,Australia,796
 Rodrigo Alves Miranda,Brazil,796
 Mengfei Shen (沈梦非),China,796
-Obed Gamaliel Ortíz Piña,Mexico,796
 Vaibhav-Jai Ravipati,Australia,796
+Malte Ihlefeld,Germany,796
 Ben Baron,Israel,796
 Cameron Miller,USA,796
-Eshiel Narayanan,Australia,796
+Obed Gamaliel Ortíz Piña,Mexico,796
+Rami El Mallah,Lebanon,796
+Qingpo Niu (牛青坡),China,795
 Sandy Aaron Jones,France,795
 Jose Alberto Rodriguez Nuñez,Mexico,795
-Qingpo Niu (牛青坡),China,795
+Michael Larsen,USA,794
+Łukasz Dubicki,Poland,794
 Deniz Han Bilyay,Turkey,794
 Levente Swanepoel,New Zealand,794
-Michael Larsen,USA,794
 Jaidon Zain Adams,United Kingdom,794
-Łukasz Dubicki,Poland,794
-Lucas Jacobs,Canada,793
 Jonah Blakeley,Australia,793
+Ezra Hirschi,Switzerland,793
 Zack Hall,Australia,793
 Vincent Chen,USA,793
-Ezra Hirschi,Switzerland,793
 Levi Cordeiro do Vale Menezes,Brazil,793
-Mikhail Novoselov,Russia,792
+Lucas Jacobs,Canada,793
 Gael Augusto Lapeyre,Argentina,792
-Chuokai Liu (刘逴锴),China,792
 Lee Stanton-Barnett,New Zealand,792
-Arush Singh,India,791
-Benjamin Wei,USA,791
-Chloé Demuynck,France,791
-Yerkin Assylbek,Kazakhstan,791
-Miika Ogorevc,Canada,791
-Matthew Sieredzinski,Australia,791
-Josiah Thomas,Canada,791
+Mikhail Novoselov,Russia,792
+Chuokai Liu (刘逴锴),China,792
 Vishal Mohanraju,India,791
+Josiah Thomas,Canada,791
+Matthew Sieredzinski,Australia,791
+Chloé Demuynck,France,791
+Miika Ogorevc,Canada,791
+Benjamin Wei,USA,791
+Arush Singh,India,791
+Yerkin Assylbek,Kazakhstan,791
 Jacob Ambrose,USA,791
-Matěj Grohmann,Czech Republic,790
-Isaac Macdonald,New Zealand,790
 Andrey Mrinskiy (Андрей Мринский),Russia,790
-Anh H. Nguyen,Vietnam,789
-Dias Murzalin (Диас Мурзалин),Kazakhstan,789
+Isaac Macdonald,New Zealand,790
+Matěj Grohmann,Czech Republic,790
 Omar Mohamed Said Mohamed Hassan Elgammal,Egypt,789
 Liam Highducheck,Australia,789
 Ruei-Ying Huang (黃睿穎),Taiwan,789
-Mikołaj Zubowicz,Poland,789
-Jerome Hotchkiss,USA,789
+Dias Murzalin (Диас Мурзалин),Kazakhstan,789
 Kasper Jansson,USA,789
-Ainesh Sevellaraja,Malaysia,788
+Anh H. Nguyen,Vietnam,789
+Jerome Hotchkiss,USA,789
 Raymond Goslow,USA,788
-Aleksey Zuev,Russia,788
-Shukrullo Ibragimov,Tajikistan,788
+Ainesh Sevellaraja,Malaysia,788
+Piotr Olszewski,Poland,788
 Dmitry Zvyagintsev,Russia,788
-Artem Permyakov (Артём Пермяков),Russia,787
+Shukrullo Ibragimov,Tajikistan,788
+Aleksey Zuev,Russia,788
 Jonah Nicolaou,Australia,787
 Levy Fernandes Pereira,Brazil,787
-Brandon Nunez,USA,787
 Rahul Venkatesan,India,787
+Brandon Nunez,USA,787
+Artem Permyakov (Артём Пермяков),Russia,787
 Xianchen Liu (刘显臣),China,786
-Oleksandr Livkovych (Олександр Лівкович),Ukraine,786
-Raúl Martínez Redondo,Spain,786
-Jorge Augusto Siqueira Pinto,Brazil,786
-Mikhail Kharitonov,Russia,786
 Joshua Zhang,USA,786
-Anton Reutov (Антон Реутов),Russia,785
-Mohammad Siwom Chowdhury,Bangladesh,785
-Dominik Fürer,Switzerland,785
-Vincent Contini,Australia,785
+Raúl Martínez Redondo,Spain,786
+Mikhail Kharitonov,Russia,786
+Oleksandr Livkovych (Олександр Лівкович),Ukraine,786
+Jorge Augusto Siqueira Pinto,Brazil,786
 Riccardo Pilan,Italy,785
-David Calderón Arce,Costa Rica,785
-Eva Kato,USA,785
+Dominik Fürer,Switzerland,785
 Benjamin Blaikie,New Zealand,785
 Aleksandar Dukleski,North Macedonia,785
+Mohammad Siwom Chowdhury,Bangladesh,785
+Vincent Contini,Australia,785
 Paxton Bennison,Australia,785
+Anton Reutov (Антон Реутов),Russia,785
+Eva Kato,USA,785
 Edbert Sim,Australia,785
-Bryan Eng,Australia,784
-Chen-Yu Wang (王晨羽),Taiwan,784
+David Calderón Arce,Costa Rica,785
 Ryan Silva,USA,784
 Isaac Myers,USA,784
-Benito Sebastian Flores Vázquez,Mexico,784
-Robert G. Pearce IV,USA,784
-Jonathan Mauroy,Belgium,784
-Jinseo Hong,Korea,784
-Ali Antar,Egypt,784
-Mark Bennis,Netherlands,784
-Jingming Xu (许菁铭),China,784
 Ekaterina Soboleva (Екатерина Соболева),Russia,784
+Jingming Xu (许菁铭),China,784
+Bryan Eng,Australia,784
+Mark Bennis,Netherlands,784
+Benito Sebastian Flores Vázquez,Mexico,784
+Jinseo Hong,Korea,784
+Robert G. Pearce IV,USA,784
+Ali Antar,Egypt,784
+Jonathan Mauroy,Belgium,784
+Chen-Yu Wang (王晨羽),Taiwan,784
 Will Newhoff,USA,783
 Alexander Botz,Germany,783
 Nicolas Marin Urrea,Colombia,783
-Tiannan Wang (王天南),China,782
-Dylan Swarts,South Africa,782
-Laura Mellier,Switzerland,782
-Lachlan Stephens,Australia,782
-Yasa Zaheen,Bangladesh,782
-Teodor-David Soporan,Romania,782
-Denis Gromov (Денис Громов),Russia,782
-Gijs Peletier,Netherlands,782
-Samir Piazzano,Italy,782
+Tomasz Cepil,Poland,783
 Mark Popov (Марк Попов),Russia,782
-Lucinda Zhou,USA,781
-Tripp Peters,USA,781
-Lucas Cordeiro do Vale Menezes,Brazil,781
+Samir Piazzano,Italy,782
+Yasa Zaheen,Bangladesh,782
+Tiannan Wang (王天南),China,782
+Teodor-David Soporan,Romania,782
+Gijs Peletier,Netherlands,782
+Laura Mellier,Switzerland,782
+Dylan Swarts,South Africa,782
+Denis Gromov (Денис Громов),Russia,782
+Lachlan Stephens,Australia,782
 Vitor Wagner Abreu,Brazil,781
-Nick Agatyn,Australia,781
-Zachary Giesken,USA,781
-Luigi Soriano,USA,781
 Jorge Rafael Castañeda Sánchez,Mexico,781
+Luigi Soriano,USA,781
+Zachary Giesken,USA,781
+Lucinda Zhou,USA,781
+Nick Agatyn,Australia,781
+Lucas Cordeiro do Vale Menezes,Brazil,781
 Declan James Douglas McLennan,Australia,781
-Hernán Levano Villalobos,Peru,780
-Rasmus Stub Detlefsen,Denmark,780
-Paul Watson,Ireland,780
-Carson Deibert,Canada,780
-Simone Ohler,Germany,780
-Joseph C. Browning,USA,780
-Cooper Cutcliffe,Australia,780
+Tripp Peters,USA,781
 Valeriy Mankevich (Валерий Манкевич),Russia,780
-Daniel Wallin,Sweden,779
+Hernán Levano Villalobos,Peru,780
+Paul Watson,Ireland,780
+Cooper Cutcliffe,Australia,780
+Simone Ohler,Germany,780
+Carson Deibert,Canada,780
+Joseph C. Browning,USA,780
+Guy Taragano,Israel,779
 Hector David Martinez Argaez,Colombia,779
 Oliver Fisk,United Kingdom,779
-Arifumi Fushimi (伏見有史),Japan,779
-Guy Taragano,Israel,779
-Adrian Dębski,Poland,779
-Jacob Watters,New Zealand,779
 Dagne Poveda,Costa Rica,779
-Clyde Dencer Tutor,Philippines,778
+Jacob Watters,New Zealand,779
+Arifumi Fushimi (伏見有史),Japan,779
+Przemysław Rogalski,Poland,779
 Claudio Matias Cancino Bruna,Chile,778
 Luke Robles,USA,778
+Clyde Dencer Tutor,Philippines,778
 Silas Starling,USA,778
 Maria Zhits,Russia,778
+Ertugan Mulkubai (Ертуган Мулькубай),Kazakhstan,777
 Nicholas Roberts,USA,777
 Moksh Patel,India,777
-Aaron Spiller,Australia,777
 Chia-Jui Lin (林家睿),Taiwan,777
 Yurii Hnidko (Юрій Гнідко),Ukraine,777
 Ostap Skakun (Остап Скакун),Ukraine,777
+Aaron Spiller,Australia,777
 Hazel Moises Ruiz Gutierrez,Mexico,777
-Misael Peñafiel,Panama,777
-Ertugan Mulkubai (Ертуган Мулькубай),Kazakhstan,777
 Vasily Bolshakov (Василий Большаков),Russia,777
-Andrew Antoine,Egypt,776
-Hiroaki Okamoto (岡本裕陽),Japan,776
-Benjamin Shurmer,Australia,776
+Misael Peñafiel,Panama,777
 Dmitrii Dusheiko (Дмитрий Душейко),Russia,776
+Andrew Antoine,Egypt,776
 Mikhail Glazov (Михаил Глазов),Russia,776
+Benjamin Shurmer,Australia,776
+Hiroaki Okamoto (岡本裕陽),Japan,776
+Jasmin Bouchard,Canada,775
+Jacinta Edmonds-Brown,Australia,775
 Mikhail Kuzin,Russia,775
+Conor Sullivan,Australia,775
 Loic Chiang,Singapore,775
 Nguyễn Khôi Nguyên,Vietnam,775
-Mark Smirnov (Марк Смирнов),Russia,775
-Jacinta Edmonds-Brown,Australia,775
-Joey Saia,USA,775
-Paweł Duraj,Poland,775
-Conor Sullivan,Australia,775
-Jasmin Bouchard,Canada,775
 Samuel Park,New Zealand,775
-Angel Ropon,Peru,774
-Michael Young,USA,774
+Mark Smirnov (Марк Смирнов),Russia,775
+Joey Saia,USA,775
 William Niewand,Australia,774
-Jordan Nguyen,USA,774
-Jonathan Tan Wei Xiat,Malaysia,774
 Polina Konopleva (Полина Коноплева),Russia,774
+Michael Young,USA,774
+Angel Ropon,Peru,774
+Jordan Nguyen,USA,774
 Melissa Su,USA,774
-Nikita Popkov,Russia,773
+Jonathan Tan Wei Xiat,Malaysia,774
 Marco Aurélio Barbosa Braga Dantas,Brazil,773
-Mikhail Chernobrivets (Михаил Чернобривец),Russia,773
-Maksim Aipkin,Uzbekistan,773
-Felipe André de Oliveira Guerra,Brazil,773
-Evan Mann,USA,773
-Libni Zair Reyes Machorro,Mexico,773
 Changhee Yeh (예창희),Korea,773
+Libni Zair Reyes Machorro,Mexico,773
 Salon Ngakhushi,Nepal,773
-Quinn Hansen,Canada,773
 Timothy Townley,USA,773
-Jiajie Ou (区嘉杰),China,772
+Felipe André de Oliveira Guerra,Brazil,773
+Maksim Aipkin,Uzbekistan,773
+Evan Mann,USA,773
+Nikita Popkov,Russia,773
+Mikhail Chernobrivets (Михаил Чернобривец),Russia,773
+Quinn Hansen,Canada,773
 Yu Da-Hyun (유다현),Korea,772
-Akshit Gohain,India,772
-Derek Kong,Canada,772
 Vladislav Shoshin,Belarus,772
 Rhiana Brewster,Australia,772
+Derek Kong,Canada,772
 Sam Adams,USA,772
+Jiajie Ou (区嘉杰),China,772
 Marcus Siu,United Kingdom,772
-Blake Sinclair,United Kingdom,771
-Levi Eyou,New Zealand,771
+Akshit Gohain,India,772
 Dmitry Patrikeev,Russia,771
-Sergio Antonio Galvan Beltran,Mexico,771
+Levi Eyou,New Zealand,771
 Maxwell Bryn,USA,771
-Jiashun Wu (吴嘉顺),China,770
-Roman Shilov (Роман Шилов),Russia,770
+Blake Sinclair,United Kingdom,771
+Sergio Antonio Galvan Beltran,Mexico,771
