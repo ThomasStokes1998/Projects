@@ -9,6 +9,7 @@ Jonathan Charlesworth,Australia,949
 Leon Tran,Australia,931
 Benjamin Paul,Australia,916
 Swami Srinivasan,Australia,895
+Daniel Wallin,Sweden,878
 Isaac Wells,Australia,878
 Jhasmani Oxa Lopez,Bolivia,869
 Tom Stanton-Barnett,New Zealand,866
@@ -19,9 +20,9 @@ Li-Wei Wu (吳立偉),Taiwan,845
 Haozhen Ding (丁昊桢),China,841
 Pedro Henrique de Jesus Silva,Brazil,835
 Teruki Tamura (田村旭輝),Japan,833
+Daniel Anker Hermansen,Denmark,832
 Jens Grieme,Germany,824
 Arkadiusz Żynel,Poland,819
-Daniel Wallin,Sweden,819
 Aaron Spiller,Australia,814
 Wilfrid Py,France,812
 Callum Hales-Jepp,United Kingdom,808
@@ -32,12 +33,12 @@ Aneurin Hunt,New Zealand,795
 Yuki Yamamoto (山本祐輝),Japan,794
 Yuri de Oliveira,Brazil,794
 Natanael Lundberg,Sweden,793
-Daniel Anker Hermansen,Denmark,789
 Christian Angelo Araneta Naguio,Philippines,786
 Alberto Arturo Ayllón Bustos,Bolivia,784
 Bo-Yu Lin (林柏佑),Taiwan,784
 Stanley Chapel,USA,783
 Kerry Creech,USA,780
+Martin Vædele Egdal,Denmark,779
 Jan Bentlage,Germany,775
 Cheng Hiu Yeung (鄭曉洋),Hong Kong,772
 William Jensen,Sweden,772
@@ -47,7 +48,6 @@ Zachary Barrus,USA,770
 Witali Bułatow,Poland,767
 Jeyamurugesh Jeyaraj,India,767
 Joseph Williams,United Kingdom,766
-Martin Vædele Egdal,Denmark,765
 Jonas Rongé,Belgium,758
 Jason White,USA,757
 Vianne Chang,Canada,754
@@ -56,19 +56,19 @@ Dominik Kobinski,Poland,752
 Timo Norrkniivilä,Finland,749
 Luiz Fellipe Oliuza Leal Silva,Brazil,749
 Toma Kishimoto (岸本到馬),Japan,747
-Gleiciano Cosmo Santos,Brazil,746
 Diego Brizuela Crespo,Mexico,746
+Gleiciano Cosmo Santos,Brazil,746
 Helmer Ewert,Sweden,745
 Victor Tang Yao Jun (湯曜駿),Hong Kong,743
 Sebastian Outh-Aut,Australia,739
 Lennon Hughes,Australia,739
-Caleb Hall,New Zealand,736
 Hannes Müller,Germany,736
+Caleb Hall,New Zealand,736
+Thor Muto Asmund,Denmark,736
 Luke Heath-Edwards,New Zealand,735
 Cheung-Hao Tu,United Kingdom,734
-Frederico Canal Gomes,Brazil,729
-Thor Muto Asmund,Denmark,729
 Daniel Atlas,Israel,729
+Frederico Canal Gomes,Brazil,729
 Karol Piskorek,Poland,728
 Georel Ulangkaya,Philippines,727
 Mikołaj Salamon,Poland,722
@@ -81,8 +81,8 @@ Zeke Mackay,USA,715
 Serhii Mormul (Сергій Мормуль),Ukraine,715
 Paweł Duraj,Poland,715
 Abdullah Gulab,Pakistan,714
-Shivam Bansal,India,713
 Chen-Pin Sun (孫振斌),Taiwan,713
+Shivam Bansal,India,713
 DongJae Lee,Korea,712
 Ben Keogh,Ireland,706
 Charley Abcouwer,Netherlands,702
@@ -91,8 +91,8 @@ Cedric Meysing,Germany,700
 Wayne Pi,Taiwan,699
 Dieter Amberger,Austria,696
 Max Siauw,USA,695
-Modest Podzolkin,Ukraine,695
 Owen Widdis,USA,694
+Modest Podzolkin,Ukraine,693
 Syougo Kamo (加茂翔吾),Japan,693
 Kamil Przybylski,Poland,692
 Gabriel Barrios,Guatemala,691
@@ -100,8 +100,8 @@ Abhijat Sahu,India,690
 Ernur Ersayynov,Kazakhstan,689
 Niklas Thomßen,Germany,687
 István Kocza,Hungary,683
-Peri Le Dain,USA,682
 Manuel Gutman,Argentina,682
+Peri Le Dain,USA,682
 Hill Pong Yong Feng,Malaysia,680
 Jakub Lorens,Poland,678
 Ahmad Naufal Hakim,Indonesia,675
@@ -116,18 +116,18 @@ Jason Ostdiek,USA,662
 Gert van Hout,Netherlands,658
 Dmitrii Saukov (Дмитрий Сауков),Russia,657
 Jose Polorhenzo Aquino,Philippines,656
-Paul Taylor,USA,655
 Emile Compion,South Africa,655
 David Tanasković,Bosnia and Herzegovina,655
+Paul Taylor,USA,655
 Matthew Bidwell,USA,654
-Callum Goodyear,United Kingdom,653
 William Phommaha,France,653
 Pacifico Rodriguez,Switzerland,652
 Clarence Kinsey G. Orozco,Philippines,651
 Abhijeet Ghodgaonkar,India,651
+Callum Goodyear,United Kingdom,649
 Sebastiano Tronto,Italy,649
-Axel Flordal,Sweden,648
 Armando Dian,Malaysia,648
+Axel Flordal,Sweden,648
 Ilya Kerymov (Ілля Керимов),Ukraine,647
 Anuar Miguel Abib Onofre,Brazil,647
 Quinn McGagin,USA,647
@@ -143,14 +143,14 @@ Lorenzo Mauro,Italy,636
 Beomseok Ryu (류범석),Korea,636
 Jacob Eoin Gipp,Canada,635
 Grzegorz Łuczyna,Poland,635
-Dominik Obara,Poland,633
-Joel Hernández,El Salvador,633
-Theodor Nordstrand,Sweden,633
 Ang Chin Zhen (洪靖程),Malaysia,633
+Dominik Obara,Poland,633
+Theodor Nordstrand,Sweden,633
+Joel Hernández,El Salvador,633
 Dylan Swarts,South Africa,631
-Igor Aipkin,Uzbekistan,630
-Dominik Fürer,Switzerland,630
 Davis Pogor,USA,630
+Dominik Fürer,Switzerland,630
+Igor Aipkin,Uzbekistan,630
 Vincent Hartanto Utomo,Indonesia,627
 Jin Young Kim (김진영),Korea,626
 Tomoya Firman,Australia,625
@@ -163,13 +163,13 @@ Assylkhan Meirkhanov (Асылхан Мейрханов),Kazakhstan,616
 Tom Nelson,New Zealand,614
 Aoden Teo Masa Toshi,Singapore,613
 Damir Zhanataev (Дамир Жанатаев),Kazakhstan,611
-Muhammad Saleh Imtiaz,Pakistan,610
 Simone Ohler,Germany,608
 Ben Erwin,USA,608
 Yutao Guo (郭宇韬),China,607
 Mengfei Shen (沈梦非),China,605
-Daniel Alejandro Torres Moreno,Colombia,603
 Richard Anthony Parada,USA,603
+Daniel Alejandro Torres Moreno,Colombia,603
+Muhammad Saleh Imtiaz,Pakistan,602
 Shenghai Fang (方胜海),China,602
 András Gelencsér,Hungary,602
 Marco Edoardo Cittar,Italy,601
@@ -177,37 +177,36 @@ Mykhailo Lagoida (Михайло Лагойда),Ukraine,600
 Nipun Das,USA,599
 Roman Strakhov,Russia,598
 Ben Streeter,USA,595
-Takayuki Tanaka (田中隆喜),Japan,594
 Fabian Settelen,Switzerland,594
+Takayuki Tanaka (田中隆喜),Japan,594
 Simon Kelly,Ireland,593
 Tiffany Soh (蘇明珠),Malaysia,593
-Marcus Moberg,Sweden,590
 Sergio Bulux,Guatemala,590
-Joel Cetra,Germany,589
+Marcus Moberg,Sweden,590
 Chunjie Shan (单淳劼),China,589
+Joel Cetra,Germany,589
 Grigorii Alekseev,Russia,589
-Mohammed Aiman Koli,India,587
 Arthur Garcin,France,587
+Mohammed Aiman Koli,India,587
 Nevins Chan Pak Hoong (陈百鸿),Malaysia,586
 Valentin Lanz,Switzerland,586
+Raluca Ioana Grigoraș,Romania,585
 DongSu Park (박동수),Korea,585
 Kit Clement,USA,585
-Raluca Ioana Grigoraș,Romania,585
-Joshua Feran,USA,583
 Alexey Kislovskiy,Russia,583
+Joshua Feran,USA,583
 Jang Seok Won (장석원),Korea,582
 Andy Nicholls,United Kingdom,581
-Yunhao Lou (娄云皓),China,575
 Brandon Harnish,USA,575
+Yunhao Lou (娄云皓),China,575
 Oliver Wheat,United Kingdom,574
 Graham Siggins,USA,574
 Ainesh Sevellaraja,Malaysia,573
 Satoshi Kodama (児玉聡),Japan,570
 Peter Weyers,USA,569
 Alessandro Nicolì,Italy,568
-Andrew Lee,USA,565
 Fernando Israel Zúñiga Macedo,Mexico,565
-Kacper Paweł Dworak,Poland,563
+Andrew Lee,USA,565
 Harry Savage,United Kingdom,563
 Lucas O'Connell,New Zealand,562
 Ethan Pan,New Zealand,561
@@ -215,17 +214,18 @@ Alexandre Henrique Afonso Campos,Brazil,559
 Avshalom Sharavani,Israel,557
 Konstantin Jaehne,Germany,555
 Mikołaj Morawski,Poland,555
-Sukant Koul,India,553
 Angelo Fontanini Lamure,France,553
-Jia-Hong Lu (陸嘉宏),Taiwan,552
+Sukant Koul,India,553
+Kacper Paweł Dworak,Poland,553
 Ng Jia Quan (黄佳铨),Malaysia,552
+Jia-Hong Lu (陸嘉宏),Taiwan,552
 Dawid Wójcik,Poland,550
 Marharyta Dovbii (Маргарита Довбій),Ukraine,550
 Marco Yang,Canada,550
-Aedan Bryant,USA,549
 Yang Li (李扬),China,549
-Antonio Isaías Martínez Santos,Mexico,548
+Aedan Bryant,USA,549
 Phisher Winn,USA,548
+Antonio Isaías Martínez Santos,Mexico,548
 Pamulapati Sai Teja,India,547
 Jolo Endona,Philippines,546
 Natsuki Ishizawa (石澤夏希),Japan,546
@@ -234,9 +234,9 @@ Raymond Goslow,USA,544
 Alexis Fedeler,Germany,541
 Timur Kabizhanov (Тимур Кабижанов),Kazakhstan,540
 Hongyuan Tang (唐鸿远),China,539
+Zixing Wang (王子兴),China,537
 Egor Besedin (Егор Беседин),Russia,537
 Levente Baráth,Hungary,537
-Zixing Wang (王子兴),China,537
 Grzegorz Pacewicz,Poland,534
 Jack Pfeifer,USA,532
 Abhimanyu Singhal,India,531
@@ -244,122 +244,122 @@ Gianluca Placenti,Italy,530
 Daniel James,India,529
 Jakob Gunnarsson,Sweden,528
 Yoni Strassberg,Israel,527
-Ryan Pilat,USA,525
 Cary Huang,USA,525
+Ryan Pilat,USA,525
 Bertie Longden,United Kingdom,524
 Myles Jarman,Australia,523
 Liew Yee Voon (劉倚文),Malaysia,523
-Brendan Bakker,USA,523
 Yunqi Ouyang (欧阳韵奇),China,523
+Brendan Bakker,USA,523
 Eason Siew Ee Son (蕭奕晨),Malaysia,522
 Wilmer Torres,Guatemala,522
-Lev Golub (Лев Голуб),Ukraine,521
 Naoto Shinagawa (品川直登),Japan,521
 Tommy Cherry,USA,521
 Henri Gerber,Germany,521
 Santino Maiorino,USA,521
-Sam Adams,USA,520
+Lev Golub (Лев Голуб),Ukraine,521
 Alexander Botz,Germany,520
 Nikita Ovsyannikov (Никита Овсянников),Russia,520
+Sam Adams,USA,520
 Maxime Madrzyk,France,519
-Calvin Nielson,USA,518
 Kiagus Ahmad Haikal Hafif Hamidy,Indonesia,518
+Calvin Nielson,USA,518
 Hari Anirudh,India,517
 Hyeok Yang (양혁),Korea,517
 Manuel Bühler,Switzerland,517
-Ivan Miletić,Serbia,516
-Viktor Zenk,Sweden,516
-Enoch Gray,USA,516
-Mikus Lembergs,Latvia,516
 Mike Hughey,USA,516
-Kristian Holme,Norway,515
+Mikus Lembergs,Latvia,516
+Ivan Miletić,Serbia,516
+Enoch Gray,USA,516
 Kim Min (김민),Korea,515
+Kristian Holme,Norway,515
 Andrii Lushpak (Андрій Лушпак),Ukraine,513
-Farid Mikhailov,Kazakhstan,513
-Tomas Kristiansson,Sweden,513
-Tom Maguire,Australia,513
 Jakub Drobný,Slovakia,513
-Danang Adianto,Indonesia,512
+Tom Maguire,Australia,513
+Tomas Kristiansson,Sweden,513
+Farid Mikhailov,Kazakhstan,513
 Zheng Shen (申正),China,512
 Jiachi Han (韩佳池),China,512
+Danang Adianto,Indonesia,512
+Ivan Osovik,Russia,511
 Anonymous,Canada,511
 Donna Krueger,USA,511
-Ivan Osovik,Russia,511
 Brock Hamann,Australia,510
 Clément Cherblanc,France,510
-Ivan Krueger,USA,509
 Darren Siew Ee Yaang (蕭奕暘),Malaysia,509
-Grzegorz Jałocha,Poland,509
 Daniel Goodman,USA,509
-Pedro Trujillo García,Mexico,507
+Grzegorz Jałocha,Poland,509
+Ivan Krueger,USA,509
 Martin Brath,Germany,507
 Jareth Soong,Singapore,507
 Matthew Dickman,USA,507
+Pedro Trujillo García,Mexico,507
 Jason Kochan,USA,506
-Evan Liu,USA,505
 Haijun Tan (谭海俊),China,505
+Evan Liu,USA,505
 Jesús Fernando Castelán Gómez,Mexico,504
-Emilio Alberto Rodríguez Jiménez,Mexico,503
 Vilius Ribinskas,Lithuania,503
+Jaemin Chang (장재민),Korea,503
 Noah Kraft,Germany,503
 Kaijun Lin (林恺俊),China,503
-Jaemin Chang (장재민),Korea,503
-Yifan Wang (王逸帆),China,502
+Emilio Alberto Rodríguez Jiménez,Mexico,503
 Ting He (禾廷),China,502
+Yifan Wang (王逸帆),China,502
+Viktor Zenk,Sweden,501
 Zachary Zurawski,USA,500
-Martin Fronescu,Romania,499
 Yikuan Kan (阚亦宽),China,499
-Nicholas Patterson,Canada,499
 Cole Campbell,New Zealand,499
+Martin Fronescu,Romania,499
+Nicholas Patterson,Canada,499
 AJ Kamal,USA,498
 Kristian Gil Caragan,Philippines,497
 Tommy Szeliga,USA,496
-Oto Aoyagi (青柳吟),Japan,495
 Will Belote,USA,495
+Oto Aoyagi (青柳吟),Japan,495
 Connor Yungbluth,USA,495
 Georgiy Titov (Георгій Тітов),Ukraine,493
-Luboš Bartík,Czech Republic,493
 Jacob Ambrose,USA,493
-Eben Quenneville,USA,492
+Luboš Bartík,Czech Republic,493
 Gianfranco Huanqui,Peru,492
 Minyang Shi (时旻扬),China,492
+Eben Quenneville,USA,492
 David Vujasić,Croatia,490
 Matteo Chancerel,France,488
 Einar Kvam Lundberg,Norway,488
-Raiyan Abdulrub,Canada,487
 Lee Stanton-Barnett,New Zealand,487
+Raiyan Abdulrub,Canada,487
+Bill Hammill,United Kingdom,485
 David Epstein,Australia,485
 Walker Welch,USA,485
-Bill Hammill,United Kingdom,485
 Hannah Minas,Switzerland,484
 Martin Maréchal,France,484
 Nikhil George,India,482
 Liang Zhang (张亮),China,480
-Choi Go-Ho (최고호),Korea,479
 Danny SungIn Park,Korea,479
 Gabriel Sargeiro Gomes de Mello,Brazil,479
+Choi Go-Ho (최고호),Korea,479
 Michael Fung,Netherlands,477
 Santiago Reyes Idarraga,Colombia,477
 Artyom Martirosov,Russia,477
-Tam Quan,Australia,476
 Mats Bergsten,Sweden,476
 Jim Zhu,New Zealand,476
+Tam Quan,Australia,476
 Kazutaka Watanabe (渡部和孝),Japan,476
-Nikhil Mande,India,475
-Hasabi Sailendra,Indonesia,475
 Rowe Hessler,USA,475
-Xinyun Chen (陈新运),China,474
+Hasabi Sailendra,Indonesia,475
+Nikhil Mande,India,475
 Luke Van Laningham,USA,474
+Xinyun Chen (陈新运),China,474
 Jie Chen (陈杰),China,473
-Luca Stalpers,Netherlands,472
 Natthaphat Mahtani (ณัฐภัทร จี มาทานี),Thailand,472
 Fabio De'Rose,Brazil,472
-Luca Rizzi,Switzerland,470
+Luca Stalpers,Netherlands,472
 Timothé Ringeard,France,470
+Luca Rizzi,Switzerland,470
 Derek Kong,Canada,469
 Nikita Razzamazov (Никита Раззама́зов),Russia,468
-Agustín Bernasconi,Argentina,468
 Ahsanul Insan Hamid,Indonesia,468
+Agustín Bernasconi,Argentina,468
 Alyssa Bell,USA,467
 Will Russo,USA,467
 Sean Hartman,USA,465
@@ -367,12 +367,12 @@ Gregor Billing,Germany,465
 Ron Libman,Israel,464
 Bradley Sampson,USA,464
 Lee Jia Yong (李伽榮),Malaysia,462
-Kacper Rafalski,Poland,461
 Mara Oprea,Romania,461
+Kacper Rafalski,Poland,461
 Yash Mehta,India,460
-Conlan Trace,USA,459
-Mark Rivers,United Kingdom,459
 Hyun-Kyoo Rah (나현규),Korea,459
+Mark Rivers,United Kingdom,459
+Conlan Trace,USA,459
 William Wright,United Kingdom,458
 Levi André Tallaksen,Norway,457
 Clément Burgevin,France,456
@@ -382,17 +382,17 @@ Angel Alexis Carrillo Ramirez,Mexico,454
 Lanshi Zhang (张岚石),China,453
 Chris Hardwick,USA,451
 Keenan Johnson,USA,450
-Minhyun Kim (김민현),Korea,449
 Xi Lu (鲁曦),China,449
+Heejun Kim (김희준),Korea,448
 Shantanu Modak,Singapore,448
 Oleksandr Ivanchak (Олександр Іванчак),Ukraine,448
-Heejun Kim (김희준),Korea,448
 Lee Zhi Xuan,Malaysia,448
 Haruka Kitamura (北村晴香),Japan,447
 Max Xiong (熊锐明),China,447
 Christopher Chi,USA,445
 Erik Bitvai,Sweden,444
 Nathaniel Elijah Paz,USA,444
+Minhyun Kim (김민현),Korea,444
 Tristan Steeves,USA,444
 Carson Claud,USA,442
 Haoyang Chen (陈浩杨),China,441
@@ -402,21 +402,21 @@ Akatsuki Kitamura (北村曉),Japan,439
 Jacob Oliver Bruun,Norway,439
 Frederick Zheng,USA,438
 José Antonio Navarro Sánchez,Spain,438
-Adam Swaine,United Kingdom,437
 Jacob Chambers,United Kingdom,437
+Adam Swaine,United Kingdom,437
 Knut Skaug Haraldsen,Norway,435
 Jan Fonš,Czech Republic,434
 Timothy Goh,USA,433
 Víctor Adán Solis Martinez,Mexico,432
 Xiaoliang Zhu (朱校良),China,431
-Jordan Baum,Canada,430
 Volodymyr Korol (Володимир Король),Ukraine,430
+Jordan Baum,Canada,430
 Daniel Rose-Levine,USA,429
-Kasparas Lienys,Lithuania,428
 Eng Dickson (黄迪胜),Malaysia,428
-Matthew Prestwich,United Kingdom,427
+Kasparas Lienys,Lithuania,428
 Mattheo de Wit,Netherlands,427
 Nathan Daviaud,France,427
+Matthew Prestwich,United Kingdom,427
 Dmitriy Krasnoshchekov,Russia,427
 Jianxu Chen (陈建旭),China,426
 Isaac Langer,USA,426
@@ -427,43 +427,43 @@ Lucas Déglise,France,423
 Vladimir Okenchits,Russia,423
 Luis Kleinheinz,Germany,422
 Michael (謝富亦),Indonesia,422
-Sameer Aggarwal,USA,422
-James Golding,United Kingdom,422
 Tobias Peter,Switzerland,422
+James Golding,United Kingdom,422
 Yifan Cheng (程依凡),China,422
-Manu Vereecken,Belgium,421
+Sameer Aggarwal,USA,422
 Jeremy Benik,USA,421
+Manu Vereecken,Belgium,421
 Andreas Jensen Forsgren,Norway,420
 Mok Man Kit (莫文傑),Hong Kong,420
 Viljo Elo,Finland,420
-Vitalii Khomyn (Віталій Хомин),Ukraine,418
-Weina Bao (鲍伟娜),China,418
-Kamil Michalak,Poland,418
 Tim Reynolds,USA,418
+Weina Bao (鲍伟娜),China,418
+Vitalii Khomyn (Віталій Хомин),Ukraine,418
+Kamil Michalak,Poland,418
+Eva Kato,USA,416
+Rodson Lingad,Philippines,416
 Kai-Wen Wang (王楷文),Taiwan,416
 Jens Haber,Germany,416
-Rodson Lingad,Philippines,416
-Eva Kato,USA,416
+Bence Barát,Hungary,415
 Antonie Paterakis,Greece,415
 Liang Chen (陈樑),China,415
 Jihaobutao (冀好布套),China,415
-Bence Barát,Hungary,415
 Eric Waldbillig,USA,414
 Nikolay Masson (Николай Массон),Russia,413
-Yuval Porat,Israel,413
 Sukesh Kumar,India,413
-Maksym Dumanskyi (Максим Думанський),Ukraine,413
 Philippe Virouleau,France,413
+Maksym Dumanskyi (Максим Думанський),Ukraine,413
+Yuval Porat,Israel,413
 Bobby D'Angelo,USA,412
 Nam Anh Dang,Australia,411
-António Gomes,Portugal,411
 CJ Sheng,USA,411
+António Gomes,Portugal,411
 Zongwen Mu (牟宗文),China,410
 Nicholas Fogo,Australia,410
 Pavlo Bondar (Павло Бондар),Ukraine,410
+David Pearce,Australia,408
 Weijie Fang (方伟杰),China,408
 Kou Oobatake (大畠功),Japan,408
-David Pearce,Australia,408
 Peter Andersson,Sweden,406
 Jorge Manuel Lira Ibarra,Mexico,405
 Michael Conard,USA,405
@@ -472,157 +472,156 @@ Clay Moore,USA,403
 Peter Åberg,Sweden,402
 Paul Ellement,Canada,402
 Dylan Wang,Canada,401
-Yiwei Liu (刘伊玮),China,400
 Paris Dorn,Canada,400
 Nathan Seeto,Australia,400
+Yiwei Liu (刘伊玮),China,400
 Aiden Bartlett,USA,399
 Riku Akiyama (秋山吏玖),Japan,398
-Adam Marcellus Kelly,USA,398
-Daniel Tidsey,United Kingdom,397
-Emanuel Rheinert,Germany,397
 Zhifang Xi (席之枋),China,397
+Emanuel Rheinert,Germany,397
+Daniel Tidsey,United Kingdom,397
 Olivier Vos,Netherlands,396
 Carter Kucala,USA,396
 Jorge Augusto Siqueira Pinto,Brazil,394
 Korakot Inkaew (กรกฎ อิ่นแก้ว),Thailand,394
-Fabian Löhle,Switzerland,393
 Ian Drake,USA,393
+Fabian Löhle,Switzerland,393
 Wilson Alvis (陈智胜),Indonesia,392
 Ethan Davis,USA,392
+Feilong Tang (唐飞龙),China,391
 Christopher Sun,USA,391
 Andrew Rizo,USA,391
-Feilong Tang (唐飞龙),China,391
 Arnau Tous Mateu,Spain,390
-Jacopo Antonio Boffa,Italy,389
 Chan Hay Yin (陳希言),Hong Kong,389
+Jacopo Antonio Boffa,Italy,389
 Samuel Knoll,USA,388
 Lorenzo Vigani Poli,Italy,388
 Nikhil Soares,India,385
 Noah Swor,USA,384
 Hiroki Iwashita (岩下大輝),Japan,384
-Takuma Shirahase (白波瀬拓磨),Japan,383
 Mihály Horváth,Hungary,383
+Takuma Shirahase (白波瀬拓磨),Japan,383
 Mark Boyanowski,USA,381
 Ole Nikolai Gjerset,Norway,380
+Adam Marcellus Kelly,USA,380
 Timothy Loh,Australia,377
 Ádám Barta,Hungary,376
+Yuto Date (伊達優人),Japan,375
+Nitheesh Kumar Elangovan,India,375
 Takayuki Ookusa (大艸尊之),Japan,375
 Vasile Dan,Romania,375
-Nitheesh Kumar Elangovan,India,375
-Yuto Date (伊達優人),Japan,375
-Jared Stinson,USA,374
 Moisés Alberto Rojas León,Mexico,374
+Jared Stinson,USA,374
 Tomoyuki Hiraide (平出智之),Japan,373
 Jake Klassen,Canada,373
+Alistair Miller,United Kingdom,372
 Adam Burk,USA,372
 Zhenyang Shao (邵振洋),China,372
-Alistair Miller,United Kingdom,372
 Fedor Abaev,Russia,371
 Jiayu Wang (王佳宇),China,371
 Matthew Sheerin,United Kingdom,370
-Hui Cai (蔡辉),China,369
 Krzysztof Bober,Poland,369
+Hui Cai (蔡辉),China,369
+Guido Dipietro,Argentina,368
+Ethan Basanov,Canada,368
 Marcel Ručigaj,Slovenia,368
 Saiyam Jain,India,368
-Ethan Basanov,Canada,368
-Guido Dipietro,Argentina,368
-Harsh Maheshwari,India,367
 Brian Acuña,Philippines,367
+Harsh Maheshwari,India,367
 Yu Zhou (周煜),China,364
 Zhao-Zhe Zhong (鍾肇哲),Taiwan,362
+Jae Hyun Jeong,Korea,361
 Reto Bubendorf,Switzerland,361
 Jason Bilgrei,USA,361
-Jae Hyun Jeong,Korea,361
 Andy Wong,USA,360
-James Macdiarmid,New Zealand,359
 Aidan Proietto,USA,359
-Noel Kim,New Zealand,359
 Yu Da-Hyun (유다현),Korea,359
+James Macdiarmid,New Zealand,359
+Noel Kim,New Zealand,359
 Elias Fischer,Germany,358
 Ben Baron,Israel,356
-Parker Trager,USA,356
 Wenxuan Yue (岳文轩),China,356
+Parker Trager,USA,356
 Wong Chong Wen (黄崇文),Singapore,354
 Denis Fokin,Russia,354
 Philip Cuthbertson,USA,353
 Chris Choi,USA,352
 Kai Roff,United Kingdom,352
-Liam Sweet,Australia,351
 Theodore Chow,Canada,351
 Jēkabs Janovs,Latvia,351
+Liam Sweet,Australia,351
 Łukasz Burchard,Poland,351
 Diego Alejandro Casas Jimenez,Colombia,350
 Luca McKeen Black,USA,349
-Gaëtan Fragnière,Switzerland,348
 Jode Brewster,Australia,348
-Aniketh Arya,India,347
-Joel Ulin,Sweden,347
-Taylor Cookmeyer,USA,347
-Jacob Posner,USA,347
-Polina Lapteva (Полина Лаптева),Russia,347
+Gaëtan Fragnière,Switzerland,348
 Alexander Olleta del Molino,Spain,347
+Jacob Posner,USA,347
+Taylor Cookmeyer,USA,347
+Aniketh Arya,India,347
+Polina Lapteva (Полина Лаптева),Russia,347
+Joel Ulin,Sweden,347
 Calvin Sall,USA,346
 Zian Song (宋子安),China,345
 Timo Hromádka,Slovakia,344
 Haoxiang Ying (应浩祥),China,344
 Neel Gore,USA,343
-Antoine Cantin,Canada,343
 Damian Wilding,USA,343
+Antoine Cantin,Canada,343
 Ray Leung Ka Ho (梁家浩),Hong Kong,342
 Leonardo Ezequiel Cruz,Argentina,342
 Fahad Ittikaparambil Palakkal Haneefa,India,342
-Charlie Harrison,United Kingdom,340
 Bhargav Narasimhan,India,340
+Charlie Harrison,United Kingdom,340
 Yoshio Matsumoto (松本嘉夫),Japan,339
 Joseph Tudor,United Kingdom,338
 Misael Gómez Soria,Mexico,338
-Sam Spendla,United Kingdom,337
-Alistair Robequin,Switzerland,337
 Shunsuke Wada (和田俊輔),Japan,337
-Sheng Cao (曹晟),China,336
+Sam Spendla,United Kingdom,337
 Ivan Li Ka Leong (李嘉亮),Hong Kong,336
+Sheng Cao (曹晟),China,336
 Spencer Chubb,USA,335
 Mingyang Xie (谢铭扬),China,334
-Amelie Dieterich,Germany,334
 Akash Rupela,India,334
+Amelie Dieterich,Germany,334
 Kevin Matthews,Canada,333
 Chad Harris,USA,332
 Tianyu Zhao (赵天愉),China,331
 Shifei Dai (代时飞),China,330
 Craig Bouchard,Canada,330
-Daniel Vædele Egdal,Denmark,329
 Ethan Dennis,USA,329
-Israel Fraga da Silva,Brazil,328
+Daniel Vædele Egdal,Denmark,329
 John Brechon,USA,328
+Israel Fraga da Silva,Brazil,328
 Jeon Junhyeok (전준혁),Korea,327
 Josh Weimer,USA,326
-Tomohiro Kobayashi (小林知広),Japan,325
 Shinji Mochizuki (望月真司),Japan,325
 Lucas Maillard,France,325
+Tomohiro Kobayashi (小林知広),Japan,325
 Hollwann Leon,Colombia,324
-Daniel Lin,USA,323
+Nikita Loika,Belarus,323
 Łukasz Gondek,Poland,323
+Daniel Lin,USA,323
 Patryk Milewczyk,Poland,323
 Katsuya Sasaki (佐々木克哉),Japan,323
-Nikita Loika,Belarus,323
+Feliks Zemdegs,Australia,320
 Deri Nata Wijaya,Indonesia,320
-Fengqi Dai (代凤奇),China,320
 Zhichun Li (李志纯),China,320
 Brandon Satterstrom,USA,320
-Feliks Zemdegs,Australia,320
+Fengqi Dai (代凤奇),China,320
 Jefferson Andres Durango Argaez,Colombia,319
 Xin Shi (石欣),China,318
-Vladyslav Hordiienko (Владислав Гордієнко),Ukraine,317
 Alessio Giuliano,Switzerland,317
-Tripp Peters,USA,317
+Vladyslav Hordiienko (Владислав Гордієнко),Ukraine,317
 Alexander Mutch,Canada,317
+Tripp Peters,USA,317
 Nicholas Hay,USA,316
 Andrew Robey,USA,315
 Daniel Chudecki,Poland,315
 Daniel Hermansson,Sweden,315
+Bas Verseveldt,Netherlands,314
 Ramses Amaya,Colombia,314
 Akito Takei (武井章人),Japan,314
-Bas Verseveldt,Netherlands,314
 Maxim Chechnev,Russia,314
 Qi Wang (王琪),China,313
 Chi-Lun Hung (洪啟倫),Taiwan,312
@@ -630,291 +629,292 @@ Dušan Zakelšek,Slovenia,312
 Brandon Mikel,USA,312
 Alban Reynaud,France,311
 Ryota Aoki (青木涼太),Japan,309
-Jesús Lindo García,Spain,309
 Olli Vikstedt,Finland,309
-Rotem Ifrach,Israel,308
-Vladimir Sergeev,Russia,308
-Daniel Tarifa,Bolivia,308
+Jesús Lindo García,Spain,309
 Malte Ihlefeld,Germany,308
+Vladimir Sergeev,Russia,308
+Rotem Ifrach,Israel,308
+Daniel Tarifa,Bolivia,308
 José Leonardo Chaparro Prieto,Colombia,307
 David Verdooren Flórez,Colombia,307
 Juan Sebastián Silva Alvarez,Colombia,306
 Richard Espinosa,Philippines,305
-Zach Zwerling,USA,304
 Shintaro Hirose (広瀬慎太郎),Japan,304
+Zach Zwerling,USA,304
 Krish Shah-Nathwani,USA,304
+Julen Simón Iriarte,Spain,303
 Thomas Connor,United Kingdom,303
 Ernest Seroczyński,Poland,303
 Harry Owen,United Kingdom,303
-Julen Simón Iriarte,Spain,303
-Liudi Sun (孙柳笛),China,302
-Bernhard Brodowsky,Germany,302
 Marco Rota,Italy,302
+Bernhard Brodowsky,Germany,302
+Liudi Sun (孙柳笛),China,302
 Murilo Coutinho Silva,Brazil,302
+Xun Zhao (赵洵),China,301
 Bryan Kevin Jimenez Cruz,Colombia,301
 Javier Hernandez Requena,Spain,301
-Xun Zhao (赵洵),China,301
 Matthew Hollinger,USA,300
 Tiago Zamberlan,Brazil,299
 Landon Rhodes,USA,299
 Tomoaki Okayama (岡山友昭),Japan,298
 Monty Wain,Australia,298
 David Ruscalleda Gómez,Spain,297
-Josh Bloch,USA,297
-Mingyao Li (李明尧),China,297
 Vladimir Kostin,Russia,297
+Mingyao Li (李明尧),China,297
+Alistair Robequin,Switzerland,297
+Josh Bloch,USA,297
 Taiga Takaoka (高岡汰虎),Japan,296
 William Gan Wei Ren (颜伟仁),Malaysia,295
 Fabrizio Cirnigliaro,Italy,294
 Antonio López,Spain,293
-Kristopher De Asis,Canada,291
-Timothy Ithurbure,Netherlands,291
 Simon Westlund,Sweden,291
-Laura Holzhauer,Germany,291
 Michał Pleskowicz,Poland,291
-Yichuan Xie (谢逸川),China,290
+Kristopher De Asis,Canada,291
+Laura Holzhauer,Germany,291
+Timothy Ithurbure,Netherlands,291
 Fabio Schwandt,United Kingdom,290
+Kim Jokinen,Finland,290
 Jérôme Carlier,Belgium,290
 Steven Kearns,United Kingdom,290
-Kim Jokinen,Finland,290
-Hanns Hub,Germany,289
+Yichuan Xie (谢逸川),China,290
 Yan Xia (夏炎),China,289
+Hanns Hub,Germany,289
 Willem Klose,Germany,288
-Mitja Popovski,Slovenia,288
 Yu Zhou (周煜),China,288
+Mitja Popovski,Slovenia,288
 Ryota Futagami (二神亮太),Japan,287
 Jing Jia (贾婧),China,286
-Manuel Prieto de Antón,Spain,285
 João Pedro de Ornellas Cardoso,Brazil,285
 Zachary McWilliams,USA,285
-Zach Wilbur,USA,284
+Manuel Prieto de Antón,Spain,285
 Xin Tang (唐薪),China,284
-Andreas Askjem,Norway,283
+Zach Wilbur,USA,284
 Matthieu Aubert,France,283
+Andreas Askjem,Norway,283
 Carlos Pedro Casado de Achával,Argentina,279
 Jeff Park,USA,279
-Yongqiang Peng (彭永强),China,277
 Haoran Wang (汪浩然),China,277
+Yongqiang Peng (彭永强),China,277
+Anirudh Sureshram,India,276
 Shant Tonoyan,Armenia,276
 Andrey Ivanov,Russia,276
-Anirudh Sureshram,India,276
-Siah Yee Long,Singapore,274
 Samuel Baird,USA,274
-Chong-Cheng Wang (汪忠正),Taiwan,273
+Siah Yee Long,Singapore,274
 Jintao Jin (金锦涛),China,273
-Tianping Ding (丁天平),China,273
 Michael Zavalza,USA,273
-Yanfeng Zhu (朱艳枫),China,272
+Tianping Ding (丁天平),China,273
+Chong-Cheng Wang (汪忠正),Taiwan,273
 Mauricio Ademar Carlos Avila,Mexico,272
+Yanfeng Zhu (朱艳枫),China,272
 Matej Bolta,Slovenia,271
 Takafumi Sakakibara (榊原隆文),Japan,270
+Gabriel Alejandro Orozco Casillas,Mexico,269
 Bowen Xiao (肖博文),China,269
 Sebastian Werb,Germany,269
-Gabriel Alejandro Orozco Casillas,Mexico,269
-Can Mao (毛灿),China,268
 Carlos Méndez García-Barroso,Spain,268
+Can Mao (毛灿),China,268
 Benjamin Meco,Sweden,268
-Will Callan,USA,267
 Tyler Salburg,Australia,267
+Will Callan,USA,267
 Erik Akkersdijk,Netherlands,266
 Zach Ramer,Canada,266
-Bin Huang (黄斌),China,265
 Yiquan Ling (凌艺全),China,265
 Oscar Nieto,Colombia,265
+Bin Huang (黄斌),China,265
 Andrei Solntsev,Estonia,264
 Le Yu (余乐),China,262
 Enzo Mattos,Brazil,262
 Jingyang Zhang (张靖阳),China,261
 Lee Seung Ha (이승하),Korea,261
 Mark Adams,United Kingdom,260
-Fengyi Wang (王峰熠),China,258
 Timon Veurink,Netherlands,258
+Fengyi Wang (王峰熠),China,258
+Pranav Veera,USA,257
 Tyler Marr,USA,257
 Linus Frész,Germany,257
-Pranav Veera,USA,257
-Vladislav Trukhanovich,Belarus,256
 Will Wooden,USA,256
-Yiming Liu (刘一鸣),China,255
-Jia-Wei Liu (劉家瑋),Taiwan,255
+Vladislav Trukhanovich,Belarus,256
 Yong Hyeon Jo (조용현),Korea,255
 Bértil Estrugo,Uruguay,255
+Yiming Liu (刘一鸣),China,255
+Jia-Wei Liu (劉家瑋),Taiwan,255
 Christopher Cabrera,USA,254
-Raúl Morales Hidalgo,Spain,253
 Johan Hilmi Bin Nor Ashraf,Malaysia,253
+Raúl Morales Hidalgo,Spain,253
 Jimin Byeon (변지민),Korea,253
 Zhijian Zhang (张志坚),China,251
 Samuel Fang,USA,250
 Mihail Petrochenkov,Russia,250
 Ruoyu Xia (夏若愚),China,249
-Alberto Pérez de Rada Fiol,Spain,248
 Wojciech Knott,Poland,248
+Alberto Pérez de Rada Fiol,Spain,248
 Dongyun Yin (殷冬昀),China,247
 Cormac Farrell,United Kingdom,246
 William Tao,Australia,244
 Bruno Vervoort,Belgium,243
 Deni Mintsaev (Дени Минцаев),Russia,242
-Yehude Rudy Canaza Apaza,Peru,242
 Baiqiang Dong (董百强),China,242
+Yehude Rudy Canaza Apaza,Peru,242
 Dennis Strehlau,Germany,241
 Alex Boyle,Australia,240
-Yota Ueda (上田陽太),Japan,240
 Carl Abrahamsen,Norway,240
+Yota Ueda (上田陽太),Japan,240
 Mayur Ukey,India,239
 Acchyut Jolly,India,239
 Tyler Robinson,USA,238
-Zhiyang Chen (陈至扬),China,237
-Bryson Azzopardi,Australia,237
 Junhe Zhang (张钧鹤),China,237
+Bryson Azzopardi,Australia,237
 Yucheng Chen (陈裕铖),China,237
-Gang Yong-Jin,Korea,235
-Kamil Pomietło,Poland,235
+Zhiyang Chen (陈至扬),China,237
 Ryan Przybocki,USA,235
-Andreas Pohl,Germany,234
+Kamil Pomietło,Poland,235
+Gang Yong-Jin,Korea,235
 Bill Wang,Canada,234
+Andreas Pohl,Germany,234
 Kazuki Sakamoto (坂本一樹),Japan,233
 Nathaniel Gee,USA,232
-Jinghui Suo (索晶辉),China,232
-JaeSeong Choe (최재성),Korea,232
 Sean Skinner,USA,232
+JaeSeong Choe (최재성),Korea,232
+Jinghui Suo (索晶辉),China,232
 Dmitry Karyakin,Russia,232
 Noah Arthurs,USA,231
 Roberto Bentivoglio,Italy,229
-Eli Jay,United Kingdom,228
 Lakshay Modi,India,228
-Pranav Banerjee,India,226
+Eli Jay,United Kingdom,228
 Jayden McNeill,Australia,226
+Pranav Banerjee,India,226
 Corentin Furet,France,224
-Dominik Pasztetnik,Poland,223
-Dalton Padgett,USA,223
 Jenson Brown,USA,223
+Dalton Padgett,USA,223
+Dominik Pasztetnik,Poland,223
 Xingyan Ding (丁醒炎),China,222
 Ryan DeLine,USA,222
 Daniele Panna,Italy,221
-Shun Yao (姚舜),China,221
 Simon Lim (林少秋),Philippines,221
-Sergio Bodega Herráiz,Spain,221
 Yuchao Zhang (张昱超),China,221
+Sergio Bodega Herráiz,Spain,221
 Sakari Rautalin,Finland,221
+Shun Yao (姚舜),China,221
 Ciarán Beahan,Ireland,219
 Paarth Arora,India,219
 Miguel Angel Ariza,Colombia,218
 Heng Wang (王衡),China,216
-Chester Lian,Malaysia,215
-Hippolyte Moreau,France,215
 Max Day,United Kingdom,215
 Yikang Xie (谢轶康),China,215
+Hippolyte Moreau,France,215
+Chester Lian,Malaysia,215
 Taku Yanai (矢内拓),Japan,213
 Artem Melikian (Артем Мелікян),Ukraine,213
 Simon Shimel,USA,213
 James Hildreth,USA,212
+Fazhen Wu (吴法臻),China,211
 Yulia Kamaltdinova,Russia,211
 Chun Lin (林春),China,211
-Fazhen Wu (吴法臻),China,211
 Kotaro Terada (寺田晃太朗),Japan,211
-Riley Woo,USA,210
-Karthikeyan Eswaran,India,210
 Zeshaan Khokhar,Australia,210
+Karthikeyan Eswaran,India,210
+Riley Woo,USA,210
 Stanisław Szyszka,Poland,209
 Shuhei Omura (大村周平),Japan,209
-Mohammad Ibnu Sabilillah,Indonesia,207
-Mason Langenderfer,USA,207
 Corey Sakowski,USA,207
+Mason Langenderfer,USA,207
+Mohammad Ibnu Sabilillah,Indonesia,207
 Robin Michaud,France,205
-Wilhelm Kilders,Germany,205
 José David Castiblanco Marin,Colombia,205
+Wilhelm Kilders,Germany,205
+Michal Málek,Czech Republic,204
 Robert Paus,Germany,204
 Timo Forsthofer,Germany,204
-Michal Málek,Czech Republic,204
 Thomas Lehéricy,France,204
+Tim Wong,USA,203
+Taha Ben Salah,Tunisia,203
+Ishaan Agrawal,USA,203
+Yongtao Sun (孙永涛),China,203
 Yunke Zhang (张云柯),China,203
 Rami Sbahi,USA,203
-Taha Ben Salah,Tunisia,203
-Yongtao Sun (孙永涛),China,203
-Tim Wong,USA,203
-Ishaan Agrawal,USA,203
-Jun Xu (徐俊),China,201
 Chunyu Zhang (张春雨),China,201
+Jun Xu (徐俊),China,201
 Hongbin Chang (常宏彬),China,200
 Vladimir Korovin,Russia,199
 Gonzalo Orellana Barrasa,Spain,199
 Joey Stahl,USA,197
 Conor Cronin,South Africa,196
 M Aashrit Krishna Sankaran,India,195
-Rodrigo Pueblas Núñez,Spain,194
 Yu Nakajima (中島悠),Japan,194
+Rodrigo Pueblas Núñez,Spain,194
 Cendy Cahyo Rahmat,Indonesia,192
 Christopher Olson,USA,191
-Matěj Mužátko,Czech Republic,190
 Raquel Mendivelso,Colombia,190
+Matěj Mužátko,Czech Republic,190
 Akira Misawa (三沢昂),Japan,190
-Aidan Sleavin,USA,188
-Angel Lim,USA,188
 Marcell Endrey,Hungary,188
+Aidan Sleavin,USA,188
 Ben Zoller,USA,188
+Angel Lim,USA,188
 Han Dong-Hee (한동희),Korea,187
-Aldo Feandri,Indonesia,186
 Jadd Virji,United Kingdom,186
+Aldo Feandri,Indonesia,186
 Mark Yarovoi (Марк Яровой),Ukraine,185
 Marcel Peters,Germany,184
 John Allums,USA,183
 Zhiyuan Ma (马之元),China,182
-Parker Powell,USA,181
 Bartłomiej Sordyl,Poland,181
+Parker Powell,USA,181
 Javier Tirado Ortiz,Spain,181
-Axel Häck,Germany,180
 Siva Shanmukh Vetcha,India,180
+Axel Häck,Germany,180
 Julian David,Canada,180
 Yunsu Nam (남윤수),Korea,180
-Howie Craig,USA,178
-Ivo Bakker,Netherlands,178
 Ben Ridley,United Kingdom,178
 Zach Emery,USA,178
+Howie Craig,USA,178
+Ivo Bakker,Netherlands,178
 Vladimir Zhuravlev,Russia,176
-Sergio Torrijos Santano,Spain,176
 Moanish C. S. Barathiar,India,176
 Yuji Suse (巣瀬雄史),Japan,176
-Fritz Löhr,Germany,175
+Sergio Torrijos Santano,Spain,176
 Prashanth Rebala,India,175
-Jia Zeng (曾嘉),China,173
-Piotr Janecki,Poland,173
+Fritz Löhr,Germany,175
 Ryo Kozawa (小澤諒),Japan,173
+Piotr Janecki,Poland,173
+Jia Zeng (曾嘉),China,173
 Zhizhe Liang (梁稚喆),China,173
-Max Hilliard,USA,170
 Matteo Colombo,Italy,170
-Vivek Prasad Mada,India,170
 Radosław Drozdowicz,Poland,170
-Yuto Hayaki (早木悠斗),Japan,169
+Vivek Prasad Mada,India,170
+Max Hilliard,USA,170
 AJ Blair,USA,169
+Yuto Hayaki (早木悠斗),Japan,169
 Lucas Wesche,Germany,168
-Aleksander Wellinski,Poland,167
 Xiaobo Hou (侯晓博),China,167
 Tomasz Tokarski,Poland,167
+Aleksander Wellinski,Poland,167
 Patrick Kern,Germany,166
 Maarten Smit,Netherlands,165
 Jakob Kogler,Austria,165
-Evan Brown,USA,163
-Branko Kobal,Slovenia,163
+Felix Lee,USA,163
 Qingbin Chen (陈庆斌),China,163
-Wojciech Szatanowski,Poland,163
+Branko Kobal,Slovenia,163
 Denys Lazarenko (Денис Лазаренко),Ukraine,163
 Sydney Weaver,USA,163
-Felix Lee,USA,163
-Jonathan Midjord Shapira,Denmark,162
+Evan Brown,USA,163
+Wojciech Szatanowski,Poland,163
 Alexander Gorchackov,Russia,162
-Ivan Zabrodin,Russia,161
+Jonathan Midjord Shapira,Denmark,162
 Michael Young,USA,161
 Kyra Joiner,USA,161
+Ivan Zabrodin,Russia,161
 Mimmi Leckius,Sweden,161
 Harish Chandramouleeswaran,India,160
 Jiacheng Peng (彭家诚),China,160
 Henrik Olsson,Sweden,160
-Ha Min Oh (오해민),Korea,159
 Daniel Kottenstette,USA,159
 Nick Vu,USA,159
+Ha Min Oh (오해민),Korea,159
 François Courtès,France,159
 Dan Sarnelli,USA,158
-Cristina Orenes Conesa,Spain,157
 Vojtěch Dvořák,Czech Republic,157
+Cristina Orenes Conesa,Spain,157
 Yumu Tabuchi (田渕雄夢),Japan,157
 Shiori Sato (佐藤詩織),Japan,156
 Jinzheng Li (李金铮),China,155
@@ -922,18 +922,18 @@ Gilberto Caracciolo Morelli,Brazil,155
 Cyril Barigand,Belgium,155
 Marcin Zalewski,Poland,153
 Anthony Hsu,USA,152
+Zhaoli Zheng (郑召利),China,152
 Zane Carney,Australia,152
 Arvis Tilgalis,Latvia,152
-Zhaoli Zheng (郑召利),China,152
 Sanae Omyo (大名佐苗),Japan,151
+Didiet Aditya Bayu Kusuma,Indonesia,150
+Lucas Garron,Germany,150
 Arrik Leman,USA,150
 Alessandro Solito,Italy,150
-Lucas Garron,Germany,150
-Didiet Aditya Bayu Kusuma,Indonesia,150
 Yusuke Morikawa (森川裕介),Japan,149
 Luis Davila,USA,149
-Axel Brisse,France,149
 Shubhayan Kabir,India,149
+Axel Brisse,France,149
 Daniel Sheppard,United Kingdom,148
 Hisashi Fukai (深井寿),Japan,148
 Sei Sugama (洲鎌星),Japan,147
@@ -941,61 +941,61 @@ Lars Vennike Nielsson,Denmark,147
 Yuxin Wang (王宇欣),China,146
 Timothy Sun,USA,146
 Martin Zamudio Lemus,Mexico,145
-Muhammad Iril Khairul Anam,Indonesia,144
 Rodrigo Zarate,Peru,144
+Muhammad Iril Khairul Anam,Indonesia,144
 Clément Gallet,France,142
-Riadi Arsandi,Indonesia,141
 Janne Lehtimäki,Finland,141
 Wenshun Zhou (周文舜),China,141
+Riadi Arsandi,Indonesia,141
 Kai Jiptner,Germany,141
 Nicolas Fitzgerald Muñoz Herrera,Colombia,140
-Chris Wall,United Kingdom,139
 Anton Krokhmal (Антон Крохмаль),Ukraine,139
-Kui-Yo Chen (陳奎佑),Taiwan,139
 Zhongguang Que (阙忠光),China,139
-Akula Pavan Kumar,India,139
 Robert Yau,United Kingdom,139
+Kui-Yo Chen (陳奎佑),Taiwan,139
+Chris Wall,United Kingdom,139
+Akula Pavan Kumar,India,139
 Asa Kaplan,USA,137
 Pierre Bouvier,France,137
 Artem Savosik,Belarus,137
 Qirun Zhong (钟奇润),China,136
+Billy Jeffs,United Kingdom,136
 Dan Cohen,USA,136
 Jianyu Que (阙剑宇),China,136
-Billy Jeffs,United Kingdom,136
 Ilham Fikriya Darmawan,Indonesia,134
+Rafał Guzewicz,Poland,133
+Micael Boulet,Canada,133
 Arvid Skarrie,Sweden,133
 Hong Zhang (张宏),China,133
-Micael Boulet,Canada,133
 Tomoki Kubo (久保友樹),Japan,133
-Rafał Guzewicz,Poland,133
 Bernett Orlando,India,132
 Jiawen Wu (吴嘉文),China,132
 Jong-Ho Jeong (정종호),Korea,132
 Hung Lo (羅鴻),Taiwan,131
-Ben Whitmore,United Kingdom,130
-Moritz Karl,Germany,130
 Shintaro Nishijo,Japan,130
+Ben Whitmore,United Kingdom,130
 Aan Candra Nugroho,Indonesia,130
-Jason Baum,USA,129
+Moritz Karl,Germany,130
 Ralph Eikelenberg,Netherlands,129
-Mao-te Hsieh (謝茂德),Taiwan,128
-JP Bulman,USA,128
+Jason Baum,USA,129
 Mo Ji (季默),China,128
 Adam Lärkeryd,Sweden,128
+Mao-te Hsieh (謝茂德),Taiwan,128
+JP Bulman,USA,128
 Hampus Hansson,Sweden,127
 Oleksii Bessonov (Олексій Бессонов),Ukraine,127
 Alexey Oblaukhov,Russia,126
-Adam Ahmad,USA,125
 Alex Cook,USA,125
+Adam Ahmad,USA,125
 Thomas Müller,Germany,124
+Kieran Cavanagh,USA,124
 Dragan Okanović,Serbia,124
 Denys Zhytnyk (Денис Житник),Ukraine,124
-Alex Ozer,USA,124
 Fakhri Raihaan,Indonesia,124
-Kieran Cavanagh,USA,124
+Alex Ozer,USA,124
 Tim Habermaas,Germany,123
 Anton Rostovikov,Russia,123
 Ville Seppänen,Finland,123
 Casarengga,Indonesia,123
-Cornelius Dieckmann,Germany,122
 Daniel Lundwall,Sweden,122
+Cornelius Dieckmann,Germany,122
