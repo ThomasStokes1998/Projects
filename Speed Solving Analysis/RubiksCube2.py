@@ -1,5 +1,9 @@
 import numpy as np
+import pandas as pd
 import matplotlib.pyplot as plt
+
+allmovestates = pd.read_csv("optallmoves.csv")
+sixmovestates = pd.read_csv("opt6moves.csv")
 
 
 class Cube2:
@@ -24,6 +28,9 @@ class Cube2:
         self.rotations = ["", "x", "x'", "x2", "y", "y'", "y2", "z", "z'", "z2", "xy", "xy2", "xy'", "x'y", "x'y'",
                           "x'y2", "x2y", "x2y'", "xz", "xz'", "x'z", "x'z'", "x2z", "x2z'"]
         self.colour = colours
+        self.letters = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
+        self.amstates = allmovestates.columns
+        self.smstates = sixmovestates.columns
 
     # Functions
     # Turning the cube
@@ -66,6 +73,26 @@ class Cube2:
         else:
             return print("Invalid move!")
 
+    # Finds all moves up to a given depth
+    def moveCombo(self, depth=6):
+        if depth == 1:
+            return self.poss_moves
+        else:
+            z = [self.poss_moves]
+            for d in range(depth - 1):
+                lastmoves = z[d]
+                newmoves = []
+                for lm in lastmoves:
+                    if lm[len(lm) - 1] == "'" or lm[len(lm) - 1] == "2":
+                        laststr = lm[len(lm) - 2]
+                    else:
+                        laststr = lm[len(lm) - 1]
+                    for m in self.poss_moves:
+                        if m[0] != laststr:
+                            newmoves.append(lm + m)
+                z.append(newmoves)
+        return z
+
     # Converts a string of moves into a list with their individual moves
     def qtm(self, turns: str):
         X = []
@@ -106,6 +133,67 @@ class Cube2:
                 ns.append(n)
                 l += 1
         return s
+
+    # Encodes a state as a string
+    def encodeScramble(self, scramble: str, state=None) -> str:
+        if state is None:
+            state = self.solved
+        nstate = Cube2().move_sim(scramble, state)
+        e = ""
+        for s in nstate:
+            e += self.letters[s]
+        return e
+
+    # Inverts a scramble
+    def invertScramble(self, scramble: str) -> str:
+        inv = ""
+        qscramble = Cube2().qtm(scramble)
+        for i in range(len(qscramble)):
+            s = qscramble[-i - 1]
+            if "'" in s:
+                inv += s[0]
+            elif len(s) == 1:
+                inv += s + "'"
+            else:
+                inv += s
+        return inv
+
+    # Finds the optimal solution for a scramble
+    def optimalSolution(self, scramble, initstate=None):
+        optlength = 12
+        optsoln = ""
+        uniquemoves = Cube2().moveCombo(5)
+        if initstate is None:
+            initstate = self.solved
+        for rot in ["", "y", "y2", "y'", "x2", "x2y", "x2y2", "x2y'"]:
+            # Checks if the scramble can be solved in 6 moves or less
+            init_ms = Cube2().move_sim(scramble + rot, initstate)
+            init_encode = Cube2().encodeScramble(scramble + rot, initstate)
+            if init_encode in self.amstates:
+                optmoves = allmovestates[init_encode][0]
+                if ";" in optmoves:
+                    optmoves = optmoves.split(";")[0]
+                l = len(Cube2().qtm(optmoves))
+                if l < optlength:
+                    optsoln = rot + Cube2().invertScramble(optmoves)
+                    optlength = l
+            elif optlength > 6:
+                for d in range(min(5, optlength - 6)):
+                    umoves = uniquemoves[d]
+                    for um in umoves:
+                        new_encode = Cube2().encodeScramble(um, init_ms)
+                        if new_encode in self.smstates:
+                            optmoves = sixmovestates[new_encode][0]
+                            if ";" in optmoves:
+                                optmoves = optmoves.split(";")[0]
+                            l = len(Cube2().qtm(um+optmoves))
+                            if l < optlength:
+                                optsoln = rot + um + Cube2().invertScramble(optmoves)
+                                optlength = l
+                                break
+                    if d > optlength - 7:
+                        break
+        return optsoln
 
     # Simulates a given string of moves
     def move_sim(self, scramble: str, state=None):
@@ -181,4 +269,7 @@ class Cube2:
 
 # Test Visualisation
 if __name__ == "__main__":
-    Cube2().viscube(Cube2().scramble())
+    s = Cube2().scramble()
+    print("Scramble: ", s)
+    print("Optimal Solution:", Cube2().optimalSolution(s))
+    # Cube2().viscube(s)
