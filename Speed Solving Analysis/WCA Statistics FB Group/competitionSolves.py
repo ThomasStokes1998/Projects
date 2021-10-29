@@ -14,7 +14,7 @@ def competitionSolves(wcaid: str, compid: str):
     compsolves = solves[solves.competitionId == compid].reset_index(drop="index")
     lcs = len(compsolves)
     if lcs == 0:
-        return print("Enter a valid competition.")
+        return print("Enter a valid competition or wcaid.")
     total_solves = 0
     for i in range(lcs):
         eventid = compsolves.eventId[i]
