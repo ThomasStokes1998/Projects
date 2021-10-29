@@ -14,7 +14,7 @@ def competitionSolves(wcaid: str, compid: str):
     total_solves = 0
     for i in range(lcs):
         eventid = compsolves.eventId[i]
-        # See README.md file for how multibld scrambles are encoded
+        # See README.md file in WCA DB for how multibld results are encoded
         if eventid == "333mbf":
             for j in range(1, 6):
                 attempt = compsolves[f"value{j}"][i]
