@@ -2,10 +2,6 @@ import pandas as pd
 
 low_memory = False
 results = pd.read_csv('WCA Database/WCA_export_Results.tsv', delimiter='\t')
-persons = pd.read_csv('WCA Database/WCA_export_Persons.tsv', delimiter='\t')
-
-persons = persons[persons.subid == 1].reset_index(drop="index")
-
 
 # A function that checks how many solves someone has done in a competition
 
