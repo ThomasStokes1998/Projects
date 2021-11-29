@@ -5,7 +5,7 @@ from RubiksCube2 import Cube2
 
 # The frequency of 2x2 scrambles by optimal solution length by delegate,
 # also rankings of top 10 in terms of 4 move 2x2 solutions sorted by count of solutions descending.
-# 222 Dist: μ = 8.400, σ = 1.080 skew = -0.950
+# 222 Dist: μ = 8.759, σ = 0.883 skew = -0.836
 
 # results = pd.read_csv('WCA Database/WCA_export_Results.tsv', delimiter='\t')
 competitions = pd.read_csv('WCA Database/WCA_export_Competitions.tsv', delimiter='\t')
@@ -28,7 +28,7 @@ def getDelegate(comp):
 
 
 imported = True
-lastcount = 4500
+lastcount = 4500 # This took a while to do so I made saves every 100 competitions (~30mins)
 if imported:
     print("Started importing last save")
     delegate_222 = {}
@@ -147,7 +147,7 @@ print(
     df.sort_values("4 moves", ascending=False).head(10).reset_index(drop="index")[["Delegate", "Scrambles", "4 moves"]])
 for i in range(8):
     df[f"{i + 4} moves%"] = wc[f"{i + 4}moves"]
-    df.drop([f"{i + 4} moves"], axis=1)
+    df = df.drop([f"{i + 4} moves"], axis=1)
 df.sort_values("4 moves%", ascending=False).to_csv(f"2x2DistByDelegateWeighted.csv", index=False)
 print("=" * 20 + " Weighted (%) " + "=" * 20)
 print(df.sort_values("4 moves%", ascending=False).head(10).reset_index(drop="index")[
