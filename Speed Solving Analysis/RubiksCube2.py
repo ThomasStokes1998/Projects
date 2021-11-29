@@ -158,27 +158,40 @@ class Cube2:
                 inv += s
         return inv
 
+    # Removes space between moves
+    def cleanScramble(self, scramble: str) -> str:
+        cs = ""
+        for x in scramble:
+            if x != " ":
+                cs += x
+        return cs
+
     # Finds the optimal solution for a scramble
-    def optimalSolution(self, scramble, initstate=None):
+    def optimalSolution(self, scramble, initstate=None, info=False, ftrack=False):
         optlength = 12
         optsoln = ""
         uniquemoves = Cube2().moveCombo(5)
         if initstate is None:
             initstate = self.solved
-        for rot in ["", "y", "y2", "y'", "x2", "x2y", "x2y2", "x2y'"]:
+        if ftrack:
+            orientations = [""]
+        else:
+            orientations = ["", "y", "y2", "y'", "x2", "x2y", "x2y2", "x2y'"]
+        for rot in orientations:
+            irot = Cube2().invertScramble(rot)
             # Checks if the scramble can be solved in 6 moves or less
-            init_ms = Cube2().move_sim(scramble + rot, initstate)
-            init_encode = Cube2().encodeScramble(scramble + rot, initstate)
+            init_ms = Cube2().move_sim(rot + scramble + irot, initstate)
+            init_encode = Cube2().encodeScramble(rot + scramble + irot, initstate)
             if init_encode in self.amstates:
                 optmoves = allmovestates[init_encode][0]
                 if ";" in optmoves:
                     optmoves = optmoves.split(";")[0]
                 l = len(Cube2().qtm(optmoves))
                 if l < optlength:
-                    optsoln = rot + Cube2().invertScramble(optmoves)
+                    optsoln = irot + Cube2().invertScramble(optmoves)
                     optlength = l
-            elif optlength > 6:
-                for d in range(min(5, optlength - 6)):
+            elif optlength > 7:
+                for d in range(min(5, optlength - 7)):
                     umoves = uniquemoves[d]
                     for um in umoves:
                         new_encode = Cube2().encodeScramble(um, init_ms)
@@ -186,14 +199,54 @@ class Cube2:
                             optmoves = sixmovestates[new_encode][0]
                             if ";" in optmoves:
                                 optmoves = optmoves.split(";")[0]
-                            l = len(Cube2().qtm(um+optmoves))
+                            l = len(Cube2().qtm(um + optmoves))
                             if l < optlength:
-                                optsoln = rot + um + Cube2().invertScramble(optmoves)
+                                optsoln = irot + um + Cube2().invertScramble(optmoves)
                                 optlength = l
                                 break
                     if d > optlength - 7:
                         break
-        return optsoln
+        if info:
+            return optsoln, optlength
+        else:
+            return optsoln
+
+    # Checks if a scramble can be solved in less than n moves
+    def isSolvableUnder(self, scramble, n, initstate=None, ftrack=False):
+        if n >= 11:
+            return True
+        if initstate is None:
+            initstate = self.solved
+        uniquemoves = Cube2().moveCombo(5)
+        if ftrack:
+            orientations = [""]
+        else:
+            orientations = ["", "y", "y2", "y'", "x2", "x2y", "x2y2", "x2y'"]
+        for rot in orientations:
+            irot = Cube2().invertScramble(rot)
+            # Checks if the scramble can be solved in 6 moves or less
+            init_ms = Cube2().move_sim(rot + scramble + irot, initstate)
+            init_encode = Cube2().encodeScramble(rot + scramble + irot, initstate)
+            if init_encode in self.amstates:
+                optmoves = allmovestates[init_encode][0]
+                if ";" in optmoves:
+                    optmoves = optmoves.split(";")[0]
+                l = len(Cube2().qtm(optmoves))
+                if l <= n:
+                    return True
+            if n > 6:
+                for d in range(n - 6):
+                    umoves = uniquemoves[d]
+                    for um in umoves:
+                        new_encode = Cube2().encodeScramble(um, init_ms)
+                        if new_encode in self.smstates:
+                            optmoves = sixmovestates[new_encode][0]
+                            if ";" in optmoves:
+                                optmoves = optmoves.split(";")[0]
+                            l = len(Cube2().qtm(um + optmoves))
+                            if l <= n:
+                                return True
+        return False
 
     # Simulates a given string of moves
     def move_sim(self, scramble: str, state=None):
@@ -269,7 +322,11 @@ class Cube2:
 
 # Test Visualisation
 if __name__ == "__main__":
-    s = Cube2().scramble()
+    import time
+
+    s = Cube2().scramble(11)
+    # s = "x2RU'R'x2"
     print("Scramble: ", s)
-    print("Optimal Solution:", Cube2().optimalSolution(s))
-    # Cube2().viscube(s)
+    t = time.perf_counter()
+    print("Optimal Solution: ", Cube2().optimalSolution(s, info=True))
+    print("Time Taken: ", time.perf_counter() - t)
