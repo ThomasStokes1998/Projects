@@ -16,5 +16,5 @@ Have a look at the 'WCA Statistics FB Group' folder for examples of statistics I
 
 In this folder there are examples of Python scripts I have written to do with Rubik's Cubes. Below is a brief description of the files:
 * RubiksCube.py - A class that simulates a 3x3x3 Rubik's Cube. Note some features such as solvers will not work without external files.
-* RubiksCube2.py - A class that simulates a 2x2x2 Rubik's Cube. This can solve a 2x2x2 Rubik's Cube.
+* RubiksCube2.py - A class that simulates a 2x2x2 Rubik's Cube.
 * blind.py - Uses the RubiksCube.py file to find letters used in memorisation for blind folded solving. 
