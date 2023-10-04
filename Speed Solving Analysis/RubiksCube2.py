@@ -92,7 +92,7 @@ class Cube2:
             s = self.turn(m_,s)
         return s
 
-    # Encodes a state as tuple of two integers representing the orientation and
+    # Encodes a state as an integer made of the orientation and
     # permutation of the pieces
     def encodeState(self, scramble: str=None, state: list=None) -> str:
         if state is None:
