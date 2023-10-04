@@ -623,6 +623,52 @@ class Cube:
                         break
         return cp, udp, mp
 
+    def encodeBlock(self, scramble:str=None, state:list=None, corners=[5], edges=[5,8,9,10,11], tupleenc:bool=True):
+        cl, el = len(corners), len(edges)
+        orientation, permutation = self.oriPerState(scramble, state)
+        cornerinv = {c:i for i,c in enumerate(corners)}
+        edgeinv = {e:i for i,e in enumerate(edges)}
+        co, cp, eo, ep = 0, 0, 0, 0 
+        cornerorder = [] # Order the corner appear in the scramble
+        cornerpositions = [] # Positions of the corner pieces
+        edgeorder = [] # Order the edges appear in the scramble
+        edgepositions = [] # Positions of the edge pieces
+        for i, p in enumerate(permutation):
+            if i < 8 and p in corners:
+                co += orientation[i] * 3 ** len(cornerorder)
+                cornerorder.append(i)
+                cornerpositions.append(cornerinv[p])
+            elif  i >= 8 and p in edges:
+                eo += orientation[i] * 2 ** len(edgeorder)
+                edgeorder.append(i-8)
+                edgepositions.append(edgeinv[p])
+
+        permutedcorners = [i for i in range(cl)]
+        for i, p in enumerate(cornerpositions):
+            for j, c in enumerate(permutedcorners):
+                if p == c:
+                    permutedcorners.remove(c)
+                    cp += math.factorial(cl-1-i)*j
+                    break
+
+        cp = self.encodeOrderedPieces(cornerorder, n=8) + math.comb(8, cl) * cp
+
+        permutededges = [i for i in range(el)]
+        for i, p in enumerate(edgepositions):
+            for j, c in enumerate(permutededges):
+                if p == c:
+                    permutededges.remove(c)
+                    ep += math.factorial(el-1-i)*j
+                    break
+
+        ep = self.encodeOrderedPieces(edgeorder, n=12) + math.comb(12, el) * ep
+        maxc, maxe = 3 ** cl, 2 ** el
+        if len(corners) == 0:
+            return eo + maxe * ep
+        if tupleenc:
+            return co + maxc * cp, eo + maxe * ep
+        return co + maxc * eo + maxc * maxe * cp + maxc * maxe * math.comb(8,cl) * math.factorial(cl) * ep
+
     # Creates a bitmap with specified dimensions
     def createBitMap(self, bitmapdim:tuple) -> list:
         cases = 1
@@ -648,22 +694,29 @@ class Cube:
         return bitmap, False
 
     # Updates a dictionary given a new entry
-    def updateDict(self, d:int, enc:tuple, states:dict):
+    def updateDict(self, d:int, enc:tuple, states:dict,pruntable:bool=True):
         newenc = False
         allstates_ = states
         for j, e in enumerate(enc):
             if newenc:
                 if j == len(enc) - 2:
-                    allstates_[e] = {enc[-1]:d}
+                    if pruntable:
+                        allstates_[e] = {enc[-1]:d}
+                    else:
+                        allstates_[e] = [enc[-1]]
                     break
                 elif j == len(enc) - 1:
-                    allstates_[e] = d
+                    if pruntable:
+                        allstates_[e] = d
                     break
                 allstates_[e] = {}
                 allstates_ = allstates_[e]
             elif e not in allstates_:
                 if j == len(enc) - 1:
-                    allstates_[e] = d
+                    if pruntable:
+                        allstates_[e] = d
+                    else:
+                        allstates_.append(e)
                     newenc = True
                     break
                 allstates_[e] = {}
@@ -688,7 +741,7 @@ class Cube:
                 bitmap = self.createBitMap(bitmapdim)
         states = {}
         symmetric_states = {}
-        enc = encodeState("")
+        enc = encodeState("")[1:]
         if type(enc) is int:
             if bitmapdim is not None:
                 bitmap[enc] = True
@@ -733,7 +786,7 @@ class Cube:
                     elif d > 2 and n[0] in ["F", "B"] and h[-1][0] in ["F", "B"] and h[-2][0] in ["F", "B"]:
                         continue
                     statemn = self.moveSim(n, statem, True)
-                    enc = encodeState(state=statemn)
+                    enc = encodeState(state=statemn)[1:]
                     # Check if a state is a duplicate
                     newenc = False
                     if type(enc) is int:
@@ -755,7 +808,7 @@ class Cube:
                     for sym in symmetries:
                         syminv = self.invertMoves(sym)
                         symstate = symetricstates[sym]
-                        conjenc = encodeState(m+n+syminv,symstate)
+                        conjenc = encodeState(m+n+syminv,symstate)[1:]
                         if type(conjenc) is int:
                             if conjenc in symmetric_states:
                                 newsym = False
@@ -786,12 +839,194 @@ class Cube:
             moves = newmoves
         return states, symmetric_states
 
+    # General function for solving a phase
+    def solvePhase(self, encodePhase, phasemoves: list=None, iterphasemoves: list=None, scramble: str=None, state: dict=None, 
+    maxdepth: int=None, pruntree: dict=None, maxprundepth: int=6, encodeState=None, finalphase:bool=False, startprintdepth: int=5,
+    maxphasesize: int=None, bitmapdim:tuple=None, printinfo:bool=False) -> tuple:
+        if scramble is not None:
+            state = self.moveSim(scramble, state)
+        if encodeState is None:
+            encodeState = self.encodeState
+        # Most of the time phasemoves and iterphasemoves will be the same list
+        if iterphasemoves is None:
+            iterphasemoves = phasemoves
+        if phasemoves is None:
+            phasemoves = self.poss_moves[1:]
+        if maxphasesize is None:
+            maxphasesize = 2 * maxprundepth - 1
+        if maxdepth is None:
+            findingmaxdepth = True
+        else:
+            findingmaxdepth = False
+        if finalphase:
+            foundsoln = False
+        if pruntree is None:
+            t0 = time.time()
+            print("Started generating pruning tree.")
+            pruntree = self.generatePrunTable(encodePhase, iterphasemoves, maxprundepth, 100_000, bitmapdim)
+            print(f"Generated pruning tree. {formatTime(time.time()-t0)}")
+        if bitmapdim is not None:
+            if type(bitmapdim) is int:
+                bitmap = [False] * bitmapdim
+            else:
+                bitmap = self.createBitMap(bitmapdim)
+        # Quickly rule out final phase solutions later on in search when the max final phase is small
+        enc = encodePhase(state=state)
+        if type(enc) is int:
+            if enc in pruntree:
+                pruntree_ = pruntree[enc]
+            else:
+                pruntree_ = {}
+        else:
+            pruntree_ = pruntree
+            
+            if type(enc) is not tuple:
+                if enc in pruntree:
+                    pruntree_ = pruntree[enc]
+                else:
+                    pruntree_ = None
+            else:
+                for e in enc:
+                    if e not in pruntree_:
+                        break
+                    else:
+                        pruntree_ = pruntree_[e]
+        if type(pruntree_) is int and pruntree_ == 0:
+            return "", 0
+        if finalphase and maxdepth is not None and (type(pruntree_) is not int and maxdepth < maxprundepth or type(pruntree_) is int and pruntree_ >= maxdepth):
+            return "", maxdepth
+        
+        p1tree = {0:[""]}
+        enc = encodeState(None, state)
+        if bitmapdim is not None:
+            if type(enc) is int:
+                bitmap[enc] = True
+            else:
+                bitmap, _ = self.updateBitMap(bitmap, enc, bitmapdim)
+        else:
+            p1states = {}
+            p1states_ = p1states
+            for i, e in enumerate(enc):
+                if i == len(enc) - 2:
+                    p1states_[e] = [enc[-1]]
+                    break
+                p1states_[e] = {}
+                p1states_ = p1states_[e]
+        d = 1
+        t0 = time.time()
+        while maxdepth is None or maxdepth >= d:
+            p1tree[d] = []
+            if printinfo and d >= startprintdepth:
+                print(f"Started depth {d} | {len(p1tree[d-1])} {formatTime(time.time()-t0)}")
+            for _, m in enumerate(p1tree[d-1]):
+                statem = self.moveSim(m, state)
+                if d > 1:
+                    h = self.htm(m)
+                for n in phasemoves:
+                    # One move deep cancellations
+                    if d > 1 and n[0] == h[-1][0]:
+                        continue
+                    # Two move deep cancellations
+                    elif d > 2 and n[0] in ["L", "R"] and h[-1][0] in ["L", "R"] and h[-2][0] in ["L", "R"]:
+                        continue
+                    elif d > 2 and n[0] in ["U", "D"] and h[-1][0] in ["U", "D"] and h[-2][0] in ["U", "D"]:
+                        continue
+                    elif d > 2 and n[0] in ["F", "B"] and h[-1][0] in ["F", "B"] and h[-2][0] in ["F", "B"]:
+                        continue
+                    s = self.moveSim(n, statem, True)
+                    enc = encodePhase(state=s)
+                    prunstate = False
+                    # Check if the state is in the pruntree
+                    if maxdepth is None or maxdepth - d <= maxprundepth:
+                        inpruntree = True
+                        if type(enc) is int:
+                            if enc in pruntree:
+                                pruntree_ = pruntree[enc]
+                            else:
+                                inpruntree = False
+                                pruntree_ = None
+                        else:
+                            pruntree_ = pruntree
+                            for e in enc:
+                                if e not in pruntree_:
+                                    inpruntree = False
+                                    break
+                                else:
+                                    pruntree_ = pruntree_[e]
+                        if inpruntree:
+                            if type(pruntree_) is not int:
+                                print(f"Pruntree_ type = {type(pruntree_)}. Encoding = {enc}, moves ={m+n}")
+                                print(f"Pruntree_ = {pruntree_}")
+                            if finalphase and pruntree_ == 0:
+                                #print(f"enc = {enc}, moves = {m+n}, depth = {pruntree[enc]}")
+                                #print(f"wings = {s['wings']}")
+                                return m+n, maxdepth
+                            if maxdepth is None:
+                                maxdepth = pruntree_ + d
+                                if finalphase:
+                                    fpmoves = m+n
+                                    fpenc = enc
+                                    foundsoln = True
+                                elif printinfo:
+                                    print(f"Min depth = {maxdepth} {formatTime(time.time()-t0)}")
+                                p1tree[d] = []
+                            minlen = pruntree_ + d
+                            if minlen > maxdepth:
+                                prunstate = True
+                            elif (findingmaxdepth or finalphase) and minlen < maxdepth:  
+                                if finalphase:
+                                    fpmoves = m+n
+                                    fpenc = enc
+                                    foundsoln = True
+                                maxdepth = minlen
+                                if printinfo and not finalphase:
+                                    print(f"Min depth = {maxdepth} {formatTime(time.time()-t0)}")
+                                p1tree[d] = []
+                        elif maxdepth is not None and maxdepth - d <= maxprundepth:
+                            prunstate = True
+                    if not prunstate:
+                        enc = encodeState(state=s)
+                        # See if the state is a duplicate
+                        newenc = False
+                        if type(enc) is int:
+                            if bitmapdim is not None and not bitmap[enc]:
+                                bitmap[enc] = True
+                                newenc = True
+                            elif bitmapdim is None and enc not in p1states:
+                                p1states.append(enc)
+                                newenc = True
+                        else:
+                            p1states, newenc = self.updateDict(d, enc, p1states, False)
+                        if newenc:
+                            p1tree[d].append(m+n)
+            if finalphase and not foundsoln and maxdepth is not None and maxdepth - d <= maxprundepth:
+                return "", maxdepth
+            if maxdepth is not None and findingmaxdepth:
+                findingmaxdepth = False
+            if maxdepth is None and d >= maxphasesize - maxprundepth:
+                if finalphase:
+                    return None, maxdepth
+                return [], maxdepth
+            d += 1
+        if len(p1tree[maxdepth]) == 0:
+            print(f"Maxdepth = {maxdepth}")
+            if scramble is None:
+                print(state)
+            else:
+                print(scramble)
+            md = maxdepth - 1
+            while len(p1tree[md]) == 0:
+                md -= 1
+            print(f"fpenc {fpmoves} = {fpenc} | d={md} | moves = {p1tree[md]}")
+            return [], None
+        return p1tree[maxdepth], maxdepth
+
 if __name__ == "__main__":
     # Fix Rw2 edges (23 appears twice)
     rc = Cube()
-    dominomoves = ["U", "U2", "U'", "D", "D2", "D'", "L2", "R2", "F2", "B2"]
-    rc.generatePrunTable(rc.encodeKociembaPhase2, dominomoves, 10, 10_000, None, True, 
-    ["", "y", "y2", "y'", "x2", "x2y", "x2y2", "x2y'"])
+    rc.generatePrunTable(rc.encodeState, None, 10, 100_000, None, True)
+    scr = "R' U' F L2 D L U R2 F D F' R' D2 R U2 B2 D2 B2 R' F2 L2 F2 R' U' F"
+    
     
     
     
