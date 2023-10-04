@@ -7,8 +7,6 @@ import pandas as pd
 import tensorflow as tf
 from tensorflow import keras
 
-# Add a Play AlphaZero Feature
-
 class Node:
     def __init__(self, priorprob: float, val: float):
         self.wins = 0
