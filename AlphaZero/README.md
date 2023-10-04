@@ -24,3 +24,8 @@ In order to train AlphaZero for each node we get the probability of winning from
 and train AlphaZero's outputs to match that from the training data. This process is then repeated. Each time AlphaZero is training on games from a higher skilled 
 player meaning it continually improves itself. It took 18 training loops with 100,000 games per loop for AlphaGo (an early version of AlphaZero) to be better than 
 any human at Go.
+
+## My Test
+
+I also made an environment for a Connect 4 variant called Make 7 where the tiles are numbered and the goal is to be the first player to make a row of column
+of tiles that adds to make 7.
