@@ -1,4 +1,4 @@
-import numpy as np
+import random
 import math
 
 def factorialDecode(enc, n):
@@ -9,6 +9,16 @@ def factorialDecode(enc, n):
         enc_list.append(cor_list[x])
         cor_list.remove(cor_list[x])
     return enc_list
+
+def read_heursitics(filename: str) -> list:
+    heur = []
+    with open(filename, 'rb') as f:
+        line = f.read().strip()
+        for b in line:
+            heur.append(b-0x61)
+        return heur
+    
+optimal_table = read_heursitics("twobytwotable.txt")
 
 class Cube2:
     def __init__(self, colours=("white", "orange", "green", "red", "blue", "yellow")):
@@ -63,7 +73,8 @@ class Cube2:
         return self.movedict[""]
 
      # Converts a string of moves into a list with their individual moves
-    def qtm(self, turns: str) -> list:
+    
+    def htm(self, turns: str) -> list:
         movelist = []
         m = ""
         for t in turns:
@@ -83,7 +94,7 @@ class Cube2:
         if state is None:
             state = self.movedict[""]
         if not singlemove:
-            moves = self.qtm(scramble)
+            moves = self.htm(scramble)
         else:
             moves = [scramble]
         s = state
@@ -92,7 +103,7 @@ class Cube2:
             s = self.turn(m_,s)
         return s
 
-    # Encodes a state as an integer made of the orientation and
+    # Encodes a state as tuple of two integers representing the orientation and
     # permutation of the pieces
     def encodeState(self, scramble: str=None, state: list=None) -> str:
         if state is None:
@@ -140,7 +151,7 @@ class Cube2:
     # Inverts a sequence of moves
     def invertMoves(self, moves:str) -> str:
         invmoves = ""
-        movelist = self.qtm(moves)
+        movelist = self.htm(moves)
         for m in reversed(movelist):
             if len(m) == 1:
                 invmoves += m + "'"
@@ -158,90 +169,68 @@ class Cube2:
         for i, j in enumerate(state):
             invstate[j] = i
         return invstate
-
-
-    # Finds the optimal solution for a scramble using meet in the middle
-    def optimalSolution(self, scramble: str=None, state: list=None):
-        if state is None:
-            state = self.moveSim(scramble)
-        solvedstate = self.movedict[""]
-        solvedenc = self.encodeState(state=solvedstate)
-        solvedstates = {solvedenc:""}
-        solvedtree = {0:[""]}
-        screnc = self.encodeState(state=state)
-        scrstates = {screnc:""}
-        scrtree = {0:[""]}
-        d1,d2 = 1, 1
-        maxd = 13
-        solns = []
-        searching = True
-        while searching:
-            l1, l2 = len(solvedtree[d1-1]), len(scrtree[d2-1])
-            # Solved
-            if l1 <= l2:
-                solvedtree[d1] = []
-                for m in solvedtree[d1-1]:
-                    statem = self.moveSim(m)
-                    if d1 > 2:
-                        q = self.qtm(m)
-                    for n in self.poss_moves:
-                        if d1 == 1 or d1 == 2 and m[0] != n[0] or d1 > 2 and q[-1][0] != n[0]:
-                            s = self.moveSim(n, statem, True)
-                            e = self.encodeState(state=s)
-                            if e in scrstates:
-                                m_ = scrstates[e]
-                                soln = m_ + self.invertMoves(m+n)
-                                solns.append(soln)
-                                maxd = d1 + d2 + 1
-                            elif e not in solvedstates:
-                                solvedtree[d1].append(m+n)
-                                solvedstates[e] = m + n
-                d1 += 1
-            if d1 + d2 == maxd:
-                searching = False
-                return solns, d1+d2-2
-            # Scramble
-            else:
-                scrtree[d2] = []
-                for m in scrtree[d2-1]:
-                    statem = self.moveSim(m, state)
-                    if d2 > 2:
-                        q = self.qtm(m)
-                    for n in self.poss_moves:
-                        if d2 == 1 or d2 == 2 and m[0] != n[0] or d2 > 2 and q[-1][0] != n[0]:
-                            s = self.moveSim(n, statem, True)
-                            e = self.encodeState(state=s)
-                            if e in solvedstates:
-                                m_ = solvedstates[e]
-                                soln = m + n + self.invertMoves(m_)
-                                solns.append(soln)
-                                maxd = d1 + d2 + 1
-                            elif e not in scrstates:
-                                scrtree[d2].append(m+n)
-                                scrstates[e] = m + n
-                d2 += 1
-            if d1 + d2 == maxd:
-                searching = False
-                return solns, d1+d2-2
     
-    # Returns a scramble of a given initial length
-    def scramble(self, length: int=12):
-        s = ""
-        l = 0
-        ns = []
-        while l < length:
-            n = np.random.randint(0, 9, 1)[0]
-            m = self.poss_moves[n]
-            if l == 0:
-                s += m
-                ns.append(n)
-                l += 1
-            elif ns[l - 1] // 3 != n // 3:
-                s += m
-                ns.append(n)
-                l += 1
-        soln, _ = rc2.optimalSolution(s)
-        return self.invertMoves(soln[0])
+    # Solves a phase but using Korf style heuristics 
+    # (i.e. heuristics that are lower bounds but not necessarily exact)
+
+    def solveKorf(self, mindepth:int, scramble:str=None, state:dict=None, 
+                  findingdepth: bool=False, finalphase:bool=True, phasemoves:list=None
+                  ,phaseheuristic:list=None):
+        # finalphase: true, findingdepth: true -> iterate mindepth until found one soln
+        # finalphase: true, findingdepth: false -> return one soln at mindepth
+        # finalphase: false, findingdepth: true -> iterate mindepth until found all solns at smallest depth
+        # finalphase: false, findingdepth: false -> return all solns at mindepth
+        state = self.moveSim(scramble, state)
+        searchdepth = mindepth
+        if phaseheuristic is None:
+            phaseheuristic = optimal_table
+        if phasemoves is None:
+            phasemoves = self.poss_moves
+        state_enc = self.encodeState(state=state)
+        if finalphase and not findingdepth:
+            minmoves = phaseheuristic[state_enc]
+            if minmoves > mindepth:
+                return None, mindepth
+        
+        while findingdepth or searchdepth == mindepth:
+            all_states = {state_enc}
+            depth_moves = [""]
+            for d in range(1, searchdepth + 1):
+                statecount = 0
+                new_moves = []
+                for m in depth_moves:
+                    statem = self.moveSim(m, state)
+                    if d > 2:
+                        h = self.htm(m)
+                    for n in phasemoves:
+                        if d == 2 and m[0] == n[0]:
+                            continue
+                        elif d > 2 and h[-1][0] == n[0]:
+                            continue
+
+                        statemn = self.moveSim(n, statem, True)
+                        enc = self.encodeState(state=statemn)
+                        minmoves = phaseheuristic[enc]
+                        if minmoves == 0:
+                            if finalphase:
+                                return m+n, d
+                            if findingdepth:
+                                depth_moves = []
+                                findingdepth = False
+                                searchdepth = d
+                        # Prune states
+                        if minmoves + d > searchdepth or enc in all_states:
+                            continue
+                        all_states.add(enc)
+                        statecount += 1
+                        new_moves.append(m+n)
+                depth_moves = new_moves
+                if d == searchdepth:
+                    break
+            if not findingdepth:
+                return depth_moves, searchdepth
+            searchdepth += 1
+        return None, searchdepth
 
     def iterateStates(self) -> list:
         move_count = [0] * 3_674_160
@@ -302,11 +291,4 @@ class Cube2:
             print(f"Finished depth {d} | {statecount} | {globalstatecount}")
             d += 1
         return move_count
-
-
-if __name__ == "__main__":
-    # 1; 9; 54; 321; 1,847 0.05%; 9,992 0.27%; 50,136 1.36%; 227,536 6.19%; 
-    # 870,072 23.68%; 1,887,748 51.38%; 623,800 16.98%; 2,644 0.07%
-    # Total = 3,674,160
-    rc2 = Cube2()
-    rc2.iterateStates()
+    
