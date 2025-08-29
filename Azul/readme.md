@@ -20,8 +20,8 @@ bits | description
 and *(colour+row) mod 5* gives the column number for a given colour and row.
 
 ### Outer Tile Pool (u64)
-There are 70 unique tiles. \
-So 7 bits required for each of the 9 tile groups. \
+There are 70 unique groups of 4 tiles. \
+So 7 bits are required for each of the 9 tile groups. (7x9=63 bits) \
 Tiles are ordered by their encoding (ascending).
 
 ### Inner Tile Pool (u32)
@@ -74,4 +74,5 @@ even if there are tiles left.
 be completed without anyone taking from the middle. This case is not covered
 in the rules. If this happens then the start turn passes clockwise from the player
 who started on the previous round.  
+
 
