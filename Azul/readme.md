@@ -56,7 +56,7 @@ Colour c occupies bit c in the row.
 
 ### AzulEnvironment
 
-**score:** The score is a simple way of ranking moves. \ 
+**score:** The score is a simple way of ranking moves. 
 It priortise tiles that complete rows, add new tiles on
 columns with tiles, or have a lot of that colour.
 
@@ -74,3 +74,4 @@ even if there are tiles left.
 be completed without anyone taking from the middle. This case is not covered
 in the rules. If this happens then the start turn passes clockwise from the player
 who started on the previous round.  
+
